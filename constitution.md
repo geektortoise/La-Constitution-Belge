@@ -1170,7 +1170,9 @@ Le contingent de l’armée est voté annuellement. La loi qui le fixe, n’a de
 
 
 ***Article 184***  
-L’organisation et les attributions de la gendarmerie font l’objet d’une loi.
+L'organisation et les attributions du service de police intégré, structuré à deux niveaux, sont réglées par la loi. Les éléments essentiels du statut des membres du personnel du service de police intégré, structuré à deux niveaux, sont réglés par la loi.
+
+*Disposition transitoire :* Le Roi peut toutefois fixer et exécuter les éléments essentiels du statut des membres du personnel du service de police intégré, structuré à deux niveaux, pour autant que cet arrêté soit confirmé, quant à ces éléments, par la loi avant le 30 avril 2002.
 
 
 ***Article 185***  
