@@ -297,9 +297,12 @@ Aucun membre de l’une ou de l’autre Chambre ne peut être poursuivi ou reche
 
 
 ***Article 59***  
-Aucun membre de l’une ou de l’autre Chambre ne peut, pendant la durée de la session, être poursuivi ni arrêté en matière de répression, qu’avec l’autorisation de la Chambre dont il fait partie, sauf le cas de flagrant délit.  
-Aucune contrainte par corps ne peut être exercée contre un membre de l’une ou de l’autre Chambre durant la session qu’avec la même autorisation.  
-La détention ou la poursuite d’un membre de l’une ou de l’autre Chambre est suspendue pendant la session, et pour toute sa durée, si la Chambre le requiert.
+Sauf le cas de flagrant délit, aucun membre de l'une ou de l'autre Chambre ne peut, pendant la durée de la session, en matière répressive, être renvoyé ou cité directement devant une cour ou un tribunal, ni être arrêté, qu'avec l'autorisation de la Chambre dont il fait partie.  
+Sauf le cas de flagrant délit, les mesures contraignantes requérant l'intervention d'un juge ne peuvent être ordonnées à l'égard d'un membre de l'une ou de l'autre Chambre, pendant la durée de la session, en matière répressive, que par le premier président de la cour d'appel sur demande du juge compétent. Cette décision est communiquée au président de la Chambre concernée.  
+Toute perquisition ou saisie effectuée en vertu de l'alinéa précédent ne peut l'être qu'en présence du président de la Chambre concernée ou d'un membre désigné par lui.  
+Pendant la durée de la session, seuls les officiers du ministère public et les agents compétents peuvent intenter des poursuites en matière répressive à l'égard d'un membre de l'une ou de l'autre Chambre.  
+Le membre concerné de l'une ou de l'autre Chambre peut, à tous les stades de l'instruction, demander, pendant la durée de la session et en matière répressive, à la Chambre dont il fait partie de suspendre les poursuites. La Chambre concernée doit se prononcer à cet effet à la majorité des deux tiers des votes exprimés.  
+La détention d'un membre de l'une ou de l'autre Chambre ou sa poursuite devant une cour ou un tribunal est suspendue pendant la session si la Chambre dont il fait partie le requiert.
 
 
 ***Article 60***  
