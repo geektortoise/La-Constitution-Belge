@@ -108,9 +108,6 @@ Tous les élèves soumis à l'obligation scolaire ont droit, à charge de la Com
 
 §5. L'organisation, la reconnaissance ou le subventionnement de l'enseignement par la Communauté sont réglés par la loi ou le décret.
 
-*Disposition transitoire :* L'article 17 entre en vigueur à la même date que la loi visée à l'article 59bis, §6, alinéa 1er.  
-Pour l'application de l'article 17, §2, les Conseils de Communauté peuvent, dès la publication de l'article 59bis, §2, alinéa 1er, 2° adopter des décrets qui entrent en vigueur à la même date que la loi visée à l'article 59bis, §6, alinéa 1er.
-
 
 ***Article 18***  
 La presse est libre ; la censure ne pourra jamais être rétablie ; il ne peut être exigé de cautionnement des écrivains, éditeurs ou imprimeurs.  
@@ -417,8 +414,6 @@ Les Conseils de Communauté règlent par décret, chacun en ce qui le concerne, 
 
 §10. La loi organise la procédure tendant à prévenir et à régler les conflits entre la loi et le décret, ainsi qu'entre les décrets.
 
-*Disposition transitoire :* L'article 59bis, §2, alinéa 1er, 2° entre en vigueur à la même date que la loi visée à l'article 59bis, §6, alinéa 1er. La loi ordinaire du 9 août 1980 de réformes institutionnelles reste applicable jusqu'à l'entrée en vigueur de la loi visée à l'article 59bis, §6, alinéa 1er, en ce qu'elle concerne le financement des Communautés.
-
 
 ***Article 59ter***  
 §1er. Il y a un Conseil et un Exécutif de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.  
@@ -713,8 +708,6 @@ Cette Cour statue par voie d'arrêt sur :
 La Cour peut être saisie par toute autorité que la loi désigne, par toute personne justifiant d'un intérêt ou, à titre préjudiciel, par toute juridiction.  
 Les lois visées au premier alinéa, au deuxième alinéa, 3° et au troisième alinéa sont adoptées à la majorité prévue à l'article 1er, dernier alinéa.
 
-*Disposition transitoire :* La loi du 28 juin 1983 portant sur l'organisation, la compétence et le fonctionnement de la Cour d'arbitrage et la loi du 10 mai 1985 relative aux effets des arrêts d'annulation rendus par la Cour d'arbitrage restent applicables jusqu'à l'entrée en vigueur de la loi visée au §2, alinéa 1er, et adoptée conformément au §2, alinéa 4.
-
 
 ## Chapitre IIIter. DES INSTITUTIONS RÉGIONALES.
 
@@ -765,14 +758,6 @@ Ces organes :
 
 Les Collèges forment ensemble le Collège réuni qui fait fonction d'organe de concertation et de coordination entre les deux communautés.
 
-*Disposition transitoire :* Jusqu'à l’entrée en vigueur des lois prévues à l'article 108ter, §§2 et 3, les dispositions ci-après restent d'application :
-- §ler. Pour les cas déterminés dans la Constitution et dans la loi, les membres du conseil d'agglomération sont répartis en un groupe linguistique français et un groupe linguistique néerlandais de la manière fixée par la loi. Le collège exécutif est composé d'un nombre impair de membres. Le président excepté, il compte autant de membres du groupe linguistique français que du groupe linguistique néerlandais.  
-- §2. Sauf pour les budgets, une motion motivée, signée par les trois quarts au moins des membres d'un groupe linguistique du conseil de l'agglomération, et introduite avant le vote final en séance publique, peut déclarer que les dispositions qu'elle désigne dans un projet ou une proposition de règlement ou d'arrêté du conseil d'agglomération peuvent porter gravement atteinte aux relations entre les communautés. Dans ce cas, la procédure au sein du conseil d'agglomération est suspendue et la motion est renvoyée au collège exécutif qui, dans les trente jours, émet son avis motivé à ce sujet et amende le projet ou la proposition s'il échet. La tutelle relative au règlement ou à l'arrêté pris après cette procédure est exercée par le Roi sur proposition du Conseil des Ministres. Cette procédure ne peut être appliquée qu'une fois par les membres d'un groupe linguistique concernant un même projet ou une même proposition.  
-- §3. Dans l'agglomération, il existe une commission française de la culture et une commission néerlandaise de la culture, qui sont composées d'un même nombre de membres élus respectivement par le groupe linguistique français et par le groupe linguistique néerlandais du conseil d'agglomération. Elles ont, chacune pour sa communauté, les mêmes compétences que les autres pouvoirs organisateurs : 1° en matière préscolaire, post-scolaire et culturelle ; 2° en matière d'enseignement.  
-- §4. La commission française et la commission néerlandaise de la culture constituent ensemble les Commissions réunies.
-Les décisions des Commissions réunies ne sont adoptées que si elles obtiennent dans chaque commission la majorité des voix émises. Les Commissions réunies sont compétentes pour les matières prévues au §3 qui sont d'intérêt commun et pour la promotion de la mission nationale et internationale de l'agglomération.  
-- §5. Les commissions visées aux §§3 et 4 remplissent également les missions dont elles sont chargées par le pouvoir législatif, les conseils communautaires, le gouvernement ou les exécutifs. La loi règle l'organisation et le fonctionnement de ces commissions.
-
 
 ***Article 109***  
 La rédaction des actes de l’état civil et la tenue des registres sont exclusivement dans les attributions des autorités communales.
@@ -817,8 +802,6 @@ Chaque année, les Chambres arrêtent la loi des comptes et votent le budget.
 Toutes les recettes et dépenses de l’État doivent être portées au budget et dans les comptes.  
 Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, fixe le système de financement des Régions prévues à l'article 107quater.  
 Les organes de ces Régions déterminent, chacun pour ce qui le concerne, la destination de leurs recettes par les règles prévues à l'article 26bis.
-
-*Disposition transitoire :* La loi ordinaire du 9 août 1980 de réformes institutionnelles reste d'application jusqu'à l'entrée en vigueur de la loi visée au dernier alinéa en ce qui concerne le financement des Régions.
 
 
 ***Article 116***  
