@@ -388,7 +388,7 @@ Le Roi sanctionne et promulgue les lois.
 
 
 ***Article 70***  
-Les Chambres se réunissent de plein droit, chaque année, le deuxième mardi de novembre, à moins qu’elles n’aient été réunies antérieurement par le Roi.  
+Les Chambres se réunissent de plein droit, chaque année, le deuxième mardi d'octobre, à moins qu’elles n’aient été réunies antérieurement par le Roi.  
 Les Chambres doivent rester réunies chaque année au moins quarante jours.  
 Le Roi prononce la clôture de la session.  
 Le Roi a le droit de convoquer extraordinairement les Chambres.
