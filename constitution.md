@@ -389,7 +389,9 @@ La Chambre détermine le montant des retenues qui peuvent être faites sur l’i
 4. dix sénateurs désignés par le Conseil de la Communauté française en son sein;
 5. un sénateur désigné par le Conseil de la Communauté germanophone en son sein;
 6. six sénateurs désignés par les sénateurs visés aux 1° et 3°;
-7. quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.
+7. quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.  
+
+Lors du renouvellement intégral de leur Conseil qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3° à 5°, qui ne siègent plus dans leur Conseil, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Conseil.
 
 §2. Au moins un des sénateurs visés au §1er, 1°, 3° et 6°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.  
 Au moins six des sénateurs visés au §1er, 2° 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au §1er, 2° ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au §1er, 4° doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale.
