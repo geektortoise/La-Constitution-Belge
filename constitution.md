@@ -925,7 +925,7 @@ Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice 
 
 
 ***Article 137***  
-La loi fondamentale du 24 août 1815 est abolie, ainsi que les statuts provinciaux et locaux. Cependant, les autorités provinciales et locales conservent leurs attributions jusqu’à ce que la loi y ait autrement pourvu.
+[abrogé]
 
 
 ***Article 138***  
