@@ -635,7 +635,7 @@ Les Cours choisissent dans leur sein leurs présidents et vice-présidents.
 
 
 ***Article 100***  
-Les juges sont nommés à vie.  
+Les juges sont nommés à vie. Ils sont mis à la retraite à un âge déterminé par la loi et bénéficient de la pension prévue par la loi.  
 Aucun juge ne peut être privé de sa place ni suspendu que par un jugement.  
 Le déplacement d’un juge ne peut avoir lieu que par une nomination nouvelle et de son consentement.
 
