@@ -218,7 +218,7 @@ Cette procédure ne peut être appliquée qu une seule fois par les membres d'un
 
 
 ***Article 39***  
-Les votes sont émis à haute voix ou par assis et levé ; sur l’ensemble des lois, il est toujours voté par appel nominal et à haute voix. Les élections et présentations de candidats se font au scrutin secret.
+Les votes sont émis par assis et levé ou par appel nominal ; sur l’ensemble des lois, il est toujours voté par appel nominal. Les élections et présentations de candidats se font au scrutin secret.
 
 
 ***Article 40***  
@@ -565,7 +565,7 @@ Le Régent n’entre en fonction qu’après avoir prêté le serment prescrit p
 
 
 ***Article 84***  
-Aucun changement à la Constitution ne peut être fait pendant une régence.
+Pendant une régence, aucun changement ne peut être apporté à la Constitution en ce qui concerne les pouvoirs constitutionnels du Roi et les articles 60 à 64 et 80 à 85 de la Constitution.
 
 
 ***Article 85***  
@@ -834,7 +834,7 @@ Aucune troupe étrangère ne peut être admise au service de l’État, occuper 
 
 
 ***Article 122***  
-L’organisation d'une garde civique est éventuellement réglée par la loi.
+[abrogé]
 
 
 ***Article 123***  
@@ -892,8 +892,7 @@ Jusqu'au moment où l'Université Catholique de Louvain, en ce compris ses secti
 
 
 ***Article 133***  
-Les étrangers établis en Belgique avant le 1er janvier 1814, et qui ont continué d’y être domiciliés, sont considérés comme Belges de naissance, à la condition de déclarer que leur intention est de jouir du bénéfice de la présente disposition. La déclaration devra être faite dans les six mois, à compter du jour où la présente Constitution sera obligatoire, s’ils sont majeurs, et dans l’année qui suivra leur majorité, s’ils sont mineurs.  
-Cette déclaration aura lieu devant l’autorité provinciale à laquelle ressortit le lieu où ils ont leur domicile. Elle sera faite en personne ou par un mandataire porteur d’une procuration spéciale et authentique.
+[abrogé]
 
 
 ***Article 134***  
