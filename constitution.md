@@ -5,7 +5,8 @@
 La Belgique est divisée en provinces.  
 Ces provinces sont: Anvers, le Brabant, la Flandre occidentale, la Flandre orientale, le Hainaut, Liège, le Limbourg, le Luxembourg, Namur.  
 Il appartient à la loi de diviser, s’il y a lieu, le territoire en un plus grand nombre de provinces.  
-Les colonies, possessions d’outre-mer ou protectorats que la Belgique peut acquérir sont régis par des lois particulières. Les troupes belges destinées à leur défense ne peuvent être recrutées que par des engagements volontaires.
+Une loi peut soustraire certains territoires dont elle fixe les limites, à la division en provinces, les faire relever directement du pouvoir exécutif et les soumettre à un statut propre.  
+Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
 
 
 ***Article 2***  
@@ -14,6 +15,19 @@ Les subdivisions des provinces ne peuvent être établies que par la loi.
 
 ***Article 3***  
 Les limites de l’État, des provinces et des communes ne peuvent être changées ou rectifiées qu’en vertu d’une loi.
+
+
+***Article 3bis***  
+La Belgique comprend quatre régions linguistiques : la région de langue française, la région de langue néerlandaise, la région bilingue de Bruxelles-Capitale et la région de langue allemande.  
+Chaque commune du Royaume fait partie d'une de ces régions linguistiques.  
+Les limites des quatre régions ne peuvent être changées ou rectifiées que par une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
+
+
+# Titre Ibis. DES COMMUNAUTÉS CULTURELLES.
+
+***Article 3ter***  
+La Belgique comprend trois communautés culturelles : française, néerlandaise et allemande.  
+Chaque communauté a les attributions qui lui sont reconnues par la Constitution ou par les lois prises en vertu de celle-ci.
 
 
 # Titre II. DES BELGES ET DE LEURS DROITS.
@@ -31,6 +45,10 @@ La grande naturalisation seule assimile l’étranger au Belge, pour l’exercic
 ***Article 6***  
 Il n’y a dans l’État aucune distinction d’ordres.  
 Les Belges sont égaux devant la loi ; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
+
+
+***Article 6bis***  
+La jouissance des droits et libertés reconnus aux Belges doit être assurée sans discrimination. À cette fin, la loi et le décret garantissent notamment les droits et libertés des minorités idéologiques et philosophiques.
 
 
 ***Article 7***  
@@ -155,6 +173,10 @@ Les intérêts exclusivement communaux ou provinciaux sont réglés par les cons
 Les membres des deux Chambres représentent la nation, et non uniquement la province ou la subdivision de province qui les a nommés.
 
 
+***Article 32bis***  
+Pour les cas déterminés dans la Constitution, les membres élus de chaque Chambre sont répartis en un groupe linguistique français et un groupe linguistique néerlandais, de la manière fixée par la loi.
+
+
 ***Article 33***  
 Les séances des Chambres sont publiques.  
 Néanmoins, chaque Chambre se forme en comité secret, sur la demande de son président ou de dix membres.
@@ -181,6 +203,12 @@ Le membre de l’une des deux Chambres, nommé par le Gouvernement à toute autr
 Toute résolution est prise à la majorité absolue des suffrages, sauf ce qui sera établi par les règlements des Chambres à l’égard des élections et présentations.  
 En cas de partage des voix, la proposition mise en délibération est rejetée.  
 Aucune des deux Chambres ne peut prendre de résolution qu’autant que la majorité de ses membres se trouve réunie.
+
+
+***Article 38bis***  
+Sauf pour les budgets ainsi que pour les lois qui requièrent une majorité spéciale, une motion motivée, signée par les trois quarts au moins des membres d'un des groupes linguistiques et introduite après le dépôt du rapport et avant le vote final en séance publique, peut déclarer que les dispositions d'un projet ou d'une proposition de loi qu'elle désigne sont de nature à porter gravement atteinte aux relations entre les communautés.  
+Dans ce cas, la procédure parlementaire est suspendue et la motion est déférée au Conseil des Ministres qui, dans les trente jours, donne son avis motivé sur la motion et invite la Chambre saisie à se prononcer soit sur cet avis, soit sur le projet ou la proposition éventuellement amendés.  
+Cette procédure ne peut être appliquée qu une seule fois par les membres d'un groupe linguistique à l'égard d un même projet ou d'une même proposition de loi.
 
 
 ***Article 39***  
@@ -339,6 +367,43 @@ Les fils du Roi ou, à leur défaut, les princes belges de la branche de la fami
 Toute assemblée du Sénat qui serait tenue hors du temps de la session de la Chambre des représentants est nulle de plein droit.
 
 
+### Section III. Des Conseils culturels.
+
+***Article 59bis***  
+§1er. Il y a un conseil culturel pour la communauté culturelle française comprenant les membres du groupe linguistique français des deux Chambres et un conseil culturel pour la communauté culturelle néerlandaise comprenant les membres du groupe linguistique néerlandais des deux Chambres.  
+Une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés, détermine le mode selon lequel les conseils culturels exercent leurs attributions eu égard notamment aux articles 33, 37, 38, 39, 40, 41, 42, 43, 44, 59, 70 et 88.
+
+§2. Les conseils culturels, chacun pour ce qui le concerne, règlent par décret :
+1. les matières culturelles;  
+2. l'enseignement, à l'exclusion de ce qui a trait à la paix scolaire, à l'obligation scolaire, aux structures de l'enseignement, aux diplômes, aux subsides, aux traitements, aux normes de population scolaire;  
+3. la coopération entre les communautés culturelles ainsi que la coopération culturelle internationale.  
+Une loi adoptée à la majorité prévue au §1er, 2e alinéa, arrête les matières culturelles visées au 1° ainsi que les formes de coopération visées au 3° du présent paragraphe.
+
+§3. En outre, les conseils culturels, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur, l'emploi des langues pour :
+1. les matières administratives;  
+2. l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics;  
+3. les relations sociales entre les employeurs et leur personnel, ainsi que les actes et documents des entreprises imposés par la loi et les règlements.
+
+§4. Les décrets pris en application du §2 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou l'autre communauté culturelle.  
+Les décrets, pris en application du §3, ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, excepté en ce qui concerne :
+* les communes ou groupes de communes contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés;  
+* les services dont l'activité s'étend au-delà de la région linguistique dans laquelle ils sont établis;  
+* les institutions nationales et internationales désignées par la loi dont l'activité est commune à plus d'une communauté culturelle.
+
+§5. Le droit d'initiative appartient au Roi et aux membres des conseils culturels. Les articles 67, 69 et 129 sont applicables aux décrets.
+
+§6. La loi fixe le crédit global qui est mis à la disposition de chaque conseil culturel qui en règle l'affectation par décret. Ce crédit est établi en fonction de critères objectifs fixés par la loi. Des dotations égales sont établies dans les matières qui, par leur nature, ne se prêtent pas à des critères objectifs. La loi détermine, en fonction des mêmes règles, la quotité de ce crédit qui doit être consacrée au développement de l'une et de l'autre culture sur le territoire de Bruxelles-Capitale.
+
+§7. La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
+
+§8. La loi organise la procédure tendant à prévenir et à régler les conflits entre la loi et le décret, ainsi qu'entre les décrets.
+
+
+***Article 59ter***  
+Il y a un Conseil de la communauté culturelle allemande.  
+La loi détermine sa composition et sa compétence.
+
+
 ## Chapitre II. DU ROI ET DES MINISTRES.
 
 ### Section I. Du Roi.
@@ -469,6 +534,10 @@ En cas de vacance du trône, les Chambres, délibérant en commun, pourvoient pr
 Nul ne peut être Ministre s’il n’est Belge de naissance ou s’il n’a reçu la grande naturalisation.
 
 
+***Article 86bis***  
+Le Premier Ministre éventuellement excepté, le Conseil des Ministres compte autant de ministres d'expression française que d'expression néerlandaise.
+
+
 ***Article 87***  
 Aucun membre de la famille royale ne peut être ministre.
 
@@ -490,6 +559,15 @@ Une loi déterminera les cas de responsabilité, les peines à infliger aux mini
 
 ***Article 91***  
 Le Roi ne peut faire grâce au Ministre condamné par la Cour de cassation que sur la demande de l’une des deux Chambres.
+
+
+### Section III. Des Secrétaires d'État.
+
+***Article 91bis***  
+Le Roi nomme et révoque les secrétaires d'État.  
+Ceux-ci sont membres du Gouvernement. Ils ne font pas partie du Conseil des Ministres. Ils sont adjoints à un ministre.  
+Le Roi détermine leurs attributions et les limites dans les quelles ils peuvent recevoir le contreseing.  
+Les dispositions constitutionnelles qui concernent les ministres leur sont applicables, à l'exception des articles 79, troisième alinéa, 82 et 86bis.
 
 
 ## Chapitre III. DU POUVOIR JUDICIAIRE.
@@ -576,6 +654,14 @@ La Cour de cassation prononce sur les conflits d’attributions, d’après le m
 Les Cours et tribunaux n’appliqueront les arrêtés et règlements généraux, provinciaux et locaux, qu’autant qu’ils seront conformes aux lois.
 
 
+## Chapitre IIIter. DES INSTITUTIONS RÉGIONALES.
+
+***Article 107quater***  
+La Belgique comprend trois régions : la région wallonne, la région flamande et la région bruxelloise.  
+La loi attribue aux organes régionaux quelle crée et qui sont composés de mandataires élus, la compétence de régler les matières quelle détermine, à l'exception de celles visées aux articles 23 et 59bis, dans le ressort et selon le mode quelle établit.  
+Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
+
+
 ## Chapitre IV. DES INSTITUTIONS PROVINCIALES ET COMMUNALES.
 
 ***Article 108***  
@@ -589,6 +675,35 @@ La loi consacre l’application des principes suivants:
 6. l’intervention de l'autorité de tutelle ou du pouvoir législatif, pour empêcher que la loi ne soit violée ou l’intérêt général blessé.  
 
 Plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d'intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun,
+
+
+***Article 108bis***  
+§1er. La loi crée des agglomérations et des fédérations de communes. Elle détermine leur organisation et leur compétence en consacrant l'application des principes énoncés à l'article 108.  
+Il y a pour chaque agglomération et pour chaque fédération un conseil et un collège exécutif.  
+Le président du collège exécutif est élu par le conseil, en son sein ; son élection est ratifiée par le Roi ; la loi règle son statut.  
+Les articles 107 et 129 s'appliquent aux arrêtés et règlements des agglomérations et des fédérations de Communes.  
+Les limites des agglomérations et des fédérations de communes ne peuvent être changées ou rectifiées qu'en vertu d'une loi.
+
+§2. La loi crée l'organe au sein duquel chaque agglomération et les fédérations de communes les plus proches se concertent aux conditions et selon le mode quelle provinciales et communales fixe, pour l'examen de problèmes communs de caractère technique qui relèvent de leur compétence respective.
+
+§3. Plusieurs fédérations de communes peuvent s'entendre ou s'associer entre elles ou avec une ou plusieurs agglomérations dans les conditions et suivant le mode à déterminer par la loi pour régler et gérer en commun des objets qui relèvent de leur compétence. Il n'est pas permis à leurs conseils de délibérer en commun.
+
+
+***Article 108ter***  
+§1er. L'article 108bis s'applique à l'agglomération à laquelle appartient la capitale du Royaume, sous réserve de ce qui est prévu ci-après.
+
+§2. Pour les cas déterminés dans la Constitution et dans la loi, les membres du conseil de l'agglomération sont répartis en un groupe linguistique français et un groupe linguistique néerlandais de la manière fixée par la loi. Le collège exécutif est composé d'un nombre impair de membres. Le président excepté, il compte autant de membres du groupe linguistique français que du groupe linguistique néerlandais.
+
+§3. Sauf pour les budgets, une motion motivée, signée par les trois quarts au moins des membres d'un groupe linguistique du conseil de l'agglomération, et introduite avant le vote final en séance publique, peut déclarer que les dispositions quelle désigne dans un projet ou une proposition de règlement ou d'arrêté du conseil d'agglomération peuvent porter gravement atteinte aux relations entre les communautés. Dans ce cas, la procédure au sein du conseil d'agglomération est suspendue et la motion est renvoyée au collège exécutif qui, dans les trente jours, émet son avis motivé à ce sujet et amende le projet ou la proposition s'il écbet. La tutelle relative au règlement ou à l'arrêté pris après cette procédure est exercée par le Roi sur proposition du Conseil des Ministres. Cette procédure ne peut être appliquée qu'une fois par les membres d'un groupe linguistique concernant un même projet ou une même proposition.
+
+§4. Dans l'agglomération, il existe une commission française de la culture et une commission néerlandaise de la culture, qui sont composées d'un même nombre de membres élus respectivement par le groupe linguistique français et par le groupe linguistique néerlandais du conseil d'agglomération. Elles ont, chacune pour sa communauté culturelle, les mêmes compétences que les autres pouvoirs organisateurs :
+1. en matière pré-scolaire, post-scolaire et culturelle;  
+2. en matière d'enseignement.
+
+§5. La commission française et la commission néerlandaise de la culture constituent ensemble les Commissions réunies. Les décisions des Commissions réunies ne sont adoptées que si elles obtiennent dans chaque commission la majorité des voix émises. Les Commissions réunies sont compétentes pour les matières prévues au §4 qui sont d'intérêt commun et pour la promotion de la mission nationale et internationale de l'agglomération.
+
+§6. Les commissions visées aux §§4 et 5 remplissent également les missions dont elles sont chargées par le pouvoir législatif, les conseils culturels ou le gouvernement.
+La loi règle l'organisation et le fonctionnement de ces commissions.
 
 
 ***Article 109***  
@@ -709,7 +824,7 @@ Aucune révision de la Constitution ne peut être engagée ni poursuivie en temp
 # Titre VIII. DISPOSITIONS TRANSITOIRES.
 
 ***Article 132***  
-[abrogé]
+Jusqu'au moment où l'Université Catholique de Louvain, en ce compris ses sections auxiliaires d'enseignement moyen et technique, aura été transférée en dehors de la région de langue néerlandaise, le Conseil culturel pour la communauté culturelle française, par dérogation à l'article 59bis, §4, alinéa Ier, est compétent pour cette institution. Le régime linguistique actuellement en vigueur, tant en matière d'enseignement qu'en matière administrative, demeure d'application jusqu'au même terme.
 
 
 ***Article 133***  
