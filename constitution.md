@@ -231,7 +231,8 @@ Nul ne peut cumuler plus de trois votes.
 
 ***Article 48***  
 La constitution des collèges électoraux est, pour chaque province, réglée par la loi.  
-Le vote est obligatoire et a lieu à la commune, sauf les exceptions à déterminer par la loi.
+Les élections se font par le système de représentation proportionnelle que la loi détermine.  
+Le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions à déterminer par la loi.
 
 
 ***Article 49***  
@@ -242,8 +243,8 @@ La loi électorale fixe le nombre des députés d’après la population ; ce no
 Pour être éligible, il faut:
 1. Être Belge de naissance ou avoir reçu la grande naturalisation;  
 2. Jouir des droits civils et politiques;  
-3. Être âgé de vingt-cinq ans accomplis;  
-4. Être domicilié en Belgique.  
+3. Avoir atteint l’âge de vingt-cinq ans accomplis;  
+4. Avoir son domicile en Belgique.  
 
 Aucune autre condition d’éligibilité ne peut être requise.
 
@@ -254,8 +255,13 @@ Ils sont renouvelés par moitié tous les deux ans, d’après l’ordre des sé
 
 
 ***Article 52***  
-Chaque membre de la Chambre des représentants jouit d’une indemnité annuelle de 4.000 francs.  
-Il a droit, en outre, au libre parcours sur les lignes des chemins de fer de l’État et au parcours gratuit sur les lignes des chemins de fer concédés, du lieu de sa résidence à la ville où se tient la session.
+Chaque membre de la Chambre des représentants jouit d’une indemnité annuelle de 12.000 francs.  
+Il a droit, en outre, au libre parcours sur toutes les voies de communication exploitées ou concédées par l’État.  
+La loi détermine les moyens de transport que les représentants peuvent utiliser gratuitement en dehors des voies ci-dessus prévues.  
+Une indemnité annuelle à imputer sur la dotation destinée à couvrir les dépenses de la Chambre des représentants peut être attribuée au président de cette assemblée.  
+La Chambre détermine le montant des retenues qui peuvent être faites sur l’indemnité à titre de contribution aux caisses de retraite ou de pension qu’elle juge à propos d’instituer.
+
+*Disposition transitoire :* La disposition du premier alinéa de l'article 52 est applicable à la session 1919-1920.
 
 
 ### Section II. Du Sénat.
