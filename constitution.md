@@ -724,11 +724,17 @@ Aucun membre d'un Gouvernement de communauté ou de région ne peut être poursu
 
 
 ***Article 125***  
-Les Conseils de communauté et de région, chacun pour ce qui le concerne, ont le droit d'accuser les membres de leur Gouvernement et de les traduire devant la Cour de cassation, qui seule a le droit de les juger, chambres réunies, sauf ce qui sera statué par la loi, quant à l'exercice de l'action civile par la partie lésée et aux crimes et délits que des membres des Gouvernements de communauté et de région auraient commis hors l'exercice de leurs fonctions.  
-Une loi déterminera les cas de responsabilité, les peines à infliger aux membres des Gouvernements de Communauté et de Région et le mode de procéder contre eux, soit sur l'accusation admise par leur Conseil, soit sur la poursuite des parties lésées.  
-Les lois visées aux alinéas 1er et 2 doivent être adoptées à la majorité prévue à l'article 4, dernier alinéa.
+Les membres d'un Gouvernement de communauté ou de région sont jugés exclusivement par la cour d'appel pour les infractions qu'ils auraient commises dans l'exercice de leurs fonctions. Il en est de même des infractions qui auraient été commises par les membres d'un Gouvernement de communauté ou de région en dehors de l'exercice de leurs fonctions et pour lesquelles ils sont jugés pendant l'exercice de leurs fonctions. Le cas échéant, les articles 120 et 59 ne sont pas applicables.  
+La loi détermine le mode de procéder contre eux, tant lors des poursuites que lors du jugement.  
+La loi désigne la cour d'appel compétente, qui siège en assemblée générale, et précise la composition de celle-ci. Les arrêts de la cour d'appel sont susceptibles d'un pourvoi devant la Cour de cassation, chambres réunies, qui ne connaît pas du fond des affaires.  
+Seul le ministère public près la cour d'appel compétente peut intenter et diriger les poursuites en matière répressive à l'encontre d'un membre d'un Gouvernement de communauté ou de région.  
+Toutes réquisitions en vue du règlement de la procédure, toute citation directe devant la cour d'appel et, sauf le cas de flagrant délit, toute arrestation nécessitent l'autorisation du Conseil de communauté ou de région, chacun pour ce qui le concerne.  
+La loi détermine la procédure à suivre lorsque les articles 103 et 125 sont tous deux applicables et lorsqu'il y a double application de l'article 125.  
+Aucune grâce ne peut être faite à un membre d'un Gouvernement de communauté ou de région condamné conformément à l'alinéa premier qu'à la demande du Conseil de communauté ou de région concerné.  
+La loi détermine dans quels cas et selon quelles règles les parties lésées peuvent intenter une action civile.  
+Les lois visées dans le présent article doivent être adoptées à la majorité prévue à l'article 4, dernier alinéa.
 
-*Disposition transitoire :* Jusqu'à ce qu'il y soit pourvu par la loi visée à l'alinéa 2, les Conseils de communauté et de région auront un pouvoir discrétionnaire pour accuser un membre de leur Gouvernement, et la Cour de cassation pour le juger, dans les cas visés par les lois pénales et par application des peines quelles prévoient.
+*Disposition transitoire :* Le présent article n'est pas applicable aux faits qui ont fait l'objet d'actes d'information ni aux poursuites intentées avant l'entrée en vigueur de la loi portant exécution de celui-ci. Dans ce cas, la règle suivante est d'application : les Conseils de communauté et de région ont le droit de mettre en accusation les membres de leur Gouvernement et de les traduire devant la Cour de cassation. Cette dernière a seule le droit de les juger, chambres réunies, dans les cas visés dans les lois pénales et par application des peines quelles prévoient. La loi spéciale du 28 février 1997 portant exécution temporaire et partielle de l'article 125 de la Constitution reste d'application en la matière.
 
 
 ***Article 126***  
