@@ -255,9 +255,8 @@ Chaque Chambre détermine, par son règlement, le mode suivant lequel elle exerc
 ### Section I. De la Chambre des représentants.
 
 ***Article 47***  
-Les députés à la Chambre des représentants sont élus directement par les citoyens âgés de 21 ans accomplis, domiciliés depuis six mois au moins dans la même commune, et ne se trouvant pas dans l’un des cas d’exclusion prévus par la loi.  
-Chaque électeur n’a droit qu’à un vote.  
-Une loi pourra, dans les mêmes conditions, attribuer le droit de vote aux femmes. Cette loi devra réunir au moins les deux tiers des suffrages.  
+Les députés à la Chambre des représentants sont élus directement par les citoyens âgés de 18 ans accomplis, domiciliés depuis six mois au moins dans la même commune, et ne se trouvant pas dans l’un des cas d’exclusion prévus par la loi.  
+Chaque électeur n’a droit qu’à un vote.
 
 *Disposition transitoire :* Sont admises au droit de suffrage, concurremment avec les citoyens visés à l'article 47 de la Constitution, les femmes qui, réunissant les conditions prescrites par cet article, appartiennent à l'une des catégories énoncées dans l'article 2 de la loi du 9 mai 1919.
 
