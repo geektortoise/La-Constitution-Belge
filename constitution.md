@@ -228,7 +228,7 @@ Les arrêts et jugements sont exécutés au nom du Roi.
 Les intérêts exclusivement communaux ou provinciaux sont réglés par les conseils communaux ou provinciaux, d’après les principes établis par la Constitution.  
 La loi définit les compétences, les règles de fonctionnement et le mode d'élection des organes territoriaux intracommunaux pouvant régler des matières d'intérêt communal.  
 Ces organes territoriaux intracommunaux sont créés dans les communes de plus de 100.000 habitants à l'initiative de leur conseil communal. Leurs membres sont élus directement. En exécution d'une loi adoptée à la majorité définie à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les autres conditions et le mode suivant lesquels de tels organes territoriaux intracommunaux peuvent être créés.  
-Ce décret et la règle visée à l'article 134 ne peuvent être adoptés qu'à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Conseil concerné se trouve réunie.  
+Ce décret et la règle visée à l'article 134 ne peuvent être adoptés qu'à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Parlement concerné se trouve réunie.  
 Les matières d'intérêt communal ou provincial peuvent faire l'objet d'une consultation populaire dans la commune ou la province concernée. La loi règle les modalités et l'organisation de la consultation populaire.
 
 
@@ -389,13 +389,13 @@ La Chambre détermine le montant des retenues qui peuvent être faites sur l’i
 §1er. Sans préjudice de l'article 72, le Sénat se compose de septante et un sénateurs, dont :
 1. vingt-cinq sénateurs élus conformément à l'article 61, par le collège électoral néerlandais;
 2. quinze sénateurs élus conformément à l'article 61, par le collège électoral français;
-3. dix sénateurs désignés par le Conseil de la Communauté flamande, dénommé Conseil flamand, en son sein;
-4. dix sénateurs désignés par le Conseil de la Communauté française en son sein;
-5. un sénateur désigné par le Conseil de la Communauté germanophone en son sein;
+3. dix sénateurs désignés par le Parlement de la Communauté flamande, dénommé Parlement flamand, en son sein;
+4. dix sénateurs désignés par le Parlement de la Communauté française en son sein;
+5. un sénateur désigné par le Parlement de la Communauté germanophone en son sein;
 6. six sénateurs désignés par les sénateurs visés aux 1° et 3°;
 7. quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.  
 
-Lors du renouvellement intégral de leur Conseil qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3° à 5°, qui ne siègent plus dans leur Conseil, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Conseil.
+Lors du renouvellement intégral de leur Parlement qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3° à 5°, qui ne siègent plus dans leur Parlement, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Parlement.
 
 §2. Au moins un des sénateurs visés au §1er, 1°, 3° et 6°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.  
 Au moins six des sénateurs visés au §1er, 2° 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au §1er, 2° ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au §1er, 4° doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale.
@@ -403,14 +403,14 @@ Au moins six des sénateurs visés au §1er, 2° 4° et 7°, sont domiciliés, l
 
 ***Article 68***  
 §1er. Le nombre total des sénateurs visés à l’article 67, §1er, 1°, 2°, 3°, 4°, 6° et 7°, est réparti au sein de chaque groupe linguistique en fonction du chiffre électoral des listes obtenu à l’élection des sénateurs visés à l’article 67, §1er, 1° et 2°, suivant le système de la représentation proportionnelle que la loi détermine.  
-Pour la désignation des sénateurs visés à l'article 67, §1er, 3° et 4°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, §1er, 1° et 2°, est élu et pour autant qu'un nombre suffisant de membres élus sur ces listes siège, selon le cas, au sein du Conseil de la Communauté flamande ou du Conseil de la Communauté française.  
+Pour la désignation des sénateurs visés à l'article 67, §1er, 3° et 4°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, §1er, 1° et 2°, est élu et pour autant qu'un nombre suffisant de membres élus sur ces listes siège, selon le cas, au sein du Parlement de la Communauté flamande ou du Parlement de la Communauté française.  
 Pour la désignation des sénateurs visés à l’article 67, § 1er, 6° et 7°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l’article 67, § 1er, 1° et 2°, est élu.
 
 §2. Pour l'élection des sénateurs visés à l’article 67, §1er, 1° et 2°, le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions que la loi détermine.
 
 §3. Pour l'élection des sénateurs visés à l’article 67, §1er, 1° et 2°, la loi détermine les circonscriptions électorales et la composition des collèges électoraux ; elle détermine en outre les conditions auxquelles il faut satisfaire pour pouvoir être électeur, de même que le déroulement des opérations électorales.  
-La loi règle la désignation des sénateurs visés à l’article 67, § 1er, 3° à 5°, à l’exception des modalités désignées par une loi adoptée à la majorité prévue à l’article 4, dernier alinéa, qui sont réglées par décret par les Conseils de communauté, chacun en ce qui le concerne. Ce décret doit être adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Conseil concerné soit présente.  
-Le sénateur visé à l’article 67, § 1er, 5°, est désigné par le Conseil de la Communauté germanophone à la majorité absolue des suffrages exprimés.  
+La loi règle la désignation des sénateurs visés à l’article 67, § 1er, 3° à 5°, à l’exception des modalités désignées par une loi adoptée à la majorité prévue à l’article 4, dernier alinéa, qui sont réglées par décret par les Parlements de communauté, chacun en ce qui le concerne. Ce décret doit être adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.  
+Le sénateur visé à l’article 67, § 1er, 5°, est désigné par le Parlement de la Communauté germanophone à la majorité absolue des suffrages exprimés.  
 La loi règle la désignation des sénateurs visés à l’article 67, § 1er, 6° et 7°.
 
 
@@ -665,7 +665,7 @@ Le Roi a le droit de remettre ou de réduire les peines prononcées par les juge
 
 
 ***Article 111***  
-Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de région condamné par la Cour de cassation, que sur la demande de la Chambre des représentants ou du Conseil concerné.
+Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de région condamné par la Cour de cassation, que sur la demande de la Chambre des représentants ou du Parlement concerné.
 
 
 ***Article 112***  
@@ -687,41 +687,41 @@ Le Roi confère les ordres militaires, en observant, à cet égard, ce que la lo
 #### Sous-section I. Des Parlements de communauté et de région.
 
 ***Article 115***  
-§1er. Il y a un Conseil de la Communauté française et un Conseil de la Communauté flamande, dénommé Conseil flamand, dont la composition et le fonctionnement sont fixés par la loi, adoptée à la majorité prévue à l'article 4, dernier alinéa.  
-Il y a un Conseil de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.
+§1er. Il y a un Parlement de la Communauté française et un Parlement de la Communauté flamande, dénommé Parlement flamand, dont la composition et le fonctionnement sont fixés par la loi, adoptée à la majorité prévue à l'article 4, dernier alinéa.  
+Il y a un Parlement de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.
 
-§2. Sans préjudice de l'article 137, les organes régionaux visés à l'article 39 comprennent, pour chaque Région, un Conseil.
+§2. Sans préjudice de l'article 137, les organes régionaux visés à l'article 39 comprennent, pour chaque région, un Parlement.
 
 
 ***Article 116***  
-§1er. Les Conseils sont composés de mandataires élus.
+§1er. Les Parlements de communauté et de région sont composés de mandataires élus.
 
-§2. Chaque Conseil de Communauté est composé de membres élus directement en qualité de membre du Conseil de Communauté concerné ou en qualité de membre d’un Conseil de région.  
-Sauf en cas d'application de l'article 137, chaque Conseil de région est composé de membres élus directement en qualité de membre du Conseil de région concerné ou en qualité de membre d'un Conseil de Communauté.
+§2. Chaque Parlement de communauté est composé de membres élus directement en qualité de membre du Parlement de communauté concerné ou en qualité de membre d’un Parlement de région.  
+Sauf en cas d'application de l'article 137, chaque Parlement de région est composé de membres élus directement en qualité de membre du Parlement de région concerné ou en qualité de membre d'un Parlement de communauté.
 
 
 ***Article 117***  
-Les membres des Conseils sont élus pour une période de cinq ans. Les Conseils sont intégralement renouvelés tous les cinq ans.  
-À moins qu'une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, n'en dispose autrement, les élections pour les Conseils ont lieu le même jour et coïncident avec les élections pour le Parlement européen.
+Les membres des Parlements de communauté et de région sont élus pour une période de cinq ans. Les Parlements de communauté et de région sont intégralement renouvelés tous les cinq ans.  
+À moins qu'une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, n'en dispose autrement, les élections pour les Parlements de communauté et de région ont lieu le même jour et coïncident avec les élections pour le Parlement européen.
 
 
 ***Article 118***  
-§1er. La loi règle les élections visées à l'article 116, §2, ainsi que la composition et le fonctionnement des Conseils. Sauf pour ce qui concerne le Conseil de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
+§1er. La loi règle les élections visées à l'article 116, §2, ainsi que la composition et le fonctionnement des Parlements de communauté et de région. Sauf pour ce qui concerne le Parlement de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
-§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Conseil de la Communauté française, du Conseil de la Région wallonne et du Conseil de la Communauté flamande, qui sont réglées par ces Conseils, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas.
-Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Conseil concerné soit présente.
+§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Parlement de la Communauté française, du Parlement de la Région wallonne et du Parlement de la Communauté flamande, qui sont réglées par ces Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas.
+Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
 
 
 ***Article 118bis***  
-À l'intérieur des frontières de l'État, les membres des Conseils des communautés et des régions, mentionnées aux articles 2 et 3, ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
+À l'intérieur des frontières de l'État, les membres des Parlements des communautés et des régions, mentionnées aux articles 2 et 3, ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
 
 
 ***Article 119***  
-Le mandat de membre d'un Conseil est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, §1er, 1°, 2°, 6° et 7°.
+Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, §1er, 1°, 2°, 6° et 7°.
 
 
 ***Article 120***  
-Tout membre d'un Conseil bénéficie des immunités prévues aux articles 58 et 59.
+Tout membre d'un Parlement de communauté ou de région bénéficie des immunités prévues aux articles 58 et 59.
 
 
 #### Sous-section II. Des Gouvernements de communauté et de région
@@ -734,13 +734,13 @@ Il y a un Gouvernement de la Communauté germanophone dont la composition et le 
 
 
 ***Article 122***  
-Les membres de chaque Gouvernement de communauté ou de région sont élus par leur Conseil.
+Les membres de chaque Gouvernement de communauté ou de région sont élus par leur Parlement.
 
 
 ***Article 123***  
 §1er. La loi règle la composition et le fonctionnement des Gouvernements de communauté et de région. Sauf pour ce qui concerne le Gouvernement de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
-§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les matières relatives à la composition et au fonctionnement du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne et du Gouvernement de la Communauté flamande, qui sont réglées par leurs Conseils, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Conseil concerné soit présente.
+§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les matières relatives à la composition et au fonctionnement du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne et du Gouvernement de la Communauté flamande, qui sont réglées par leurs Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
 
 
 ***Article 124***  
@@ -752,13 +752,14 @@ Les membres d'un Gouvernement de communauté ou de région sont jugés exclusive
 La loi détermine le mode de procéder contre eux, tant lors des poursuites que lors du jugement.  
 La loi désigne la cour d'appel compétente, qui siège en assemblée générale, et précise la composition de celle-ci. Les arrêts de la cour d'appel sont susceptibles d'un pourvoi devant la Cour de cassation, chambres réunies, qui ne connaît pas du fond des affaires.  
 Seul le ministère public près la cour d'appel compétente peut intenter et diriger les poursuites en matière répressive à l'encontre d'un membre d'un Gouvernement de communauté ou de région.  
-Toutes réquisitions en vue du règlement de la procédure, toute citation directe devant la cour d'appel et, sauf le cas de flagrant délit, toute arrestation nécessitent l'autorisation du Conseil de communauté ou de région, chacun pour ce qui le concerne.  
+Toutes réquisitions en vue du règlement de la procédure, toute citation directe devant la cour d'appel et, sauf le cas de flagrant délit, toute arrestation nécessitent l'autorisation du Parlement de communauté ou de région, chacun pour ce qui le concerne.  
 La loi détermine la procédure à suivre lorsque les articles 103 et 125 sont tous deux applicables et lorsqu'il y a double application de l'article 125.  
-Aucune grâce ne peut être faite à un membre d'un Gouvernement de communauté ou de région condamné conformément à l'alinéa premier qu'à la demande du Conseil de communauté ou de région concerné.  
+Aucune grâce ne peut être faite à un membre d'un Gouvernement de communauté ou de région condamné conformément à l'alinéa 1er qu'à la demande du Parlement de communauté ou de région concerné.  
 La loi détermine dans quels cas et selon quelles règles les parties lésées peuvent intenter une action civile.  
 Les lois visées dans le présent article doivent être adoptées à la majorité prévue à l'article 4, dernier alinéa.
 
-*Disposition transitoire :* Le présent article n'est pas applicable aux faits qui ont fait l'objet d'actes d'information ni aux poursuites intentées avant l'entrée en vigueur de la loi portant exécution de celui-ci. Dans ce cas, la règle suivante est d'application : les Conseils de communauté et de région ont le droit de mettre en accusation les membres de leur Gouvernement et de les traduire devant la Cour de cassation. Cette dernière a seule le droit de les juger, chambres réunies, dans les cas visés dans les lois pénales et par application des peines quelles prévoient. La loi spéciale du 28 février 1997 portant exécution temporaire et partielle de l'article 125 de la Constitution reste d'application en la matière.
+*Disposition transitoire :* Le présent article n'est pas applicable aux faits qui ont fait l'objet d'actes d'information ni aux poursuites intentées avant l'entrée en vigueur de la loi portant exécution de celui-ci.  
+Dans ce cas, la règle suivante est d'application : les Parlements de communauté et de région ont le droit de mettre en accusation les membres de leur Gouvernement et de les traduire devant la Cour de cassation. Cette dernière a seule le droit de les juger, chambres réunies, dans les cas visés dans les lois pénales et par application des peines quelles prévoient. La loi spéciale du 28 février 1997 portant exécution temporaire et partielle de l'article 125 de la Constitution reste d'application en la matière.
 
 
 ***Article 126***  
@@ -770,7 +771,7 @@ Les dispositions constitutionnelles relatives aux membres des Gouvernements de c
 #### Sous-section I. Des compétences des communautés.
 
 ***Article 127***  
-§1er. Les Conseils de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret :
+§1er. Les Parlements de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret :
 1. les matières culturelles;  
 2. l'enseignement, à l'exception:
   * de la fixation du début et de la fin de l'obligation scolaire;  
@@ -784,7 +785,7 @@ Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, arrêt
 
 
 ***Article 128***  
-§1er. Les Conseils de la Communauté française et de la Communauté flamande règlent par décret, chacun en ce qui le concerne, règlent par décret les matières personnalisables de même qu'en ces matières la coopération entre les communautés et la coopération internationale y compris la conclusion de traités.  
+§1er. Les Parlements de la Communauté française et de la Communauté flamande règlent par décret, chacun en ce qui le concerne, les matières personnalisables, de même qu'en ces matières, la coopération entre les communautés et la coopération internationale, y compris la conclusion de traités.  
 Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération et les modalités
 de conclusion de traités.
 
@@ -792,7 +793,7 @@ de conclusion de traités.
 
 
 ***Article 129***  
-§1er. Les Conseils de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur fédéral, l'emploi des langues pour :
+§1er. Les Parlements de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur fédéral, l'emploi des langues pour :
 1. les matières administratives;  
 2. l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics;  
 3. les relations sociales entre les employeurs et leur personnel, ainsi que les actes et documents des entreprises imposés par la loi et les règlements.
@@ -804,7 +805,7 @@ de conclusion de traités.
 
 
 ***Article 130***  
-§1er. Le Conseil de la Communauté germanophone règle par décret:
+§1er. Le Parlement de la Communauté germanophone règle par décret:
 1. les matières culturelles;  
 2. les matières personnalisables;  
 3. l'enseignement, dans les limites fixées par l'article 127, §1er, alinéa 1er, 2°;  
@@ -821,7 +822,7 @@ La loi arrête les mesures en vue de prévenir toute discrimination pour des rai
 
 
 ***Article 132***  
-Le droit d'initiative appartient au Gouvernement de communauté et aux membres du Conseil de communauté.
+Le droit d'initiative appartient au Gouvernement de communauté et aux membres du Parlement de communauté.
 
 
 ***Article 133***  
@@ -842,27 +843,27 @@ Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, désig
 
 
 ***Article 136***  
-Il y a des groupes linguistiques au Conseil de la Région de Bruxelles-Capitale, et des Collèges, compétents pour les matières communautaires ; leur composition, fonctionnement, compétences et, sans préjudice de l'article 175, leur financement, sont réglés par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.  
+Il y a des groupes linguistiques au Parlement de la Région de Bruxelles-Capitale, et des Collèges, compétents pour les matières communautaires ; leur composition, fonctionnement, compétences et, sans préjudice de l'article 175, leur financement, sont réglés par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.  
 Les Collèges forment ensemble le Collège réuni, qui fait fonction d'organe de concertation et de coordination entre les deux communautés.
 
 
 ***Article 137***  
-En vue de l'application de l'article 39, le Conseil de la Communauté française et le Conseil de la Communauté flamande ainsi que leurs Gouvernements peuvent exercer les compétences respectivement de la Région wallonne et de la Région flamande, dans les conditions et selon les modalités fixées par la loi. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
+En vue de l'application de l'article 39, le Parlement de la Communauté française et le Parlement de la Communauté flamande ainsi que leurs Gouvernements peuvent exercer les compétences respectivement de la Région wallonne et de la Région flamande, dans les conditions et selon les modalités fixées par la loi. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
 
 ***Article 138***  
-Le Conseil de la Communauté française, d'une part, et le Conseil de la Région wallonne et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, d'autre part, peuvent décider d'un commun accord et chacun par décret que le Conseil et le Gouvernement de la Région wallonne dans la région de langue française et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale et son Collège dans la région bilingue de Bruxelles-Capitale exercent, en tout ou en partie, des compétences de la Communauté française.  
-Ces décrets sont adoptés à la majorité des deux tiers des suffrages exprimés au sein du Conseil de la Communauté française et à la majorité absolue des suffrages exprimés au sein du Conseil de la Région wallonne et du groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, à condition que la majorité des membres du Conseil ou du groupe linguistique concerné soit présente. Ils peuvent régler le financement des compétences qu'ils désignent, ainsi que le transfert du personnel, des biens, droits et obligations qui les concernent.  
+Le Parlement de la Communauté française, d'une part, et le Parlement de la Région wallonne et le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale, d'autre part, peuvent décider d'un commun accord et chacun par décret que le Parlement et le Gouvernement de la Région wallonne dans la région de langue française et le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale et son Collège dans la région bilingue de Bruxelles-Capitale exercent, en tout ou en partie, des compétences de la Communauté française.  
+Ces décrets sont adoptés à la majorité des deux tiers des suffrages exprimés au sein du Parlement de la Communauté française et à la majorité absolue des suffrages exprimés au sein du Parlement de la Région wallonne et du groupe linguistique français du Parlement de la Région de Bruxelles-Capitale, à condition que la majorité des membres du Parlement ou du groupe linguistique concerné soit présente. Ils peuvent régler le financement des compétences qu'ils désignent, ainsi que le transfert du personnel, des biens, droits et obligations qui les concernent.  
 Ces compétences sont exercées, selon le cas, par voie de décrets, d'arrêtés ou de règlements.
 
 
 ***Article 139***  
-Sur proposition de leurs Gouvernements respectifs, le Conseil de la Communauté germanophone et le Conseil de la Région wallonne peuvent, chacun par décrets, décider d'un commun accord que le Conseil et le Gouvernement de la Communauté germanophone exercent, dans la région de langue allemande, en tout ou en partie, des compétences de la région wallonne.  
+Sur proposition de leurs Gouvernements respectifs, le Parlement de la Communauté germanophone et le Parlement de la Région wallonne peuvent, chacun par décrets, décider d'un commun accord que le Parlement et le Gouvernement de la Communauté germanophone exercent, dans la région de langue allemande, en tout ou en partie, des compétences de la Région wallonne.  
 Ces compétences sont exercées, selon le cas, par voie de décrets, d'arrêtés ou de règlements.
 
 
 ***Article 140***  
-Le Conseil et le Gouvernement de la Communauté germanophone exercent par voie d'arrêtés et de règlements toute autre compétence qui leur est attribuée par la loi.  
+Le Parlement et le Gouvernement de la Communauté germanophone exercent par voie d'arrêtés et de règlements toute autre compétence qui leur est attribuée par la loi.  
 L'article 159 est applicable à ces arrêtés et règlements.
 
 
@@ -971,7 +972,7 @@ Sans préjudice des dispositions de l'article 152, la loi détermine la durée d
 À cette date, le premier président, le président et les présidents de section de la Cour de cassation, les premiers présidents et les présidents de chambre des cours et les présidents et vice-présidents des tribunaux sont réputés être désignés à ces fonctions pour la durée et dans les conditions déterminées par la loi et être nommés en même temps respectivement à la Cour de cassation, à la cour d'appel ou à la cour du travail et au tribunal correspondant.  
 Entre-temps, les dispositions suivantes restent d'application :  
 Les juges de paix et les juges des tribunaux sont directement nommés par le Roi.  
-Les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux et le Conseil de la Région de Bruxelles-Capitale, selon le cas.  
+Les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux et le Parlement de la Région de Bruxelles-Capitale, selon le cas.  
 Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par la Cour de cassation, l'autre alternativement par la Chambre des représentants et par le Sénat.  
 Dans ces deux cas, les candidats portés sur une liste peuvent également être portés sur l'autre.  
 Toutes les présentations sont rendues publiques, au moins quinze jours avant la nomination.  
@@ -1047,7 +1048,7 @@ La loi consacre l’application des principes suivants:
 5. la publicité des budgets et des comptes;  
 6. l’intervention de l'autorité de tutelle ou du pouvoir législatif fédéral, pour empêcher que la loi ne soit violée ou l’intérêt général blessé.  
 
-En exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Conseils de communauté ou de région.  
+En exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Parlements de communauté ou de région.  
 En exécution d'une loi adoptée à la majorité déterminée à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les conditions et le mode suivant lesquels plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun.
 
 
@@ -1079,7 +1080,7 @@ Les limites des agglomérations et des fédérations de communes ne peuvent êtr
 
 §3. Les organes visés à l'article 136 :
 1. ont, chacun pour sa communauté, les mêmes compétences que les autres pouvoirs organisateurs pour les matières culturelles, d'enseignement et personnalisables;  
-2. exercent, chacun pour sa communauté, les compétences qui leur sont déléguées par les Conseils de la Communauté française et de la Communauté flamande;  
+2. exercent, chacun pour sa communauté, les compétences qui leur sont déléguées par les Parlements de la Communauté française et de la Communauté flamande;  
 3. règlent conjointement les matières visées au 1° qui sont d'intérêt commun.  
 
 
@@ -1092,7 +1093,7 @@ Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu 
 
 §2. Le Roi conclut les traités, à l'exception de ceux qui portent sur les matières visées au §3. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment des Chambres.
 
-§3. Les Gouvernements de communauté et de région visés à l'article 121 concluent, chacun pour ce qui le concerne, les traités portant sur les matières qui relèvent de la compétence de leur Conseil. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment du Conseil.
+§3. Les Gouvernements de communauté et de région visés à l'article 121 concluent, chacun pour ce qui le concerne, les traités portant sur les matières qui relèvent de la compétence de leur Parlement. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment du Parlement.
 
 §4. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, arrête les modalités de conclusion des traités visés au §3 et des traités ne portant pas exclusivement sur les matières qui relèvent de la compétence des communautés ou des régions par ou en vertu de la Constitution.
 
@@ -1145,21 +1146,21 @@ Toutes les recettes et dépenses de l’État doivent être portées au budget e
 
 ***Article 175***  
 Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, fixe le système de financement pour la Communauté française et pour la Communauté flamande.  
-Les Conseils de la Communauté française et de la Communauté flamande règlent par décret, chacun en ce qui le concerne, l'affectation de leurs recettes.
+Les Parlements de la Communauté française et de la Communauté flamande règlent par décret, chacun en ce qui le concerne, l'affectation de leurs recettes.
 
 
 ***Article 176***  
 Une loi fixe le système de financement de la Communauté germanophone.  
-Le Conseil de la Communauté germanophone règle l'affectation des recettes par décret.
+Le Parlement de la Communauté germanophone règle l'affectation des recettes par décret.
 
 
 ***Article 177***  
 Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, fixe le système de financement des régions.  
-Les Conseils de région déterminent, chacun pour ce qui le concerne, l'affectation de leurs recettes par les règles visées à l'article 134.
+Les Parlements de région déterminent, chacun pour ce qui le concerne, l'affectation de leurs recettes par les règles visées à l'article 134.
 
 
 ***Article 178***  
-Dans les conditions et suivant les modalités déterminées par la loi adoptée à la majorité prévue à l'article 4, dernier alinéa, le Conseil de la Région de Bruxelles-Capitale transfère, par la règle visée à l'article 134, des moyens financiers à la Commission communautaire commune et aux Commissions communautaires française et flamande.
+Dans les conditions et suivant les modalités déterminées par la loi adoptée à la majorité prévue à l'article 4, dernier alinéa, le Parlement de la Région de Bruxelles-Capitale transfère, par la règle visée à l'article 134, des moyens financiers à la Commission communautaire commune et aux Commissions communautaires française et flamande.
 
 
 ***Article 179***  
@@ -1281,7 +1282,7 @@ L'article 125 est d'application pour les faits postérieurs au 8 mai 1993.
 
 # IV
 
-Les prochaines élections des Conseils, conformément aux dispositions des articles 115, §2, 116, §2, 118 et 119, à l'exclusion de l'article 117, auront lieu le même jour que les prochaines élections générales de la Chambre des représentants. Les élections suivantes des Conseils, conformément aux articles 115, §2, 116, §2, 118 et 119, auront lieu le même jour que les deuxièmes élections du Parlement européen suivant l'entrée en vigueur des articles 115, 118, 120, 121, §2, 123 et 124.
+Les prochaines élections des Parlements, conformément aux dispositions des articles 115, §2, 116, §2, 118 et 119, à l'exclusion de l'article 117, auront lieu le même jour que les prochaines élections générales de la Chambre des représentants. Les élections suivantes des Parlements, conformément aux articles 115, §2, 116, §2, 118 et 119, auront lieu le même jour que les deuxièmes élections du Parlement européen suivant l'entrée en vigueur des articles 115, 118, 120, 121, §2, 123 et 124.
 Jusqu'aux prochaines élections pour la Chambre des représentants, les articles 116 §2, 117 et 119, ne sont pas d'application.
 
 
@@ -1302,7 +1303,7 @@ S'il faut pourvoir, après le 31 décembre 1994, au remplacement d'un sénateur 
 * Les sénateurs sont élus pour quatre ans.  
 * Les ministres nont voix délibérative dans l'une ou l'autre Chambre que quand ils en sont membres. Ils ont leur entrée dans chacune des Chambres, et doivent être entendus quand ils le demandent.
 Les Chambres peuvent requérir la présence des ministres.  
-* Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de région condamné par la Cour de cassation que sur la demande de l'une des deux Chambres ou du Conseil concerné.  
+* Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de région condamné par la Cour de cassation que sur la demande de l'une des deux Chambres ou du Parlement concerné.  
 * Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par le Sénat, l'autre par la Cour de cassation.  
 * Les Chambres arrêtent, chaque année, la loi des comptes et votent le budget.  
 * La Cour des comptes soumet le compte général de l'Etat, avec ses observations, à la Chambre des représentants et au Sénat.
