@@ -908,6 +908,44 @@ Le jury est établi en toutes matières criminelles et pour délits politiques e
 
 
 ***Article 151***  
+§1er. Les juges sont indépendants dans l'exercice de leurs compétences juridictionnelles. Le ministère public est indépendant dans l'exercice des recherches et poursuites individuelles, sans préjudice du droit du ministre compétent d'ordonner des poursuites et d'arrêter des directives contraignantes de politique criminelle, y compris en matière de politique de recherche et de poursuite.
+
+§2. Il y a pour toute la Belgique un Conseil supérieur de la Justice. Dans l'exercice de ses compétences, le Conseil supérieur de la Justice respecte l'indépendance visée au §1er.  
+Le Conseil supérieur de la Justice se compose d'un collège francophone et d'un collège néerlandophone. Chaque collège comprend un nombre égal de membres et est composé paritairement, d'une part, de juges et d'officiers du ministère public élus directement par leurs pairs dans les conditions et selon le mode déterminés par la loi, et d'autre part, d'autres membres nommés par le Sénat à la majorité des deux tiers des suffrages exprimés, dans les conditions fixées par la loi.  
+Au sein de chaque collège, il y a une commission de nomination et de désignation ainsi qu'une commission d'avis et d'enquête, qui sont composées paritairement conformément à la disposition visée à l'alinéa précédent.  
+La loi précise la composition du Conseil supérieur de la Justice, de ses collèges et de leurs commissions, ainsi que les conditions dans lesquelles et le mode selon lequel ils exercent leurs compétences.
+
+§3. Le Conseil supérieur de la Justice exerce ses compétences dans les matières suivantes :
+1. la présentation des candidats à une nomination de juge, telle que visée au §4, alinéa 1er, ou d'officier du ministère public;
+2. la présentation des candidats à une désignation aux fonctions visées au §5, alinéa 1er, et aux fonctions de chef de corps auprès du ministère public;
+3. l'accès à la fonction de juge ou d'officier du ministère public;
+4. la formation des juges et des officiers du ministère public ;
+5. l'établissement de profils généraux pour les désignations visées au 2°;
+6. l'émission d'avis et de propositions concernant le fonctionnement général et l'organisation de l'ordre judiciaire;
+7. la surveillance générale et la promotion de l'utilisation des moyens de contrôle interne ;
+8. à l'exclusion de toutes compétences disciplinaires et pénales :  
+  * recevoir et s'assurer du suivi de plaintes relatives au fonctionnement de l'ordre judiciaire;  
+  * engager une enquête sur le fonctionnement de l'ordre judiciaire.  
+
+Dans les conditions et selon le mode déterminés par la loi, les compétences visées aux 1° à 4° sont attribuées à la commission de nomination et de désignation compétente
+et les compétences visées aux 5° à 8° sont attribuées à la commission d'avis et d'enquête compétente. La loi détermine les cas dans lesquels et le mode selon lequel les commissions de nomination et de désignation d'une part, et les commissions d'avis et d'enquête d'autre part, exercent leurs compétences conjointement.  
+Une loi à adopter à la majorité prévue à l'article 4, dernier alinéa, détermine les autres compétences de ce Conseil.
+
+§4. Les juges de paix, les juges des tribunaux, les conseillers des cours et de la Cour de cassation sont nommés par le Roi dans les conditions et selon le mode déterminés par la loi.  
+Cette nomination se fait sur présentation motivée de la commission de nomination et de désignation compétente, à la majorité des deux tiers conformément aux modalités déterminées par la loi et après évaluation de la compétence et de l'aptitude. Cette présentation ne peut être refusée que selon le mode déterminé par la loi et moyennant motivation.  
+Dans le cas de nomination de conseiller aux cours et à la Cour de cassation, les assemblées générales concernées de ces cours émettent un avis motivé selon le mode déterminé par la loi, préalablement à la présentation visée à l'alinéa précédent.
+
+§5. Le premier président de la Cour de cassation, les premiers présidents des cours et les présidents des tribunaux sont désignés par le Roi à ces fonctions dans les conditions et selon le mode déterminés par la loi.  
+Cette désignation se fait sur présentation motivée de la commission de nomination et de désignation compétente, à la majorité des deux tiers conformément aux modalités déterminées par la loi et après évaluation de la compétence et de l'aptitude. Cette présentation ne peut être refusée que selon le mode déterminé par la loi et moyennant motivation.  
+Dans le cas de désignation à la fonction de premier président de la Cour de cassation ou de premier président des cours, les assemblées générales concernées de ces cours émettent un avis motivé selon le mode déterminé par la loi, préalablement à la présentation visée à l'alinéa précédent.  
+Le président et les présidents de section de la Cour de cassation, les présidents de chambre des cours et les vice-présidents des tribunaux sont désignés à ces fonctions par les cours et tribunaux en leur sein, dans les conditions et selon le mode déterminés par la loi.  
+Sans préjudice des dispositions de l'article 152, la loi détermine la durée des désignations à ces fonctions.
+
+§6. Selon le mode déterminé par la loi, les juges, les titulaires des fonctions visées au §5, alinéa 4, et les officiers du ministère public sont soumis à une évaluation.
+
+*Disposition transitoire :* Les dispositions des §§3 à 6 entrent en vigueur après l'installation du Conseil supérieur de la Justice, visée au §2.  
+À cette date, le premier président, le président et les présidents de section de la Cour de cassation, les premiers présidents et les présidents de chambre des cours et les présidents et vice-présidents des tribunaux sont réputés être désignés à ces fonctions pour la durée et dans les conditions déterminées par la loi et être nommés en même temps respectivement à la Cour de cassation, à la cour d'appel ou à la cour du travail et au tribunal correspondant.  
+Entre-temps, les dispositions suivantes restent d'application :  
 Les juges de paix et les juges des tribunaux sont directement nommés par le Roi.  
 Les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux et le Conseil de la Région de Bruxelles-Capitale, selon le cas.  
 Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par la Cour de cassation, l'autre alternativement par la Chambre des représentants et par le Sénat.  
