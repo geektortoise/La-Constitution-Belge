@@ -452,13 +452,15 @@ Le Conseil règle l'affectation des ressources par décret.
 ### Section I. Du Roi.
 
 ***Article 60***  
-Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, de mâle en mâle, par ordre de primogéniture, et à l’exclusion perpétuelle des femmes et de leur descendance.  
-Sera déchu de ses droits à la couronne le prince qui se serait marié sans le consentement du Roi ou de ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution.  
+Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, par ordre de primogéniture.  
+Sera déchu de ses droits à la couronne, le descendant visé à l'alinéa 1er, qui se serait marié sans le consentement du Roi ou de ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution.  
 Toutefois, il pourra être relevé de cette déchéance par le Roi ou par ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution, et ce moyennant l’assentiment des deux Chambres.
+
+*Disposition transitoire :* Ces dispositions seront pour la première fois d'application à la descendance de S.A.R. le Prince Albert, Félix, Humbert, Théodore, Christian, Eugène, Marie, Prince de Liège, Prince de Belgique, étant entendu que le mariage de S.A.R. la Princesse Astrid, Joséphine, Charlotte, Fabrizia, Elisabeth, Paola, Marie, Princesse de Belgique, avec Lorenz, Archiduc d'Autriche-Este, est censé avoir obtenu le consentement visé à l'alinéa 2.
 
 
 ***Article 61***  
-À défaut de descendance masculine de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, le Roi pourra nommer son successeur, avec l’assentiment des Chambres, émis de la manière prescrite par l’article suivant.  
+À défaut de descendance de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, le Roi pourra nommer son successeur, avec l’assentiment des Chambres, émis de la manière prescrite par l’article suivant.  
 S’il n’y a pas eu de nomination faite d’après le mode ci-dessus, le trône sera vacant.
 
 
