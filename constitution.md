@@ -218,15 +218,11 @@ Chaque Chambre détermine, par son règlement, le mode suivant lequel elle exerc
 ### Section I. De la Chambre des représentants.
 
 ***Article 47***  
-Les députés à la Chambre des représentants sont élus directement dans les conditions ci-après: Un vote est attribué aux citoyens âgés de 25 ans accomplis, domiciliés depuis un an au moins dans la même commune, et qui ne se trouvent pas dans l’un des cas d’exclusion prévus par la loi. Un vote supplémentaire est attribué à raison de chacune des conditions suivantes:
-1. Être âgé de 35 ans accomplis, être marié, ou veuf ayant descendance légitime, et payer à l’État au moins 5 francs d’impôt du chef de la contribution personnelle sur les habitations ou bâtiments occupés, à moins qu’on n’en soit exempté à raison de sa profession;  
-2. Être âgé de 25 ans accomplis et être propriétaire: soit d’immeubles d’une valeur d’au moins 2.000 francs, à établir sur la base du revenu cadastral en rapport avec cette valeur;soit d’une inscription au grand-livre de la dette publique ou d’un carnet de rente belge à la Caisse d’épargne, d’au moins 100 francs de rente. Les inscriptions et carnets doivent appartenir au titulaire depuis deux ans au moins. La propriété de la femme est comptée au mari ; celle des enfants mineurs, au père.  
+Les députés à la Chambre des représentants sont élus directement par les citoyens âgés de 21 ans accomplis, domiciliés depuis six mois au moins dans la même commune, et ne se trouvant pas dans l’un des cas d’exclusion prévus par la loi.  
+Chaque électeur n’a droit qu’à un vote.  
+Une loi pourra, dans les mêmes conditions, attribuer le droit de vote aux femmes. Cette loi devra réunir au moins les deux tiers des suffrages.  
 
-Deux votes supplémentaires sont attribués aux citoyens âgés de 25 ans accomplis et se trouvant dans l’un des cas suivants:
-* Être porteur d’un diplôme d’enseignement supérieur ou d’un certificat homologué de fréquentation d’un cours complet d’enseignement moyen du degré supérieur, sans distinction entre les établissements publics ou privés;
-* Remplir ou avoir rempli une fonction publique, occuper ou avoir occupé une position, exercer ou avoir exercé une profession privée, qui impliquent la présomption que le titulaire possède au moins les connaissances de l’enseignement moyen du degré supérieur. La loi détermine ces fonctions, positions et professions, ainsi que, le cas échéant, le temps pendant lequel elles auront dû être occupées ou exercées.  
-
-Nul ne peut cumuler plus de trois votes.
+*Disposition transitoire :* Sont admises au droit de suffrage, concurremment avec les citoyens visés à l'article 47 de la Constitution, les femmes qui, réunissant les conditions prescrites par cet article, appartiennent à l'une des catégories énoncées dans l'article 2 de la loi du 9 mai 1919.
 
 
 ***Article 48***  
