@@ -856,18 +856,7 @@ La loi fondamentale du 24 août 1815 est abolie, ainsi que les statuts provincia
 # DISPOSITIONS SUPPLÉMENTAIRES.
 
 ***Article 139***  
-Le Congrès national déclare qu’il est nécessaire de pourvoir, par des lois séparées et dans le plus court délai possible, aux objets suivants:
-1. La presse;  
-2. L’organisation du jury;  
-3. Les finances;  
-4. L’organisation provinciale et communale;  
-5. La responsabilité des Ministres et autres agents du pouvoir;  
-6. L’organisation judiciaire;  
-7. La révision de la liste des pensions;  
-8. Les mesures propres à prévenir les abus du cumul;  
-9. La révision de la législation des faillites et des sursis;  
-10. L’organisation de l’armée, les droits d’avancement et de retraite et le Code pénal militaire;  
-11. La révision des codes.
+[abrogé]
 
 
 ***Article 140***  
