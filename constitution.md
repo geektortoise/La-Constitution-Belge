@@ -680,7 +680,7 @@ Le Roi confère les ordres militaires, en observant, à cet égard, ce que la lo
 
 ### Section I. Des organes.
 
-#### Sous-section I. Des Conseils de communauté et de région.
+#### Sous-section I. Des Parlements de communauté et de région.
 
 ***Article 115***  
 §1er. Il y a un Conseil de la Communauté française et un Conseil de la Communauté flamande, dénommé Conseil flamand, dont la composition et le fonctionnement sont fixés par la loi, adoptée à la majorité prévue à l'article 4, dernier alinéa.  
