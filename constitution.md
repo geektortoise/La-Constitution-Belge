@@ -95,8 +95,22 @@ Le mariage civil devra toujours précéder la bénédiction nuptiale, sauf les e
 
 
 ***Article 17***  
-L’enseignement est libre ; toute mesure préventive est interdite ; la répression des délits n’est réglée que par la loi.  
-L’instruction publique donnée aux frais de l’État est également réglée par la loi.
+§1er. L’enseignement est libre ; toute mesure préventive est interdite ; la répression des délits n’est réglée que par la loi ou le décret.  
+La Communauté assure le libre choix des parents.  
+La Communauté organise un enseignement qui est neutre. La neutralité implique notamment le respect des conceptions philosophiques, idéologiques ou religieuses des parents et des élèves.  
+Les écoles organisées par les pouvoirs publics offrent, jusqu'à la fin de l'obligation scolaire, le choix entre l'enseignement d'une des religions reconnues et celui de la morale non confessionnelle.
+
+§2. Si une Communauté, en tant que pouvoir organisateur, veut déléguer des compétences à un ou plusieurs organes autonomes, elle ne le pourra que par décret adopté à la majorité des deux tiers.
+
+§3. Chacun a droit à l'enseignement dans le respect des libertés et droits fondamentaux. L'accès à l'enseignement est gratuit jusqu'à la fin de l'obligation scolaire.  
+Tous les élèves soumis à l'obligation scolaire ont droit, à charge de la Communauté, à une éducation morale ou religieuse.
+
+§4. Tous les élèves ou étudiants, parents, membres du personnel et établissements d'enseignement sont égaux devant la loi ou le décret. La loi et le décret prennent en compte les différences objectives, notamment les caractéristiques propres à chaque pouvoir organisateur, qui justifient un traitement approprié.
+
+§5. L'organisation, la reconnaissance ou le subventionnement de l'enseignement par la Communauté sont réglés par la loi ou le décret.
+
+*Disposition transitoire :* L'article 17 entre en vigueur à la même date que la loi visée à l'article 59bis, §6, alinéa 1er.  
+Pour l'application de l'article 17, §2, les Conseils de Communauté peuvent, dès la publication de l'article 59bis, §2, alinéa 1er, 2° adopter des décrets qui entrent en vigueur à la même date que la loi visée à l'article 59bis, §6, alinéa 1er.
 
 
 ***Article 18***  
@@ -368,13 +382,18 @@ Les lois visées aux alinéas précédents doivent être adoptées à la majorit
 
 §2. Les Conseils de Communauté, chacun pour ce qui le concerne, règlent par décret :
 1. les matières culturelles;  
-2. l'enseignement, à l'exclusion de ce qui a trait à la paix scolaire, à l'obligation scolaire, aux structures de l'enseignement, aux diplômes, aux subsides, aux traitements, aux normes de population scolaire;  
-3. la coopération entre les communautés ainsi que la coopération culturelle internationale.  
+2. l'enseignement, à l'exception:
+  * de la fixation du début et de la fin de l'obligation scolaire;  
+  * des conditions minimales pour la délivrance des diplômes;  
+  * du régime des pensions;
+3. la coopération entre les communautés ainsi que la coopération culturelle internationale, y compris la conclusion de traités, pour les matières visées au 1° et 2° du présent paragraphe.  
 
-Une loi adoptée à la majorité prévue au §1er, 2e alinéa, arrête les matières culturelles visées au 1° ainsi que les formes de coopération visées au 3° du présent paragraphe.
+Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête les matières culturelles visées au 1°, les formes de coopération visées au 3° ainsi que
+les modalités de conclusion de traités, visée au 3° du présent paragraphe.
 
-§3. Les Conseils de communauté, chacun pour ce qui le concerne, règlent par décret les matières personnalisables de même que la coopération entre les communautés ainsi que la coopération internationale en ces matières.  
-Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération.
+§3. Les Conseils de communauté règlent par décret, chacun en ce qui le concerne, règlent par décret les matières personnalisables de même qu'en ces matières la coopération entre les communautés et la coopération internationale y compris la conclusion de traités.  
+Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération et les modalités
+de conclusion de traités.
 
 §4. En outre, les conseils de communauté, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur, l'emploi des langues pour :
 1. les matières administratives;  
@@ -383,19 +402,23 @@ Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arr�
 
 §5. Les décrets pris en application du §2 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou l'autre communauté.  
 Les décrets, pris en application du §3, ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, excepté en ce qui concerne :
-* les communes ou groupes de communes contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés;  
+* les communes ou groupes de communes contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés. Pour ces communes, une modification aux règles sur l'emploi des langues dans les matières visées au §3 ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa;  
 * les services dont l'activité s'étend au-delà de la région linguistique dans laquelle ils sont établis;  
 * les institutions nationales et internationales désignées par la loi dont l'activité est commune à plus d'une communauté.
 
-§6. Les décrets pris en application du §2bis ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi que, sauf si une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, en dispose autrement, à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leur organisation, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre communauté.
+§6. Les décrets pris en application du §2bis ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi que, sauf si une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, en dispose autrement, à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leur organisation, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre communauté.  
+Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, désigne les autorités qui, pour la région bilingue de Bruxelles-Capitale, exercent les compétences non dévolues aux Communautés dans les matières visées au §2bis.
 
 §7. Le droit d'initiative appartient à l'Exécutif et aux membres du Conseil.
 
-§8. La loi fixe le crédit global qui est mis à la disposition de chaque Conseil de communauté qui en règle l'affectation par décret. Ce crédit est établi en fonction de critères objectifs fixés par la loi. Des dotations égales sont établies dans les matières qui, par leur nature, ne se prêtent pas à des critères objectifs. La loi détermine, en fonction des mêmes règles, la quotité de ce crédit qui doit être consacrée au développement de l'une et de l'autre Communauté sur le territoire de Bruxelles-Capitale.
+§8. Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, fixe le système de financement des Communautés.  
+Les Conseils de Communauté règlent par décret, chacun en ce qui le concerne, l'affectation de leurs recettes.
 
 §9. La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
 
 §10. La loi organise la procédure tendant à prévenir et à régler les conflits entre la loi et le décret, ainsi qu'entre les décrets.
+
+*Disposition transitoire :* L'article 59bis, §2, alinéa 1er, 2° entre en vigueur à la même date que la loi visée à l'article 59bis, §6, alinéa 1er. La loi ordinaire du 9 août 1980 de réformes institutionnelles reste applicable jusqu'à l'entrée en vigueur de la loi visée à l'article 59bis, §6, alinéa 1er, en ce qu'elle concerne le financement des Communautés.
 
 
 ***Article 59ter***  
@@ -681,9 +704,15 @@ Les Cours et tribunaux n’appliqueront les arrêtés et règlements généraux,
 §1er. La loi organise la procédure tendant à prévenir les conflits entre la loi, le décret et les règles visées à l'article 26bis, ainsi qu'entre les décrets entre eux et entre les règles visées à l'article 26bis entre elles.
 
 §2. Il y a, pour toute la Belgique, une Cour d'arbitrage, dont la composition, la compétence et le fonctionnement sont déterminés par la loi.  
-Cette Cour règle les conflits visés au §1er.
+Cette Cour statue par voie d'arrêt sur :
+1. les conflits visés au § 1;  
+2. la violation par une loi, un décret ou une règle visée à l'article 26bis, des articles 6, 6bis et 17;  
+3. la violation par une loi, un décret ou une règle visée à l'article 26bis, des articles de la Constitution que la loi détermine.  
 
-*Disposition transitoire :* L'article 107ter entre en vigueur dans les six mois qui suivront sa promulgation. La loi organise, à titre transitoire une procédure tendant à prévenir et à régler les conflits entre la loi et le décret ainsi qu'entre les décrets.
+La Cour peut être saisie par toute autorité que la loi désigne, par toute personne justifiant d'un intérêt ou, à titre préjudiciel, par toute juridiction.  
+Les lois visées au premier alinéa, au deuxième alinéa, 3° et au troisième alinéa sont adoptées à la majorité prévue à l'article 1er, dernier alinéa.
+
+*Disposition transitoire :* La loi du 28 juin 1983 portant sur l'organisation, la compétence et le fonctionnement de la Cour d'arbitrage et la loi du 10 mai 1985 relative aux effets des arrêts d'annulation rendus par la Cour d'arbitrage restent applicables jusqu'à l'entrée en vigueur de la loi visée au §2, alinéa 1er, et adoptée conformément au §2, alinéa 4.
 
 
 ## Chapitre IIIter. DES INSTITUTIONS RÉGIONALES.
