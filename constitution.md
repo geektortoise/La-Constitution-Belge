@@ -125,8 +125,7 @@ Le pouvoir législatif s’exerce collectivement par le Roi, la Chambre des repr
 
 
 ***Article 27***  
-L’initiative appartient à chacune des trois branches du pouvoir législatif.  
-Néanmoins, toute loi relative aux recettes ou aux dépenses de l’État, ou au contingent de l’armée, doit d’abord être votée par la Chambre des représentants.
+L’initiative appartient à chacune des trois branches du pouvoir législatif.
 
 
 ***Article 28***  
@@ -247,7 +246,7 @@ Aucune autre condition d’éligibilité ne peut être requise.
 
 ***Article 51***  
 Les membres de la Chambre des représentants sont élus pour quatre ans.  
-Ils sont renouvelés par moitié tous les deux ans, d’après l’ordre des séries déterminé par la loi électorale. En cas de dissolution, la Chambre est renouvelée intégralement.
+La Chambre est renouvelée tous les quatre ans.
 
 
 ***Article 52***  
@@ -267,34 +266,66 @@ Le Sénat se compose:
 1. De membres élus, à raison de la population de chaque province, conformément à l’article 47 ; toutefois, la loi peut exiger que les électeurs soient âgés de trente ans accomplis. Les dispositions de l’article 48 sont applicables à l’élection de ces sénateurs;  
 2. De membres élus par les Conseils provinciaux, au nombre de deux par province ayant moins de 500.000 habitants, de trois par province ayant de 500.000 à 1 million d’habitants et de quatre par province ayant plus de 1 million d’habitants.
 
+*Disposition transitoire :* Les femmes admises au droit de suffrage pour la Chambre des représentants, concurremment avec les citoyens visés à l'article 47 de la Constitution, sont admises également à participer à l'élection des membres du Sénat visés au 1° de l'article 53.
+
 
 ***Article 54***  
 Le nombre des sénateurs élus directement par le corps électoral est égal à la moitié du nombre des membres de la Chambre des représentants.
 
 
 ***Article 55***  
-Les sénateurs sont élus pour huit ans ; ils sont renouvelés par moitié tous les quatre ans, d’après l’ordre des séries déterminé par la loi électorale.  
+Les sénateurs sont élus pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.  
 En cas de dissolution, le Sénat est renouvelé intégralement.
 
 
 ***Article 56***  
-Pour pouvoir être élu et rester sénateur, il faut:
+Pour être élu sénateur, il faut:
 1. Être Belge de naissance ou avoir reçu la grande naturalisation;  
 2. Jouir des droits civils et politiques;  
 3. Être domicilié en Belgique;  
-4. Être âgé au moins de quarante ans;  
-5. Verser au trésor de l’État au moins 1.200 francs d’impositions directes, patentes comprises. Ou être soit propriétaire, soit usufruitier d’immeubles situés en Belgique dont le revenu cadastral s’élève au moins à 12.000 francs.  
-
-Dans les provinces où le nombre de ces éligibles n’atteint pas la proportion de 1 sur 5.000 habitants, la liste est complétée par les plus imposés de la province jusqu’à concurrence de cette proportion. Les citoyens portés sur la liste complémentaire ne sont éligibles que dans la province où ils sont domiciliés.
+4. Être âgé au moins de quarante ans.
 
 
 ***Article 56bis***  
-Les sénateurs élus par les conseils provinciaux sont dispensés de toute condition de cens ; ils ne peuvent appartenir à l’assemblée qui les élit, ni en avoir fait partie pendant l’année de l’élection ou pendant les deux années antérieures.
+Pour pouvoir être élu sénateur par application du n° 1° de l’article 53, il faut, en outre, appartenir à l’une des catégories suivantes:
+1. Les Ministres, anciens Ministres et Ministres d’État;  
+2. Les membres et anciens membres de la Chambre des représentants et du Sénat;  
+3. Les porteurs d’un diplôme de fin d’études délivré par un des établissements d’enseignement supérieur dont la loi détermine la liste;  
+4. Les anciens officiers supérieurs de l’armée et de la marine;  
+5. Les membres et anciens membres titulaires des tribunaux de commerce ayant été investis d’au moins deux mandats;  
+6. Ceux qui ont exercé, au moins pendant dix ans, les fonctions de ministre d’un des cultes dont les membres jouissent d’un traitement à charge de l’État;  
+7. Les membres titulaires et les anciens membres titulaires d’une des académies royales et les professeurs et anciens professeurs d’un des établissements d’enseignement supérieur dont la loi détermine la liste;  
+8. Les anciens gouverneurs de province ; les membres et anciens membres des députations permanentes ; les anciens commissaires d’arrondissement;  
+9. Les membres et anciens membres de conseils provinciaux ayant été investis d’au moins deux mandats;  
+10. Les bourgmestres et anciens bourgmestres, échevins et anciens échevins de communes chefs-lieux d’arrondissement et de celles ayant plus de 4.000 habitants;  
+11. Les anciens gouverneurs généraux et anciens vice-gouverneurs généraux du Congo belge, les membres et anciens membres du Conseil colonial;  
+12. Les anciens directeurs généraux, les anciens directeurs et les anciens inspecteurs généraux des divers ministères;  
+13. Les propriétaires et usufruitiers de biens immeubles situés en Belgique dont le revenu cadastral s’élève au moins à 12.000 francs ; les contribuables payant annuellement au trésor de l’État au moins 3.000 francs d’impôts directs;  
+14. Ceux qui, en qualité d’administrateur délégué, directeur ou à un titre analogue, ont été placés pendant cinq ans à la tête de la gestion journalière d’une société commerciale belge par actions, dont le capital est libéré à concurrence d’au moins un million de francs;  
+15. Les chefs d’entreprises industrielles occupant, d’une façon permanente, au moins 100 ouvriers et des entreprises agricoles comprenant au moins 50 hectares;  
+16. Ceux qui, en qualité de directeur gérant ou à un titre analogue, ont été placés, pendant trois ans, à la tête de la gestion journalière d’une société coopérative belge comptant, depuis cinq ans, au moins 500 membres;  
+17. Ceux qui, en qualité de membres effectifs, ont exercé, pendant cinq ans, les fonctions de président ou de secrétaire d’une mutualité ou d’une fédération mutualiste comptant, depuis cinq ans, au moins 1.000 membres;  
+18. Ceux qui, en qualité de membres effectifs, ont exercé, pendant cinq ans, les fonctions de président ou de secrétaire d’une association professionnelle, industrielle ou agricole comprenant, depuis cinq ans, au moins 500 membres;  
+19. Ceux qui, pendant cinq ans, ont exercé les fonctions de président d’une chambre de commerce ou d’industrie comprenant, depuis cinq ans, au moins 300 membres;  
+20. Les membres des conseils de l’industrie et du travail, des commissions provinciales d’agriculture, des conseils de prud’hommes, ayant été investis d’au moins deux mandats;  
+21. Les membres élus d’un des conseils consultatifs institués auprès des départements ministériels.
+
+*Disposition transitoire :* Le terme de cinq ans des catégories 14° 17°, 18° et 19° et celui de trois ans de la 16e catégorie sont ramenés à deux ans pour la première application de ces dispositions.
+
+
+***Article 56ter***  
+Les sénateurs élus par les conseils provinciaux ne peuvent appartenir à l’assemblée qui les élit, ni en avoir fait partie pendant l’année de l’élection ou pendant les deux années antérieures.
+
+
+***Article 56quater***  
+En cas de dissolution du Sénat, le Roi peut dissoudre les Conseils provinciaux. L’acte de dissolution contient convocation des électeurs provinciaux dans les quarante jours et des Conseils provinciaux dans les deux mois.
 
 
 ***Article 57***  
-Les sénateurs ne reçoivent ni traitement ni indemnité.
-
+Les sénateurs ne reçoivent pas de traitement.  
+Ils ont droit, toutefois, à être indemnisés de leurs débours ; cette indemnité est fixée à quatre mille francs par an.  
+Ils ont droit, en outre, au libre parcours sur toutes les voies de communication exploitées ou concédées par 1'État.  
+La loi détermine les moyens de transport qu'ils peuvent utiliser gratuitement en dehors des voies ci-dessus prévues.
 
 ***Article 58***  
 Les fils du Roi ou, à leur défaut, les princes belges de la branche de la famille royale appelée à régner, sont de droit sénateurs à l’âge de dix-huit ans. Ils n’ont voix délibérative qu’à l’âge de vingt-cinq ans.
