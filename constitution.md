@@ -144,7 +144,7 @@ L’emploi des langues usitées en Belgique est facultatif ; il ne peut être r�
 
 
 ***Article 24***  
-Nulle autorisation préalable n’est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des ministres.
+Nulle autorisation préalable n’est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des ministres et des membres des gouvernements de Communauté et de Région.
 
 
 ***Article 24ter***  
