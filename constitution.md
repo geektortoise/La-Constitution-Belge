@@ -1,12 +1,18 @@
 
-# Titre I. DU TERRITOIRE ET DE SES DIVISIONS.
+# Titre I. DE LA BELGIQUE FÉDÉRALE, DE SES COMPOSANTES ET DE SON TERRITOIRE.
 
 ***Article 1***  
-La Belgique est divisée en provinces.  
-Ces provinces sont: Anvers, le Brabant, la Flandre occidentale, la Flandre orientale, le Hainaut, Liège, le Limbourg, le Luxembourg, Namur.  
-Il appartient à la loi de diviser, s’il y a lieu, le territoire en un plus grand nombre de provinces.  
-Une loi peut soustraire certains territoires dont elle fixe les limites, à la division en provinces, les faire relever directement du pouvoir exécutif et les soumettre à un statut propre.  
-Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
+La Belgique est un État fédéral qui se compose des communautés et des régions.  
+La Région wallonne comprend les provinces suivantes : le Brabant wallon, le Hainaut, Liège, le Luxembourg et Namur. La Région flamande comprend les provinces suivantes : Anvers, le Brabant flamand, la Flandre occidentale, la Flandre orientale et le Limbourg.  
+Les compétences exercées dans les Régions wallonne et flamande par des organes provinciaux élus sont exercées, dans la région bilingue de Bruxelles-Capitale, par les Communautés française et flamande et par la Commission communautaire commune, chacune en ce qui concerne les matières relevant de leurs compétences en vertu de l'article 59bis, et en ce qui concerne les autres matières, par la Région de Bruxelles-Capitale.  
+Toutefois, une loi adoptée à la majorité prévue au dernier alinéa règle les modalités selon lesquelles la Région de Bruxelles-Capitale ou toute institution dont les membres sont désignés par celle-ci exerce les compétences visées à l'alinéa précédent qui ne relèvent pas des matières visées à l'article 107quater. Une loi adoptée à la même majorité règle l'attribution aux institutions prévues à l'article 108ter §3, de tout ou partie des compétences visées à l'alinéa précédent qui relèvent des matières visées à l'article 59bis.  
+Il appartient à la loi de diviser ; s'il y a lieu, le territoire en un plus grand nombre de provinces.  
+
+*Disposition transitoire :*
+La prochaine élection des conseils provinciaux coïncidera avec les prochaines élections communales et aura ieu le deuxième dimanche d'octobre 1994. Pour autant que la loi visée à l'avant dernier alinéa de la présente disposition transitoire soit entrée en vigueur, les électeurs seront convoqués ce même dimanche pour l'élection des conseils provinciaux du Brabant wallon et du Brabant flamand.  
+Jusqu'au 31 décembre 1994, les provinces sont : Anvers, le Brabant, la Flandre occidentale, a Flandre orientale, le Hainaut, Liège, le Limbourg, le Luxembourg et Namur.  
+Les membres du personnel et le patrimoine de la province de Brabant seront répartis entre la province du Brabant flamand, la province du Brabant wallon, la Région de Bruxelles-Capitale, les autorités et institutions visées aux articles 59bis, §4bis, alinéa 2, et 108ter, §3, ainsi que l'autorité fédérale, suivant les modalités réglées par une loi adoptée à la majorité visée à l'article 1er, dernier alinéa.  
+Après le prochain renouvellement des Conseils provinciaux et jusqu'au moment de leur répartition, le personnel et le patrimoine restés communs sont gérés conjointement par la province du Brabant flamand, la province du Brabant wallon et les autorités compétentes dans la région bilingue de Bruxelles-Capitale.
 
 
 ***Article 2***  
@@ -152,8 +158,22 @@ Ils sont exercés de la manière établie par la Constitution.
 L'exercice de pouvoirs déterminés peut être attribué par un traité ou par une loi à des institutions de droit international public.
 
 
+***Article 25ter***  
+L'autorité fédérale n'a de compétences que dans les matières que lui attribuent formellement la Constitution et les lois portées en vertu de la Constitution même.  
+Les Communautés ou les Régions, chacune pour ce qui la concerne, sont compétentes dans les autres matières, dans les conditions et selon les modalités fixées par la loi. Cette loi doit être adoptée à la majorité prévue à l'article 1er, dernier alinéa.
+
+*Disposition transitoire :* La loi visée à l'article 25ter, deuxième alinéa, détermine la date à laquelle l'article 25ter entre en vigueur. Cette date ne peut pas être antérieure à la date d'entrée en vigueur du nouvel article à insérer au titre III de la Constitution, déterminant les compétences exclusives de l'autorité fédérale.
+
+
 ***Article 26***  
-Le pouvoir législatif s’exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
+Le pouvoir législatif s’exerce collectivement par le Roi, la Chambre des représentants et le Sénat.  
+Toutefois, le pouvoir législatif s'exerce collectivement par le Roi et la Chambre des représentants pour :
+1. l'octroi des naturalisations;  
+2. les lois relatives à la responsabilité civile et pénale des ministres du Roi;  
+3. les budgets et les comptes de l'État, sans préjudice de l'article 115, premier alinéa, deuxième phrase;  
+4. la fixation du contingent de l'armée.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, le pouvoir législatif s'exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
 
 
 ***Article 26bis***  
@@ -162,7 +182,11 @@ Elles peuvent conférer à ces organes le pouvoir de prendre des décrets ayant 
 
 
 ***Article 27***  
-L’initiative appartient à chacune des trois branches du pouvoir législatif.
+Le droit d'initiative appartient à chacune des branches du pouvoir législatif fédéral.  
+Sauf pour les matières visées à l'article 77, §1er, les projets de loi soumis aux Chambres à l'initiative du Roi, sont déposés à la Chambre des représentants et transmis ensuite au Sénat.  
+Les projets de loi portant assentiment aux traités soumis aux Chambres à l'initiative du Roi, sont déposés au Sénat et transmis ensuite à la Chambre des représentants.
+
+*Disposition transitoire :* Les alinéas 2 et 3 entrent en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.
 
 
 ***Article 28***  
@@ -186,7 +210,7 @@ Les intérêts exclusivement communaux ou provinciaux sont réglés par les cons
 ## Chapitre I. DES CHAMBRES.
 
 ***Article 32***  
-Les membres des deux Chambres représentent la nation, et non uniquement la province ou la subdivision de province qui les a nommés.
+Les membres des deux Chambres représentent la nation, et non uniquement ceux qui les ont élus.
 
 
 ***Article 32bis***  
@@ -208,7 +232,10 @@ On ne peut être à la fois membre des deux Chambres.
 
 
 ***Article 36***  
-Le membre de l’une des deux Chambres, nommé par le Gouvernement à toute autre fonction salariée que celle de ministre et qui l’accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu’en vertu d’une nouvelle élection.
+Le membre de l’une des deux Chambres, nommé par le Gouvernement à toute autre fonction salariée que celle de ministre et qui l’accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu’en vertu d’une nouvelle élection.  
+Le membre de l'une des deux Chambres, nommé par le Roi en qualité de ministre et qui l'accepte, cesse de sieger et reprend son mandat lorsqu'il a été mis fin par le Roi à ses fonctions de ministre. La loi prévoit les modalités de son remplacement dans la Chambre concernée.
+
+*Disposition transitoire :* L'alinéa 2 entre en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.
 
 
 ***Article 37***  
@@ -236,7 +263,50 @@ Chaque Chambre a le droit d’enquête.
 
 
 ***Article 41***  
-Un projet de loi ne peut être adopté par l’une des Chambres qu’après avoir été voté article par article.
+§1er. Un projet de loi ne peut être adopté par une Chambre qu’après avoir été voté article par article.
+
+§2. La Chambre des représentants et le Sénat sont compétents sur un pied d'égalité pour :
+1. la déclaration de révision de la Constitution et la révision de la Constitution;  
+2. les matières qui doivent être réglées par les deux Chambres législatives en vertu de la Constitution;  
+3. les lois visées aux articles 1er, 32bis, 36, 41, 53, 57, 59bis, 59ter, 59quater, 68, §§1er, alinéa 3, 4, 5 et 7, 93, 94, 107ter, 107ter-bis, 107quater, 108bis, 108ter, 110, §2, alinéa 2, §3, alinéas 2 et 3, et §4, alinéa 2, et 115, alinéa 3, ainsi que les lois prises en exécution des lois et articles susvisés;  
+4. les lois à adopter à la majorité visée à l'article 1er, dernier alinéa, ainsi que les lois prises en exécution de celles-ci;  
+5. les lois visées à l'article 25bis;  
+6. les lois portant assentiment aux traités;  
+7. les lois adoptées conformément à l'article 68, §7, afin d'assurer le respect des obligations internationales ou supranationales;  
+8. les lois relatives au Conseil d Etat;  
+9. l'organisation des cours et tribunaux;  
+10. les lois portant approbation d'accords de coopération conclus entre l'État, les Communautés et les Régions.  
+Une loi adoptée à la majorité visée à l'article 1er, dernier alinéa, peut désigner d'autres lois pour lesquelles la Chambre des représentants et le Sénat sont compétents sur un pied d'égalité.
+
+§3. Dans les autres matières, le projet de loi adopté par la Chambre des représentants est transmis au Sénat.  
+À la demande de quinze de ses membres au moins, le Sénat examine le projet de loi. Cette demande est formulée dans les quinze jours de la réception du projet.  
+Le Sénat peut, dans un délai ne pouvant dépasser les soixante jours :
+* décider qu'il n'y a pas lieu d'amender le projet de loi;
+* adopter le projet après l'avoir amendé.  
+Si le Sénat n'a pas statué dans le délai imparti ou a fait connaître à la Chambre des représentants sa décision de ne pas amender le projet de loi, celui-ci est transmis au Roi par la Chambre des représentants.  
+Si le projet a été amendé, le Sénat le transmet à la Chambre des représentants, qui se prononce définitivement, soit en adoptant, soit en rejetant en tout ou en partie les amendements adoptés par le Sénat.  
+Si, à l'occasion de cet examen, la Chambre des représentants adopte un nouvel amendement, le projet de loi est renvoyé au Sénat qui se prononce sur le projet amendé. Le Sénat peut, dans un délai ne pouvant dépasser les quinze jours :
+* décider de se rallier au projet amendé par la Chambre des représentants;  
+* adopter le projet après l'avoir à nouveau amendé.  
+Si le Sénat n'a pas statué dans le délai imparti ou a fait connaître à la Chambre des représentants sa décision de se rallier au projet voté par la Chambre, celle-ci le transmet au Roi.  
+Si le projet a été à nouveau amendé, le Sénat le transmet à la Chambre des représentants qui se prononce définitivement, soit en adoptant, soit en amendant le projet de loi.  
+Si, lors du dépôt d'un projet de loi, le Gouvernement demande l'urgence, la commission parlementaire de concertation visée au §5 détermine les délais dans lesquels le Sénat aura à se prononcer.  
+À défaut d'accord au sein de la commission, le délai d'évocation du Sénat est ramené à sept jours et le délai d'examen visé à l'alinéa 3 à trente jours.
+
+§4. Si le Sénat, en vertu de son droit d'initiative, adopte une proposition de loi dans les matières visées au §3, le projet de loi est transmis à la Chambre des représentants.  
+Dans un délai ne pouvant dépasser les soixante jours, celle-ci se prononce définitivement, soit en rejetant, soit en adoptant le projet.  
+Si la Chambre amende le projet, celui-ci est renvoyé au Sénat qui statue selon les règles prévues aux alinéas 6, 7 et 8 du §3.  
+En cas d'application de l'alinéa 8 du §3, la Chambre statue définitivement dans les quinze jours.  
+À défaut pour la Chambre de décider dans les délais prescrits aux alinéas 2 et 4, la commission parlementaire de concertation visée au §5 se réunit dans les quinze jours et fixe le délai dans lequel la Chambre aura à se prononcer.  
+En cas de désaccord au sein de la commission, la Chambre doit se prononcer dans les soixante jours.
+
+§5. Une commission parlementaire de concertation composée paritairement de membres de la Chambre des représentants et du Sénat règle les conflits de compétences intervenant entre les deux Chambres et peut, d'un commun accord, allonger à tout moment les délais d'examen prévus aux §§3 et 4.  
+À défaut de majorité dans les deux composantes de la commission, celle-ci statue à la majorité des deux tiers de ses membres.  
+Une loi détermine la composition et le fonctionnement de la commission ainsi que le mode de calcul des délais énoncés dans les paragraphes précédents.
+
+§6. Toute proposition de loi et tout projet de loi précise s'il s'agit d'une matière visée à l'article 26, alinéa 2, ou à l'article 41, §§2, 3 ou 4.
+
+*Disposition transitoire :* Les §§2 à 6 entrent en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.
 
 
 ***Article 42***  
@@ -278,17 +348,19 @@ Le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions 
 
 
 ***Article 49***  
-§1er. La Chambre des représentants compte 212 membres.
+§1er. La Chambre des représentants compte 150 membres.
 
-§2. Chaque arrondissement électoral compte autant de sièges que le chiffre de sa population contient de fois le diviseur national, obtenu en divisant le chiffre de la population du Royaume par 212.  
-Les sièges restants sont attribués aux arrondissements ayant le plus grand excédent de population non encore représenté.
+§2. Chaque circonscription électorale compte autant de sièges que le chiffre de sa population contient de fois le diviseur national, obtenu en divisant le chiffre de la population du Royaume par cent cinquante.  
+Les sièges restants sont attribués aux circonscriptions électorales le plus grand excédent de population non encore représenté.
 
-§3. La répartition des membres de la Chambre des représentants entre les arrondissements est mise en rapport avec la population par le Roi.  
-A cet effet, un recensement de la population, dont il publie les résultats dans un délai de six mois, tous les dix ans.  
-Dans les trois mois de cette publication, il détermine le nombre de sièges attribués à chaque arrondissement.  
+§3. La répartition des membres de la Chambre des représentants entre les circonscriptions électorales est mise en rapport avec la population par le Roi.  
+Le chiffre de la population de chaque circonscription électorale est déterminé tous les dix ans par un recensement de la population ou par tout autre moyen défini par la loi. Le Roi en publie les résultats dans un délai de six mois.  
+Dans les trois mois de cette publication, il détermine le nombre de sièges attribués à chaque circonscription électorale.  
 La nouvelle répartition est appliquée à partir des élections générales suivantes.
 
-§4. La loi détermine les arrondissements électoraux ; elle détermine également les conditions requises pour être électeur et la marche des opérations électorales.
+§4. La loi détermine les circonscriptions électorales ; elle détermine également les conditions requises pour être électeur et la marche des opérations électorales.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, celle-ci compte 212 membres et le diviseur national est obtenu en divisant le chiffre de la population du Royaume par 212.
 
 
 ***Article 50***  
@@ -319,28 +391,60 @@ La Chambre détermine le montant des retenues qui peuvent être faites sur l’i
 ### Section II. Du Sénat.
 
 ***Article 53***  
-Le Sénat se compose:
-1. De membres élus, à raison de la population de chaque province, conformément à l’article 47 ; toutefois, la loi peut exiger que les électeurs soient âgés de trente ans accomplis. Les dispositions de l’article 48 sont applicables à l’élection de ces sénateurs;  
-2. De membres élus par les Conseils provinciaux, au nombre de deux par province ayant moins de 500.000 habitants, de trois par province ayant de 500.000 à 1 million d’habitants et de quatre par province ayant plus de 1 million d’habitants.
+§1er. Sans préjudice de l'article 58, le Sénat se compose de 71 sénateurs, dont :
+1. 25 sénateurs élus conformément à l'article 47, par le collège électoral néerlandais;
+2. 15 sénateurs élus conformément à l'article 47, par le collège électoral français;
+3. 10 sénateurs désignés par le Conseil flamand en son sein;
+4. 10 sénateurs désignés par le Conseil de la Communauté française en son sein;
+5. 1 sénateur désigné par le Conseil de la Communauté germanophone en son sein;
+6. 6 sénateurs désignés par les sénateurs visés aux 1° et 3°;
+7. 4 sénateurs désignés par les sénateurs visés aux 2° et 4°.
 
-*Disposition transitoire :* Les femmes admises au droit de suffrage pour la Chambre des représentants, concurremment avec les citoyens visés à l'article 47 de la Constitution, sont admises également à participer à l'élection des membres du Sénat visés au 1° de l'article 53.
+§2. Les sénateurs visés au §1er, 1° 3° et 6°, forment le groupe linguistique néerlandais du Sénat. Les sénateurs visés au §1er, 2° 4° et 7°, forment le groupe linguistique français du Sénat,
+
+§3. Au moins un des sénateurs visés au §1er, 1°, 3° et 6°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.  
+Au moins six des sénateurs visés au §1er, 2° 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au §1er, 2° ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au §1er, 4° doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale.
+
+§4. Le nombre total des sénateurs visés au § 1er, 1°, 2°, 3°, 4°, 6° et 7°, est réparti au sein de chaque groupe linguistique en fonction du chiffre électoral des listes obtenu à l'élection des sénateurs visés au § 1er, 1° et 2°, suivant le système de la représentation proportionnelle que la loi détermine.  
+Pour la désignation des sénateurs visés au §1er, 3° et 4°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé au §1er, 1° et 2°, est élu et pour autant qu'un nombre suffisant de membres élus sur ces listes siège, selon le cas, au sein du Conseil flamand ou du Conseil de la Communauté française.  
+Pour la désignation des sénateurs visés au § 1er, 6° et 7°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé au §1er 1° et 2°, est élu.  
+Le sénateur visé au §1er, 5°, est désigné par le Conseil de la Communauté germanophone à la majorité absolue des suffrages exprimés.
+
+§5. Pour l'élection des sénateurs visés au §1er, 1° et 2°, le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions que la loi détermine.
+
+§6. Pour l'élection des sénateurs visés au §1er, 1° et 2°, la loi détermine les circonscriptions électorales et la composition des collèges électoraux ; elle détermine en outre les conditions auxquelles il faut satisfaire pour pouvoir être électeur, de même que le déroulement des opérations électorales.  
+La loi règle l'élection des sénateurs visés au §1er, 3° à 5°, à l'exception des modalités désignées par une loi adoptée à la majorité visée à l'article Ier, dernier alinéa, lesquelles sont réglées par décret par les Conseils de communauté, chacun en ce qui le concerne. Ce décret doit être adopté à la majorité des deux fiers des suffrages exprimés, à condition que la majorité des membres du Conseil concerné soit présente.  
+La loi règle l'élection des sénateurs visés au §1er, 6° et 7°.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les dispositions suivantes restent d'application.
+Le Sénat se compose :
+1. de 106 membres élus, à raison de la population de chaque province, conformément à l'article 47. Les dispositions de l'article 48 sont applicables à l'élection de ces sénateurs;  
+2. de membres élus par les conseils provinciaux, dans la proportion d'un sénateur pour 200.000 habitants. Tout excédent de 125.000 habitants au moins donne droit à un sénateur de plus. Toutefois, chaque conseil provincial nomme au moins trois sénateurs. Ces membres ne peuvent pas appartenir à l'assemblée qui les élit, ni en avoir fait partie au cours des deux ans précédant le jour de leur élection;  
+3. de membres élus par le Sénat à concurrence de la moitié du nombre des sénateurs élus par les conseils provinciaux. Si ce nombre est impair, il est majoré d'une unité.
+Ces membres sont désignés par les sénateurs élus en application des 1° et 2° de la présente disposition transitoire.
+L'élection des sénateurs élus en application des 2° et 3° se fait d'après le système de la représentation proportionnelle que la loi détermine.
+S'il faut pourvoir, après le 31 décembre 1994, au remplacement d'un sénateur qui a été élu par le conseil provincial du Brabant, le Sénat élit un membre selon les conditions fixées par la loi.
 
 
 ***Article 54***  
-Le nombre des sénateurs élus directement par le corps électoral est égal à la moitié du nombre des membres de la Chambre des représentants.
+[abrogé]
 
 
 ***Article 55***  
-Les sénateurs sont élus pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.  
-En cas de dissolution, le Sénat est renouvelé intégralement.
+Les sénateurs visés à l'article 53, §1er, 1°, 2°, sont élus pour quatre ans. Les sénateurs visés à l'article 53, §1er, 6° et 7°, sont désignés pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.  
+L'élection des sénateurs visés à l'article 53, §1er, 1° et 2°, coïncide avec les élections pour la Chambre des représentants.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les sénateurs sont élus pour quatre ans.
 
 
 ***Article 56***  
-Pour être élu sénateur, il faut:
+Pour être élu ou désigné sénateur, il faut:
 1. Être Belge;  
 2. Jouir des droits civils et politiques;  
-3. Être domicilié en Belgique;  
-4. Être âgé au moins de quarante ans.
+4. Être âgé de vingt et un ans accomplis;  
+4. Être domicilié en Belgique.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, il faut, sans préjudice de l'article 56, 1°, 2° et 3° avoir atteint l'âge de 40 ans accomplis.
 
 
 ***Article 56bis***  
@@ -348,11 +452,11 @@ Pour être élu sénateur, il faut:
 
 
 ***Article 56ter***  
-Les sénateurs élus par les conseils provinciaux ne peuvent appartenir à l’assemblée qui les élit, ni en avoir fait partie pendant les deux années antérieures au jour de leur élection.
+[abrogé]
 
 
 ***Article 56quater***  
-En cas de dissolution du Sénat, le Roi peut dissoudre les Conseils provinciaux. L’acte de dissolution contient convocation des électeurs provinciaux dans les quarante jours et des Conseils provinciaux dans les deux mois.
+[abrogé]
 
 
 ***Article 57***  
@@ -362,7 +466,7 @@ Ils ont droit, en outre, au libre parcours sur toutes les voies de communication
 La loi détermine les moyens de transport qu'ils peuvent utiliser gratuitement en dehors des voies ci-dessus prévues.
 
 ***Article 58***  
-Les fils du Roi ou, à leur défaut, les princes belges de la branche de la famille royale appelée à régner, sont de droit sénateurs à l’âge de dix-huit ans. Ils n’ont voix délibérative qu’à l’âge de vingt-cinq ans.
+Les enfants du Roi ou, à leur défaut, les descendants belges de la branche de la famille royale appelée à régner, sont de droit membres du Sénat à l’âge de 18 ans. Ils n’ont voix délibérative qu’à l’âge de 21 ans. Ils ne sont pas pris en compte pour la détermination du quorum des présences.
 
 
 ***Article 59***  
@@ -442,6 +546,50 @@ Le Conseil règle l'affectation des ressources par décret.
 §7. La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
 
 
+### Section IV. Des Conseils de Communauté et de Région et de leur Gouvernement.
+
+***Article 59quater***  
+Sans préjudice de l'article 59bis, §1er, deuxième alinéa, les organes régionaux visés à l'article 107quater comprennent, pour chaque Région, un Conseil et un Gouvernement.
+
+Chaque Conseil de Communauté visé aux articles 59bis, §1er, premier alinéa, et 59ter, §1er, premier alinéa, est composé de membres élus directement en qualité de membre du Conseil de Communauté concerné ou en qualité de membre d’un Conseil régional.  
+Sauf en cas d'application de l'article 59bis, §1er, deuxième alinéa, chaque Conseil régional est composé de membres élus directement en qualité de membre du Conseil régional concerné ou en qualité de membre d'un Conseil de Communauté.
+
+Les membres des Conseils sont élus pour une période de cinq ans. Les Conseils sont intégralement renouvelés tous les cinq ans.  
+À moins qu'une loi, adoptée à la majorité prévue à l'article 1er, dernier alinéa, n'en dispose autrement, les élections pour les Conseils ont lieu le même jour et coïncident avec les élections pour le Parlement européen.
+
+La loi règle les élections visées au §2, ainsi que la composition et le fonctionnement des Conseils et de leur Gouvernement. En ce qui concerne les Conseils et les Gouvernements de Communauté visés à l'article 59bis, §1er, premier alinéa, et de Région visés à l'article 107quater, cette loi est adoptée à la majorité prévue à l'article 1er, dernier alinéa.  
+Une loi, adoptée à la majorité prévue à l'article 1er, dernier alinéa, désigne les matières relatives, d'une part, à l'élection du Conseil de la Communauté française, du Conseil de la Région wallonne et du Conseil de la Communauté flamande et, d'autre part, à la composition et au fonctionnement de ces Conseils et de leur Gouvernement, lesquelles sont réglées par ces Conseils, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 26bis, selon le cas.
+Ce décret et cette règle visée à l'article 26bis sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Conseil compétent soit présente.
+
+Le mandat de membre d'un Conseil est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 53, §1er, 1°, 2°, 6° et 7°.
+
+Tout membre d'un Conseil régional ou d'un Conseil de Communauté bénéficie des immunités prévues aux articles 44 et 45.  
+Aucun membre d'un Gouvernement régional ou de Communauté ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.
+
+Les membres de chaque Gouvernement régional ou de Communauté sont élus par leur Conseil.
+
+*Disposition transitoire :* Les prochaines élections des Conseils, conformément aux dispositions de l'article 59quater, à l'exclusion du §3, auront lieu le même jour que les prochaines élections générales de la Chambre des représentants. Les élections suivantes des Conseils, conformément à l'article 59quater, auront lieu le même jour que les deuxièmes élections du Parlement européen suivant l'entrée en vigueur de l'article 59quater, §§1er, 4 et 6.
+Jusqu'aux prochaines élections pour la Chambre des représentants, l'article 59quater §§2, 3 et 5, n'est pas d'application.
+
+
+***Article 59quinquies***  
+Le Conseil de la Communauté française, d'une part, et le Conseil régional wallon et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, d'autre part, peuvent décider de commun accord et chacun par décret que le Conseil et le Gouvernement de la Région wallonne dans la région de langue française et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale et son Collège dans la région bilingue de Bruxelles-Capitale exercent, en tout ou en partie, des compétences de la Communauté française.  
+Ces décrets sont adoptés à la majorité des deux tiers des suffrages exprimés au sein du Conseil de la Communauté française et à la majorité absolue des suffrages exprimés au sein du Conseil régional wallon et du groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, à condition que la majorité des membres du Conseil ou du groupe linguistique compétent soit présente. Ils peuvent régler le financement des compétences qu'ils désignent, ainsi que le transfert du personnel, des biens, droits et obligations qui les concernent.  
+Ces compétences sont exercées, suivant le cas, par voie de décrets, d'arrêtés ou de règlements.
+
+Dans les conditions et suivant les modalités déterminées par la loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, le Conseil de la Région de Bruxelles-Capitale transfère, par la règle visée à l'article 26bis, des moyens financiers à la Commission communautaire commune et aux Commissions communautaires française et flamande.
+
+
+***Article 59sexies***  
+Les Conseils de Communauté et de Région, chacun pour ce qui le concerne, ont le droit d'accuser les membres de leur Gouvernement et de les traduire devant la Cour de cassation, qui seule a le droit de les juger, chambres réunies, sauf ce qui sera statué par la loi, quant à l'exercice de l'action civile par la partie lésée et aux crimes et délits que des membres des Gouvernements de Communauté et de Région auraient commis hors l'exercice de leurs fonctions.  
+Une loi déterminera les cas de responsabilité, les peines à infliger aux membres des Gouvernements de Communauté et de Région et le mode de procéder contre eux, soit sur l'accusation admise par leur Conseil, soit sur la poursuite des parties lésées.  
+Les lois visées aux alinéas précédents doivent être adoptées à la majorité prévue à l'article 1er, dernier alinéa.
+
+
+***Article 59septies***  
+Les dispositions constitutionnelles relatives aux membres des Gouvernements de Communauté et de Région, ainsi que les lois d'application visées à l'article 59sexies, dernier alinéa, s'appliquent aux secrétaires d'Etat régionaux.
+
+
 ## Chapitre II. DU ROI ET DES MINISTRES.
 
 ### Section I. Du Roi.
@@ -473,7 +621,10 @@ Aucun acte du Roi ne peut avoir d’effet, s’il n’est contresigné par un mi
 
 
 ***Article 65***  
-Le Roi nomme et révoque ses ministres.
+Le Roi nomme et révoque ses ministres.  
+Le Conseil des Ministres compte quinze membres au plus. Le Gouvernement remet sa démission au Roi si la Chambre des représentants, à la majorité absolue de ses membres, adopte une motion de méfiance proposant au Roi la nomination d'un successeur au Premier Ministre, ou propose au Roi la nomination d'un successeur au Premier Ministre dans les trois jours du rejet d'une motion de confiance. Le Roi nomme Premier Ministre le successeur proposé, qui entre en fonction au moment où le nouveau Gouvernement prête serment.
+
+*Disposition transitoire :* L'alinéa 2 entre en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.
 
 
 ***Article 66***  
@@ -487,9 +638,25 @@ Il fait les règlements et arrêtés nécessaires pour l’exécution des lois, 
 
 
 ***Article 68***  
-Le Roi commande les forces de terre et de mer, déclare la guerre, fait les traités de paix, d’alliance et de commerce. Il en donne connaissance aux Chambres aussitôt que l’intérêt et la sûreté de l’État le permettent, en y joignant les communications convenables.  
-Les traités de commerce et ceux qui pourraient grever l’État ou lier individuellement des Belges n’ont d’effet qu’après avoir reçu l’assentiment des Chambres.  
-Nulle cession, nul échange, nulle adjonction de territoire ne peut avoir lieu qu’en vertu d’une loi. Dans aucun cas, les articles secrets d’un traité ne peuvent être destructifs des articles patents.
+§1er. Le Roi dirige les relations internationales, sans préjudice de la compétence des Communautés et des Régions de régler la coopération internationale, y compris la conclusion des traités, pour les matières qui relèvent de leurs compétences par ou en vertu de la Constitution.  
+Il commande les forces armées, et constate l'état de guerre ainsi que la fin des hostilités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'État le permettent, en y joignant les communications convenables.  
+Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu qu'en vertu d'une loi.
+
+§2. Le Roi conclut les traités, à l'exception de ceux qui portent sur les matières visées au §3. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment des Chambres.
+
+§3. Les Exécutifs créés conformément aux articles 59bis, §1er, alinéa 1er, 59ter, §1er, alinéa 1er, et 107quater concluent, chacun pour ce qui le concerne, les traités portant sur les matières qui relèvent de la compétence de leur Conseil. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment du Conseil.
+
+§4. Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête les modalités de conclusion des traités visés au §3 et des traités ne portant pas exclusivement sur les matières qui relèvent de la compétence des Communautés ou des Régions par ou en vertu de la Constitution.
+
+§5. Le Roi peut dénoncer les traités conclus avant l'entrée en vigueur du présent article et portant sur les matières visées au §3, de commun accord avec les Exécutifs concernés.  
+Il dénonce ces traités si les Exécutifs concernés l'y invitent. Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, règle la procédure en cas de désaccord entre les Exécutifs concernés.
+
+§6. Dès l'ouverture de négociations en vue de toute révision des Traités instituant les Communautés européennes et des traités et actes qui les ont modifiés ou complétés, les Chambres en sont informées. Elles ont connaissance du projet de traité avant sa signature.
+
+§7. Afin de garantir le respect des obligations internationales ou supranationales, les pouvoirs visés aux articles 26 et 29 peuvent, moyennant le respect des conditions fixées par la loi, se substituer temporairement aux organes visés aux articles 59bis, §1er, 59ter §1er et 107quater.  
+La loi visée à l'alinéa précédent doit être adoptée à la majorité prévue à l'article 1er, dernier alinéa.
+
+*Disposition transitoire :* Jusqu'à l'entrée en vigueur des lois prévues à l'article 68, §§4 et 7 les dispositions suivantes restent d'application : Le Roi commande les forces de terre et de mer, déclare la guerre, fait les traités de paix, d'alliance et de commerce. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent, en y joignant les communications convenables. Les traités de commerce et ceux qui pourraient grever l'Etat ou lier individuellement des Belges, n'ont d'effet qu'après avoir reçu l'assentiment des Chambres. Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu qu'en vertu d'une loi. Dans aucun cas, les articles secrets d'un traité ne peuvent être destructifs des articles patents.
 
 
 ***Article 69***  
@@ -504,7 +671,15 @@ Le Roi a le droit de convoquer extraordinairement les Chambres.
 
 
 ***Article 71***  
-Le Roi a le droit de dissoudre les Chambres, soit simultanément, soit séparément. L’acte de dissolution contient convocation des électeurs dans les quarante jours, et des Chambres dans les deux mois.
+Le Roi n'a le droit de dissoudre la Chambre des représentants que si celle-ci, à la majorité absolue de ses membres :
+1. soit rejette une motion de confiance au Gouvernement et ne propose pas au Roi, dans un délai de trois jours, à compter du jour du rejet de la motion, la nomination d'un successeur au Premier Ministre;  
+2. soit adopte une motion de méfiance à l'égard du Gouvernement et ne propose pas simultanément au Roi la nomination d'un successeur au Premier Ministre.  
+Les motions de confiance et de méfiance ne peuvent être votées qu'après un délai de quarante-huit heures suivant le dépôt de la motion.  
+En outre, le Roi peut, en cas de démission du Gouvernement, dissoudre la Chambre des représentants après avoir reçu son assentiment exprimé à la majorité absolue de ses membres.  
+La dissolution de la Chambre des représentants entraîne la dissolution du Sénat.  
+L'acte de dissolution contient convocation des électeurs dans les quarante jours et des Chambres dans les deux mois.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, le Roi a le droit de dissoudre les Chambres simultanément et l'acte de dissolution contient convocation des électeurs dans les quarante jours et des Chambres dans les deux mois.
 
 
 ***Article 72***  
@@ -512,7 +687,7 @@ Le Roi peut ajourner les Chambres. Toutefois, l’ajournement ne peut excéder l
 
 
 ***Article 73***  
-Il a le droit de remettre ou de réduire les peines prononcées par les juges, sauf ce qui est statué relativement aux ministres.
+Il a le droit de réduire ou de remettre les peines prononcées par les juges, sauf ce qui est statué relativement aux ministres et aux membres des Gouvernements de Communauté et de Région.
 
 
 ***Article 74***  
@@ -583,8 +758,13 @@ Aucun membre de la famille royale ne peut être ministre.
 
 
 ***Article 88***  
-Les ministres n’ont voix délibérative dans l’une ou l’autre Chambre que quand ils en sont membres.  
-Ils ont leur entrée dans chacune des Chambres et doivent être entendus quand ils le demandent.  
+Les Ministres sont responsables devant la Chambre des représentants.  
+Aucun ministre ne peut être poursuivi ou recherché à l'occasion des opinions émises par lui dans l'exercice de ses fonctions.  
+Les ministres ont leur entrée dans chacune des Chambres et doivent être entendus quand ils le demandent.  
+La Chambre des représentants peut requérir la présence des ministres. Le Sénat peut requérir leur présence pour la discussion d'un projet ou d'une proposition de loi visé à l'article 41, §2, ou d'un projet de loi visé à l'article 41, §3, ou pour l'exercice de son droit d'enquête visé à l'article 40. Pour les autres matières, il peut demander leur présence.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants les dispositions suivantes sont d'application : Les ministres n'ont voix délibérative dans l'une ou l'autre Chambre que quand ils en sont membres.
+Ils ont leur entrée dans chacune des Chambres, et doivent être entendus quand ils le demandent.
 Les Chambres peuvent requérir la présence des ministres.
 
 
@@ -598,7 +778,9 @@ Une loi déterminera les cas de responsabilité, les peines à infliger aux mini
 
 
 ***Article 91***  
-Le Roi ne peut faire grâce au Ministre condamné par la Cour de cassation que sur la demande de l’une des deux Chambres.
+Le Roi ne peut faire grâce au Ministre condamné par la Cour de cassation et au membre d'un Gouvernement de Communauté ou de Région condamné par la Cour de cassation, que sur la demande de la Chambre des représentants ou du Conseil concerné.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, le Roi ne peut faire grâce à un ministre condamné par la Cour de cassation et à un membre d'un Gouvernement de Communauté ou de Région condamné par la Cour de cassation que sur la demande de l'une des deux Chambres ou du Conseil concerné.
 
 
 ### Section III. Des Secrétaires d'État.
@@ -626,7 +808,7 @@ Nul tribunal, nulle juridiction contentieuse ne peut être établi qu’en vertu
 
 ***Article 95***  
 Il y a pour toute la Belgique une Cour de cassation.  
-Cette Cour ne connaît pas du fond des affaires, sauf le jugement des ministres.
+Cette Cour ne connaît pas du fond des affaires, sauf le jugement des ministres et des membres des Gouvernements de Communauté et de Région.
 
 
 ***Article 96***  
@@ -644,11 +826,14 @@ Le jury est établi en toutes matières criminelles et pour délits politiques e
 
 ***Article 99***  
 Les juges de paix et les juges des tribunaux sont directement nommés par le Roi.  
-Les conseillers des cours d’appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l’une par ces Cours, l’autre par les conseils provinciaux.  
-Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l’une par le Sénat, l’autre par la Cour de cassation.  
+Les conseillers des cours d’appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l’une par ces Cours, l’autre par les conseils provinciaux et le Conseil de la Région de Bruxelles-Capitale, selon le cas.  
+Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par la Cour de cassation, l'autre alternativement par la Chambre des représentants et par le Sénat.  
 Dans ces deux cas, les candidats portés sur une liste peuvent également être portés sur l’autre.  
 Toutes les présentations sont rendues publiques, au moins quinze jours avant la nomination.  
 Les Cours choisissent dans leur sein leurs présidents et vice-présidents.
+
+*Disposition transitoire :* Jusqu'au 31 décembre 1994, les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux.  
+Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par le Sénat, l'autre par la Cour de cassation.
 
 
 ***Article 100***  
@@ -671,13 +856,13 @@ Aucun juge ne peut accepter du Gouvernement des fonctions salariées, à moins q
 
 ***Article 104***  
 Il y a cinq cours d’appel en Belgique:
-1. celle de Bruxelles, dont le ressort comprend la province de Brabant;  
+1. celle de Bruxelles, dont le ressort comprend les provinces du Brabant wallon, du Brabant flamand et la région bilingue de Bruxelles-Capitale;  
 2. celle de Gand, dont le ressort comprend les provinces de Flandre occidentale et de Flandre orientale;  
 3. celle d'Anvers, dont le ressort comprend les provinces d'Anvers et de Limbourg;  
 4. celle de Liège, dont le ressort comprend les provinces de Liège, de Namur et de Luxembourg;  
 5. celle de Mons, dont le ressort comprend la province de Hainaut.
 
-*Disposition transitoire :* Une loi déterminera la date d'entrée en vigueur de l'article 104 et réglera son exécution. Le projet de loi devra être déposé sur le bureau des Chambres législatives dans les deux ans qui suivront la promulgation du présent article. Le texte actuel restera d'application jusqu'au moment de l'entrée en vigueur de ladite loi.
+*Disposition transitoire :* Jusqu'au 31 décembre 1994, le ressort de la Cour d'appel de Bruxelles comprend la province de Brabant.
 
 
 ***Article 105***  
@@ -709,6 +894,17 @@ La Cour peut être saisie par toute autorité que la loi désigne, par toute per
 Les lois visées au premier alinéa, au deuxième alinéa, 3° et au troisième alinéa sont adoptées à la majorité prévue à l'article 1er, dernier alinéa.
 
 
+***Article 107ter-bis***  
+Dans l'exercice de leurs compétences respectives, l'État fédéral, les Communautés, les Régions et la Commission communautaire commune agissent dans le respect de la
+loyauté fédérale, en vue d'éviter des conflits d'intérêts.
+
+Le Sénat se prononce, par voie d'avis motivé, sur les conflits d'intérêts entre les assemblées qui légifèrent par voie de loi, de décret et de règle visée à l'article 26bis, dans les conditions et suivant les modalités qu'une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, détermine.
+
+Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, organise la procédure tendant à prévenir et à régler les conflits d'intérêts entre le Gouvernement fédéral, les Gouvernements de Communauté et de Région et le Collège réuni de la Commission communautaire commune.
+
+*Disposition transitoire :* Pour ce qui concerne la prévention et le règlement des conflits d'intérêts, la loi ordinaire du 9 août 1980 de réformes institutionnelles reste d'application ; elle ne peut toutefois être abrogée, complétée, modifiée ou remplacée que par les lois visées à l'article 107ter-bis §§2 et 3.
+
+
 ## Chapitre IIIter. DES INSTITUTIONS RÉGIONALES.
 
 ***Article 107quater***  
@@ -730,7 +926,7 @@ La loi consacre l’application des principes suivants:
 6. l’intervention de l'autorité de tutelle ou du pouvoir législatif, pour empêcher que la loi ne soit violée ou l’intérêt général blessé.  
 
 En exécution d'une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Conseils de la communauté ou de la région.  
-Plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d'intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun.
+En exécution d'une loi adoptée à la majorité déterminée à l'article 1er, dernier alinéa, le décret ou la règle visée à l'article 26bis règle les conditions et le mode suivant lesquels plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun.
 
 
 ***Article 108bis***  
@@ -798,20 +994,25 @@ Aucune pension, aucune gratification à la charge du trésor public, ne peut êt
 
 
 ***Article 115***  
-Chaque année, les Chambres arrêtent la loi des comptes et votent le budget.  
+Chaque année, la Chambre des représentants arrête la loi des comptes et votent le budget. Toutefois, la Chambre des représentants et le Sénat fixent annuellement, chacun en ce qui le concerne, leur dotation de fonctionnement.  
 Toutes les recettes et dépenses de l’État doivent être portées au budget et dans les comptes.  
 Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, fixe le système de financement des Régions prévues à l'article 107quater.  
 Les organes de ces Régions déterminent, chacun pour ce qui le concerne, la destination de leurs recettes par les règles prévues à l'article 26bis.
 
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les Chambres arrêtent, chaque année, la loi des comptes et votent le budget.
+
 
 ***Article 116***  
 Les membres de la Cour des comptes sont nommés par la Chambre des représentants et pour le terme fixé par la loi.  
-Cette Cour est chargée de l’examen et de la liquidation des comptes de l’administration générale et de tous les comptables envers le trésor public. Elle veille à ce qu’aucun article des dépenses du budget ne soit dépassé et qu’aucun transfert n’ait lieu. Elle arrête les comptes des différentes administrations de l’État et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l’État est soumis aux Chambres avec les observations de la Cour des comptes.  
+Cette Cour est chargée de l’examen et de la liquidation des comptes de l’administration générale et de tous les comptables envers le trésor public. Elle veille à ce qu’aucun article des dépenses du budget ne soit dépassé et qu’aucun transfert n’ait lieu. La Cour exerce également un contrôle général sur les opérations relatives à l'établissement et au recouvrement des droits acquis par l'Etat, y compris les recettes fiscales. Elle arrête les comptes des différentes administrations de l’État et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l’État est soumis à la Chambre des représentants avec les observations de la Cour des comptes.  
 Cette Cour est organisée par une loi.
+
+*Disposition transitoire :* Jusqu'au prochain renouvellement intégral de la Chambre des représentants, la Cour des comptes soumet le compte général de l'Etat, avec ses observations, à la Chambre des représentants et au Sénat.
 
 
 ***Article 117***  
-Les traitements et pensions des ministres des cultes sont à la charge de l’État ; les sommes nécessaires pour y faire face sont annuellement portées au budget.
+Les traitements et pensions des ministres des cultes sont à la charge de l’État ; les sommes nécessaires pour y faire face sont annuellement portées au budget.  
+Les traitements et pensions des délégués des organisations reconnues par la loi qui offrent une assistance morale selon une conception philosophique non confessionnelle sont à la charge de l'État ; les sommes nécessaires pour y faire face sont annuellement portées au budget de l'État.
 
 
 # Titre V. DE LA FORCE PUBLIQUE.
@@ -887,7 +1088,8 @@ Aucune révision de la Constitution ne peut être engagée ni poursuivie en temp
 # Titre VIII. DISPOSITIONS TRANSITOIRES.
 
 ***Article 132***  
-[abrogé]
+De commun accord avec le Roi, les Chambres constituantes peuvent adapter la numérotation des articles et des subdivisions des articles de la Constitution ainsi que les subdivisions de celle-ci en titres, chapitres et sections, modifier la terminologie des dispositions non soumises à révision pour les mettre en concordance avec la terminologie des nouvelles dispositions et assurer la concordance entre les textes français, néerlandais et allemand de la Constitution.  
+Dans ce cas, les Chambres ne pourront délibérer, si deux tiers au moins des membres qui composent chacune d'elles ne sont présents ; et les changements ne seront adoptés que si l'ensemble des adaptations réunit au moins les deux tiers des suffrages exprimés.
 
 
 ***Article 133***  
@@ -895,8 +1097,9 @@ Aucune révision de la Constitution ne peut être engagée ni poursuivie en temp
 
 
 ***Article 134***  
-Jusqu’à ce qu’il y soit pourvu par une loi, la Chambre des représentants aura un pouvoir discrétionnaire pour accuser un Ministre, et la Cour de cassation pour le juger, en caractérisant le délit et en déterminant la peine.  
-Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice des cas expressément prévus par les lois pénales.
+Jusqu'à ce qu'il y soit pourvu par la loi visée à l'article 90, deuxième alinéa, la Chambre des représentants aura un pouvoir discrétionnaire pour accuser un ministre, et la Cour de cassation pour le juger, dans les cas et moyennant application des peines prévues par les lois pénales.  
+Jusqu'à ce qu'il y soit pourvu par la loi visée à l'article 59sexies, deuxième alinéa, le Conseil de Communauté et de Région aura un pouvoir discrétionnaire pour accuser un membre de son gouvernement, et la Cour de cassation pour le juger, dans les cas et moyennant application des peines prévues par les lois pénales.  
+Les articles 59sexies et 134, alinéa 2, sont d'application pour les faits postérieurs à l'entrée en vigueur de ces articles.
 
 
 ***Article 135***  
