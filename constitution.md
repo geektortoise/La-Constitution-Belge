@@ -1000,9 +1000,14 @@ Il y a cinq cours d’appel en Belgique:
 
 
 ***Article 157***  
-Des lois particulières règlent l’organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux et la durée de leurs fonctions.  
-Il y a des tribunaux du commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.  
-La loi règle aussi l'organisation des juridictions du travail, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
+Il y a des juridictions militaires lorsque l'état de guerre visé à l'article 167, §1er, alinéa 2, est constaté. La loi règle l'organisation des juridictions militaires, leurs attributions, les droits et obligations des membres de ces juridictions, et la durée de leurs fonctions.  
+Il y a des tribunaux du commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres, et la durée des fonctions de ces derniers.  
+La loi règle aussi l'organisation des juridictions du travail, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.  
+Il y a des tribunaux de l'application des peines dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
+
+*Disposition transitoire :* L'alinéa 1er entre en vigueur à la date de l'abrogation de la loi du 15 juin 1899 comprenant les titres Ier et II du Code de procédure pénale militaire.  
+Jusqu'à cette date, la disposition suivante reste en vigueur:  
+*« Des lois particulières règlent l'organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions.».*
 
 
 ***Article 158***  
