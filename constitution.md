@@ -263,7 +263,17 @@ Le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions 
 
 
 ***Article 49***  
-La loi électorale fixe le nombre des députés d’après la population ; ce nombre ne peut excéder la proportion d’un député sur 40.000 habitants. Elle détermine également les conditions requises pour être électeur et la marche des opérations électorales.
+§1er. La Chambre des représentants compte 212 membres.
+
+§2. Chaque arrondissement électoral compte autant de sièges que le chiffre de sa population contient de fois le diviseur national, obtenu en divisant le chiffre de la population du Royaume par 212.  
+Les sièges restants sont attribués aux arrondissements ayant le plus grand excédent de population non encore représenté.
+
+§3. La répartition des membres de la Chambre des représentants entre les arrondissements est mise en rapport avec la population par le Roi.  
+A cet effet, un recensement de la population, dont il publie les résultats dans un délai de six mois, tous les dix ans.  
+Dans les trois mois de cette publication, il détermine le nombre de sièges attribués à chaque arrondissement.  
+La nouvelle répartition est appliquée à partir des élections générales suivantes.
+
+§4. La loi détermine les arrondissements électoraux ; elle détermine également les conditions requises pour être électeur et la marche des opérations électorales.
 
 
 ***Article 50***  
