@@ -79,6 +79,10 @@ Nul ne peut être distrait, contre son gré, du juge que la loi lui assigne.
 Nulle peine ne peut être établie ni appliquée qu’en vertu de la loi.
 
 
+***Article 14bis***  
+La peine de mort est abolie.
+
+
 ***Article 15***  
 Le domicile est inviolable ; aucune visite domiciliaire ne peut avoir lieu que dans les cas prévus par la loi et dans la forme qu’elle prescrit.
 
