@@ -23,10 +23,10 @@ Chaque commune du Royaume fait partie d'une de ces régions linguistiques.
 Les limites des quatre régions ne peuvent être changées ou rectifiées que par une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
 
 
-# Titre Ibis. DES COMMUNAUTÉS CULTURELLES.
+# Titre Ibis. DES COMMUNAUTÉS.
 
 ***Article 3ter***  
-La Belgique comprend trois communautés culturelles : française, néerlandaise et allemande.  
+La Belgique comprend trois communautés : la communauté française, la communauté flamande et la communauté germanophone.  
 Chaque communauté a les attributions qui lui sont reconnues par la Constitution ou par les lois prises en vertu de celle-ci.
 
 
@@ -146,12 +146,18 @@ L'exercice de pouvoirs déterminés peut être attribué par un traité ou par u
 Le pouvoir législatif s’exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
 
 
+***Article 26bis***  
+Les lois prises en exécution de l'article 107quater déterminent la force juridique des règles que les organes qu'elles créent prennent dans les matières qu'elles déterminent.  
+Elles peuvent conférer à ces organes le pouvoir de prendre des décrets ayant force de loi dans le ressort et selon le mode qu'elles établissent.
+
+
 ***Article 27***  
 L’initiative appartient à chacune des trois branches du pouvoir législatif.
 
 
 ***Article 28***  
-L’interprétation des lois par voie d’autorité n’appartient qu’au pouvoir législatif.
+L’interprétation des lois par voie d’autorité n’appartient qu’à la loi.  
+L interprétation des décrets par voie d'autorité n'appartient qu'au décret.
 
 
 ***Article 29***  
@@ -377,36 +383,43 @@ Les fils du Roi ou, à leur défaut, les princes belges de la branche de la fami
 Toute assemblée du Sénat qui serait tenue hors du temps de la session de la Chambre des représentants est nulle de plein droit.
 
 
-### Section III. Des Conseils culturels.
+### Section III. Des Conseils de communauté.
 
 ***Article 59bis***  
-§1er. Il y a un conseil culturel pour la communauté culturelle française comprenant les membres du groupe linguistique français des deux Chambres et un conseil culturel pour la communauté culturelle néerlandaise comprenant les membres du groupe linguistique néerlandais des deux Chambres.  
-Une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés, détermine le mode selon lequel les conseils culturels exercent leurs attributions eu égard notamment aux articles 33, 37, 38, 39, 40, 41, 42, 43, 44, 59, 70 et 88.
+§1er. Il y a un Conseil et un Exécutif de la communauté française et un Conseil et un Exécutif de la communauté flamande dont la composition et le fonctionnement sont fixés par la loi. Les Conseils sont composés de mandataires élus.  
+En vue de l'application de l'article 107quater, le Conseil de la communauté française et le Conseil de la communauté flamande, ainsi que leurs Exécutifs, peuvent exercer les compétences respectivement de la région wallonne et de la région flamande, dans les conditions et selon les modalités fixées par la loi.  
+Les lois visées aux alinéas précédents doivent être adoptées à la majorité prévue à l'article 1er, dernier alinéa.
 
-§2. Les conseils culturels, chacun pour ce qui le concerne, règlent par décret :
+§2. Les Conseils de Communauté, chacun pour ce qui le concerne, règlent par décret :
 1. les matières culturelles;  
 2. l'enseignement, à l'exclusion de ce qui a trait à la paix scolaire, à l'obligation scolaire, aux structures de l'enseignement, aux diplômes, aux subsides, aux traitements, aux normes de population scolaire;  
-3. la coopération entre les communautés culturelles ainsi que la coopération culturelle internationale.  
+3. la coopération entre les communautés ainsi que la coopération culturelle internationale.  
+
 Une loi adoptée à la majorité prévue au §1er, 2e alinéa, arrête les matières culturelles visées au 1° ainsi que les formes de coopération visées au 3° du présent paragraphe.
 
-§3. En outre, les conseils culturels, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur, l'emploi des langues pour :
+§3. Les Conseils de communauté, chacun pour ce qui le concerne, règlent par décret les matières personnalisables de même que la coopération entre les communautés ainsi que la coopération internationale en ces matières.  
+Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération.
+
+§4. En outre, les conseils de communauté, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur, l'emploi des langues pour :
 1. les matières administratives;  
 2. l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics;  
 3. les relations sociales entre les employeurs et leur personnel, ainsi que les actes et documents des entreprises imposés par la loi et les règlements.
 
-§4. Les décrets pris en application du §2 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou l'autre communauté culturelle.  
+§5. Les décrets pris en application du §2 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou l'autre communauté.  
 Les décrets, pris en application du §3, ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, excepté en ce qui concerne :
 * les communes ou groupes de communes contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés;  
 * les services dont l'activité s'étend au-delà de la région linguistique dans laquelle ils sont établis;  
-* les institutions nationales et internationales désignées par la loi dont l'activité est commune à plus d'une communauté culturelle.
+* les institutions nationales et internationales désignées par la loi dont l'activité est commune à plus d'une communauté.
 
-§5. Le droit d'initiative appartient au Roi et aux membres des conseils culturels. Les articles 67, 69 et 129 sont applicables aux décrets.
+§6. Les décrets pris en application du §2bis ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi que, sauf si une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, en dispose autrement, à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leur organisation, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre communauté.
 
-§6. La loi fixe le crédit global qui est mis à la disposition de chaque conseil culturel qui en règle l'affectation par décret. Ce crédit est établi en fonction de critères objectifs fixés par la loi. Des dotations égales sont établies dans les matières qui, par leur nature, ne se prêtent pas à des critères objectifs. La loi détermine, en fonction des mêmes règles, la quotité de ce crédit qui doit être consacrée au développement de l'une et de l'autre culture sur le territoire de Bruxelles-Capitale.
+§7. Le droit d'initiative appartient à l'Exécutif et aux membres du Conseil.
 
-§7. La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
+§8. La loi fixe le crédit global qui est mis à la disposition de chaque Conseil de communauté qui en règle l'affectation par décret. Ce crédit est établi en fonction de critères objectifs fixés par la loi. Des dotations égales sont établies dans les matières qui, par leur nature, ne se prêtent pas à des critères objectifs. La loi détermine, en fonction des mêmes règles, la quotité de ce crédit qui doit être consacrée au développement de l'une et de l'autre Communauté sur le territoire de Bruxelles-Capitale.
 
-§8. La loi organise la procédure tendant à prévenir et à régler les conflits entre la loi et le décret, ainsi qu'entre les décrets.
+§9. La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
+
+§10. La loi organise la procédure tendant à prévenir et à régler les conflits entre la loi et le décret, ainsi qu'entre les décrets.
 
 
 ***Article 59ter***  
@@ -684,7 +697,8 @@ La loi consacre l’application des principes suivants:
 5. la publicité des budgets et des comptes;  
 6. l’intervention de l'autorité de tutelle ou du pouvoir législatif, pour empêcher que la loi ne soit violée ou l’intérêt général blessé.  
 
-Plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d'intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun,
+En exécution d'une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Conseils de la communauté ou de la région.  
+Plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d'intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun.
 
 
 ***Article 108bis***  
@@ -848,7 +862,7 @@ Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice 
 
 
 ***Article 135***  
-[abrogé]
+Jusqu'à ce que la loi prise en application de l'article 59bis, §ler, alinéa 1er ait pourvu à la composition des Conseils et des Exécutifs de la communauté française et de la communauté flamande, le Conseil de la communauté française comprend les membres du groupe linguistique français des deux Chambres et le Conseil de la communauté flamande comprend les membres du groupe linguistique néerlandais des deux Chambres, le droit d'initiative appartient au Roi et aux membres des Conseils de communauté et les articles 67, 69 et 129 sont applicables aux décrets.
 
 
 ***Article 136***  
