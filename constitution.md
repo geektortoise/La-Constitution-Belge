@@ -540,7 +540,7 @@ Les Cours et tribunaux n’appliqueront les arrêtés et règlements généraux,
 Les institutions provinciales et communales sont réglées par des lois.  
 Ces lois consacrent l’application des principes suivants:
 1. l’élection directe, sauf les exceptions que la loi peut établir à l’égard des chefs des administrations communales et des commissaires du Gouvernement près des conseils provinciaux;  
-2. l’attribution aux conseils provinciaux et communaux de tout ce qui est d’intérêt provincial et communal, sans préjudice de l’approbation de leurs actes dans les cas et suivant le mode que la loi détermine;  
+2. l’attribution aux conseils provinciaux et communaux de tout ce qui est d’intérêt provincial et communal, sans préjudice de l’approbation de leurs actes dans les cas et suivant le mode que la loi détermine ; Plusieurs provinces ou plusieurs communes peuvent s’entendre ou s’associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d’intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun;  
 3. la publicité des séances des conseils provinciaux et communaux dans les limites établies par la loi;  
 4. la publicité des budgets et des comptes;  
 5. l’intervention du Roi ou du pouvoir législatif, pour empêcher que les Conseils provinciaux et communaux ne sortent de leurs attributions et ne blessent l’intérêt général.
@@ -611,11 +611,11 @@ Aucune troupe étrangère ne peut être admise au service de l’État, occuper 
 
 
 ***Article 122***  
-Il y a une garde civique ; l’organisation en est réglée par la loi. Les titulaires de tous les grades, jusqu’à celui de capitaine au moins, sont nommés par les gardes, sauf les exceptions jugées nécessaires pour les comptables.
+L’organisation d'une garde civique est éventuellement réglée par la loi.
 
 
 ***Article 123***  
-La mobilisation de la garde civique ne peut avoir lieu qu’en vertu d’une loi.
+[abrogé]
 
 
 ***Article 124***  
