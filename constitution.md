@@ -554,7 +554,8 @@ La loi détermine leur ressort et les lieux où elles sont établies.
 
 ***Article 105***  
 Des lois particulières règlent l’organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux et la durée de leurs fonctions.  
-Il y a des tribunaux du commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
+Il y a des tribunaux du commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.  
+La loi règle aussi l'organisation des juridictions du travail, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
 
 
 ***Article 106***  
@@ -696,7 +697,7 @@ Aucune révision de la Constitution ne peut être engagée ni poursuivie en temp
 # Titre VIII. DISPOSITIONS TRANSITOIRES.
 
 ***Article 132***  
-Pour le premier choix du chef de l’État, il pourra être dérogé à la première disposition de l’article 80.
+[abrogé]
 
 
 ***Article 133***  
@@ -710,11 +711,11 @@ Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice 
 
 
 ***Article 135***  
-Le personnel des cours et des tribunaux est maintenu tel qu’il existe actuellement, jusqu’à ce qu’il y ait été pourvu par une loi. Cette loi devra être portée pendant la première session législative.
+[abrogé]
 
 
 ***Article 136***  
-Une loi, portée dans la même session, déterminera le mode de la première nomination des membres de la Cour de cassation.
+[abrogé]
 
 
 ***Article 137***  
