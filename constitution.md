@@ -50,11 +50,19 @@ La naturalisation est accordée par le pouvoir législatif fédéral.
 
 ***Article 10***  
 Il n’y a dans l’État aucune distinction d’ordres.  
-Les Belges sont égaux devant la loi ; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
+Les Belges sont égaux devant la loi ; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.  
+L'égalité des femmes et des hommes est garantie.
 
 
 ***Article 11***  
 La jouissance des droits et libertés reconnus aux Belges doit être assurée sans discrimination. À cette fin, la loi et le décret garantissent notamment les droits et libertés des minorités idéologiques et philosophiques.
+
+
+***Article 11bis***  
+La loi, le décret ou la règle visée à l'article 134 garantissent aux femmes et aux hommes l'égal exercice de leurs droits et libertés, et favorisent notamment leur égal accès aux mandats électifs et publics.  
+Le Conseil des ministres et les Gouvernements de communauté et de région comptent des personnes de sexe différent.  
+La loi, le décret ou la règle visée à l'article 134 organisent la présence de personnes de sexe différent au sein des députations permanentes des conseils provinciaux, des collèges des bourgmestre et échevins, des conseils de l'aide sociale, des bureaux permanents des centres publics d'aide sociale et dans les exécutifs de tout autre organe territorial interprovincial, intercommunal ou intracommunal.  
+L'alinéa qui précède ne s'applique pas lorsque la loi, le décret ou la règle visée à l'article 134 organisent l'élection directe des députés permanents des conseils provinciaux, des échevins, des membres du conseil de l'aide sociale, des membres du bureau permanent des centres publics d'aide sociale ou des membres des exécutifs de tout autre organe territorial interprovincial, intercommunal ou intracommunal.
 
 
 ***Article 12***  
