@@ -736,3 +736,7 @@ Le Congrès national déclare qu’il est nécessaire de pourvoir, par des lois 
 9. La révision de la législation des faillites et des sursis;  
 10. L’organisation de l’armée, les droits d’avancement et de retraite et le Code pénal militaire;  
 11. La révision des codes.
+
+
+***Article 140***  
+Le texte de la Constitution est établi en français et en néerlandais.
