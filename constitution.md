@@ -689,6 +689,10 @@ Ces Chambres statuent de commun accord avec le Roi, sur les points soumis à la 
 Dans ce cas, les Chambres ne pourront délibérer si deux tiers au moins des membres qui composent chacune d’elles ne sont présents ; et nul changement ne sera adopté s’il ne réunit au moins les deux tiers des suffrages.
 
 
+***Article 131bis***  
+Aucune révision de la Constitution ne peut être engagée ni poursuivie en temps de guerre ou lorsque les Chambres se trouvent empêchées de se réunir librement sur le territoire national.
+
+
 # Titre VIII. DISPOSITIONS TRANSITOIRES.
 
 ***Article 132***  
