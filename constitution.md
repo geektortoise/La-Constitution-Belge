@@ -314,7 +314,7 @@ Pour pouvoir être élu sénateur par application du n° 1° de l’article 53, 
 
 
 ***Article 56ter***  
-Les sénateurs élus par les conseils provinciaux ne peuvent appartenir à l’assemblée qui les élit, ni en avoir fait partie pendant l’année de l’élection ou pendant les deux années antérieures.
+Les sénateurs élus par les conseils provinciaux ne peuvent appartenir à l’assemblée qui les élit, ni en avoir fait partie pendant les deux années antérieures au jour de leur élection.
 
 
 ***Article 56quater***  
@@ -548,8 +548,14 @@ Aucun juge ne peut accepter du Gouvernement des fonctions salariées, à moins q
 
 
 ***Article 104***  
-Il y a trois cours d’appel en Belgique.
-La loi détermine leur ressort et les lieux où elles sont établies.
+Il y a cinq cours d’appel en Belgique:
+1. celle de Bruxelles, dont le ressort comprend la province de Brabant;  
+2. celle de Gand, dont le ressort comprend les provinces de Flandre occidentale et de Flandre orientale;  
+3. celle d'Anvers, dont le ressort comprend les provinces d'Anvers et de Limbourg;  
+4. celle de Liège, dont le ressort comprend les provinces de Liège, de Namur et de Luxembourg;  
+5. celle de Mons, dont le ressort comprend la province de Hainaut.
+
+*Disposition transitoire :* Une loi déterminera la date d'entrée en vigueur de l'article 104 et réglera son exécution. Le projet de loi devra être déposé sur le bureau des Chambres législatives dans les deux ans qui suivront la promulgation du présent article. Le texte actuel restera d'application jusqu'au moment de l'entrée en vigueur de ladite loi.
 
 
 ***Article 105***  
