@@ -340,7 +340,7 @@ En cas de dissolution, le Sénat est renouvelé intégralement.
 
 ***Article 56***  
 Pour être élu sénateur, il faut:
-1. Être Belge de naissance ou avoir reçu la grande naturalisation;  
+1. Être Belge;  
 2. Jouir des droits civils et politiques;  
 3. Être domicilié en Belgique;  
 4. Être âgé au moins de quarante ans.
@@ -902,7 +902,7 @@ Aucune révision de la Constitution ne peut être engagée ni poursuivie en temp
 # Titre VIII. DISPOSITIONS TRANSITOIRES.
 
 ***Article 132***  
-Jusqu'au moment où l'Université Catholique de Louvain, en ce compris ses sections auxiliaires d'enseignement moyen et technique, aura été transférée en dehors de la région de langue néerlandaise, le Conseil culturel pour la communauté culturelle française, par dérogation à l'article 59bis, §4, alinéa Ier, est compétent pour cette institution. Le régime linguistique actuellement en vigueur, tant en matière d'enseignement qu'en matière administrative, demeure d'application jusqu'au même terme.
+[abrogé]
 
 
 ***Article 133***  
@@ -915,7 +915,7 @@ Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice 
 
 
 ***Article 135***  
-Jusqu'à ce que la loi prise en application de l'article 59bis, §ler, alinéa 1er ait pourvu à la composition des Conseils et des Exécutifs de la communauté française et de la communauté flamande, le Conseil de la communauté française comprend les membres du groupe linguistique français des deux Chambres et le Conseil de la communauté flamande comprend les membres du groupe linguistique néerlandais des deux Chambres, le droit d'initiative appartient au Roi et aux membres des Conseils de communauté et les articles 67, 69 et 129 sont applicables aux décrets.
+[abrogé]
 
 
 ***Article 136***  
