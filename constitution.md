@@ -120,6 +120,10 @@ Tous les pouvoirs émanent de la nation.
 Ils sont exercés de la manière établie par la Constitution.
 
 
+***Article 25bis***  
+L'exercice de pouvoirs déterminés peut être attribué par un traité ou par une loi à des institutions de droit international public.
+
+
 ***Article 26***  
 Le pouvoir législatif s’exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
 
@@ -575,13 +579,16 @@ Les Cours et tribunaux n’appliqueront les arrêtés et règlements généraux,
 ## Chapitre IV. DES INSTITUTIONS PROVINCIALES ET COMMUNALES.
 
 ***Article 108***  
-Les institutions provinciales et communales sont réglées par des lois.  
-Ces lois consacrent l’application des principes suivants:
-1. l’élection directe, sauf les exceptions que la loi peut établir à l’égard des chefs des administrations communales et des commissaires du Gouvernement près des conseils provinciaux;  
-2. l’attribution aux conseils provinciaux et communaux de tout ce qui est d’intérêt provincial et communal, sans préjudice de l’approbation de leurs actes dans les cas et suivant le mode que la loi détermine ; Plusieurs provinces ou plusieurs communes peuvent s’entendre ou s’associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d’intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun;  
-3. la publicité des séances des conseils provinciaux et communaux dans les limites établies par la loi;  
-4. la publicité des budgets et des comptes;  
-5. l’intervention du Roi ou du pouvoir législatif, pour empêcher que les Conseils provinciaux et communaux ne sortent de leurs attributions et ne blessent l’intérêt général.
+Les institutions provinciales et communales sont réglées par la loi.  
+La loi consacre l’application des principes suivants:
+1. l’élection directe des membres des conseils provinciaux et communaux;  
+2. l’attribution aux conseils provinciaux et communaux de tout ce qui est d’intérêt provincial et communal, sans préjudice de l’approbation de leurs actes, dans les cas et suivant le mode que la loi détermine;  
+3. la décentralisation d'attributions vers les institutions provinciales et communales;  
+4. la publicité des séances des conseils provinciaux et communaux dans les limites établies par la loi;  
+5. la publicité des budgets et des comptes;  
+6. l’intervention de l'autorité de tutelle ou du pouvoir législatif, pour empêcher que la loi ne soit violée ou l’intérêt général blessé.  
+
+Plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer, dans les conditions et suivant le mode à déterminer par la loi, pour régler et gérer en commun des objets d'intérêt provincial ou communal. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun,
 
 
 ***Article 109***  
@@ -592,9 +599,8 @@ La rédaction des actes de l’état civil et la tenue des registres sont exclus
 
 ***Article 110***  
 Aucun impôt au profit de l’État ne peut être établi que par une loi.  
-Aucune charge, aucune imposition provinciale ne peut être établie que du consentement du conseil provincial.  
-Aucune charge, aucune imposition communale ne peut être établie que du consentement du Conseil communal.  
-La loi détermine les exceptions dont l’expérience démontrera la nécessité, relativement aux impositions provinciales et communales.
+Aucune charge, aucune imposition ne peut être établie par la province, par l'agglomération, par la fédération de communes et par la commune que par une décision de leur conseil.  
+La loi détermine, relativement aux impositions visées au deuxième alinéa, les exceptions dont la nécessité est démontrée.
 
 
 ***Article 111***  
@@ -608,7 +614,7 @@ Nulle exemption ou modération d’impôt ne peut être établie que par une loi
 
 
 ***Article 113***  
-Hors les cas formellement exceptés par la loi, aucune rétribution ne peut être exigée des citoyens qu’à titre d’impôt au profit de l’État, de la province ou de la commune. Il n’est rien innové au régime actuellement existant des polders et des wateringues, lequel reste soumis à la législation ordinaire.
+Hors les cas formellement exceptés par la loi, aucune rétribution ne peut être exigée des citoyens qu’à titre d’impôt au profit de l’État, de la province, de l'agglomération, de la fédération de communes ou de la commune. Il n’est rien modifié au régime actuellement existant des polders et des wateringues, lequel reste soumis à la législation ordinaire.
 
 
 ***Article 114***  
