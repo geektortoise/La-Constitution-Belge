@@ -147,6 +147,12 @@ L’emploi des langues usitées en Belgique est facultatif ; il ne peut être r�
 Nulle autorisation préalable n’est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des ministres.
 
 
+***Article 24ter***  
+Chacun a le droit de consulter ou de se faire remettre copie de chaque document administratif, sauf dans les cas et conditions fixés par la loi, le décret ou la règle visée à l'article 26bis.
+
+*Disposition transitoire :* La présente disposition entre en vigueur le 1er janvier 1995.
+
+
 # Titre III. DES POUVOIRS.
 
 ***Article 25***  
@@ -911,6 +917,14 @@ Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, orga
 La Belgique comprend trois régions : la région wallonne, la région flamande et la région bruxelloise.  
 La loi attribue aux organes régionaux quelle crée et qui sont composés de mandataires élus, la compétence de régler les matières quelle détermine, à l'exception de celles visées aux articles 23 et 59bis, dans le ressort et selon le mode quelle établit.  
 Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
+
+
+## Chapitre IIIquater. DU CONSEIL D'ÉTAT ET DES JURIDICTIONS ADMINISTRATIVES.
+
+***Article 107quinquies***  
+Il y a pour toute la Belgique un Conseil d'Etat, dont la composition, la compétence et le fonctionnement sont déterminés par la loi. Toutefois, la loi peut attribuer au Roi le pouvoir de régler la procédure conformément aux principes quelle fixe.  
+Le Conseil d'Etat statue par voie d'arrêt en tant que juridiction administrative et donne des avis dans les cas déterminés par la loi.  
+Aucune juridiction administrative ne peut être établie qu'en vertu d'une loi.
 
 
 ## Chapitre IV. DES INSTITUTIONS PROVINCIALES ET COMMUNALES.
