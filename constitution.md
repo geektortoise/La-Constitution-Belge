@@ -901,7 +901,7 @@ Nul tribunal, nulle juridiction contentieuse ne peut être établi qu’en vertu
 
 ***Article 147***  
 Il y a pour toute la Belgique une Cour de cassation.  
-Cette Cour ne connaît pas du fond des affaires, sauf le jugement des ministres et des membres des Gouvernements de Communauté et de Région.
+Cette Cour ne connaît pas du fond des affaires.
 
 
 ***Article 148***  
