@@ -38,8 +38,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 
 
 ***Article 5***  
-La naturalisation est accordée par le pouvoir législatif.  
-La grande naturalisation seule assimile l’étranger au Belge, pour l’exercice des droits politiques.
+La naturalisation est accordée par le pouvoir législatif.
 
 
 ***Article 6***  
@@ -297,10 +296,10 @@ La nouvelle répartition est appliquée à partir des élections générales sui
 
 ***Article 50***  
 Pour être éligible, il faut:
-1. Être Belge de naissance ou avoir reçu la grande naturalisation;  
+1. Être Belge;  
 2. Jouir des droits civils et politiques;  
-3. Avoir atteint l’âge de vingt-cinq ans accomplis;  
-4. Avoir son domicile en Belgique.  
+3. Être âgé de vingt et un ans accomplis;  
+4. Être domicilié en Belgique.
 
 Aucune autre condition d’éligibilité ne peut être requise.
 
@@ -575,7 +574,7 @@ En cas de vacance du trône, les Chambres, délibérant en commun, pourvoient pr
 ### Section II. Des Ministres.
 
 ***Article 86***  
-Nul ne peut être Ministre s’il n’est Belge de naissance ou s’il n’a reçu la grande naturalisation.
+Seuls les Belges peuvent être ministres.
 
 
 ***Article 86bis***  
