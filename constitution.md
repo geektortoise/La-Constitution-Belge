@@ -677,6 +677,17 @@ La Cour de cassation prononce sur les conflits d’attributions, d’après le m
 Les Cours et tribunaux n’appliqueront les arrêtés et règlements généraux, provinciaux et locaux, qu’autant qu’ils seront conformes aux lois.
 
 
+## Chapitre IIIbis. PRÉVENTIONS ET RÈGLEMENT DE CONFLITS.
+
+***Article 107ter***  
+§1er. La loi organise la procédure tendant à prévenir les conflits entre la loi, le décret et les règles visées à l'article 26bis, ainsi qu'entre les décrets entre eux et entre les règles visées à l'article 26bis entre elles.
+
+§2. Il y a, pour toute la Belgique, une Cour d'arbitrage, dont la composition, la compétence et le fonctionnement sont déterminés par la loi.  
+Cette Cour règle les conflits visés au §1er.
+
+*Disposition transitoire :* L'article 107ter entre en vigueur dans les six mois qui suivront sa promulgation. La loi organise, à titre transitoire une procédure tendant à prévenir et à régler les conflits entre la loi et le décret ainsi qu'entre les décrets.
+
+
 ## Chapitre IIIter. DES INSTITUTIONS RÉGIONALES.
 
 ***Article 107quater***  
@@ -737,14 +748,22 @@ La rédaction des actes de l’état civil et la tenue des registres sont exclus
 # Titre IV. DES FINANCES.
 
 ***Article 110***  
-Aucun impôt au profit de l’État ne peut être établi que par une loi.  
-Aucune charge, aucune imposition ne peut être établie par la province, par l'agglomération, par la fédération de communes et par la commune que par une décision de leur conseil.  
-La loi détermine, relativement aux impositions visées au deuxième alinéa, les exceptions dont la nécessité est démontrée.
+§1er. Aucun impôt au profit de l’État ne peut être établi que par une loi.  
+
+§2. Aucun impôt au profit de la communauté ou de la région ne peut être établi que par un décret ou une règle visée à l'article 26bis.  
+La loi détermine, relativement aux impositions visées à l'alinéa précédent, les exceptions dont la nécessité est démontrée.
+
+§3. Aucune charge, aucune imposition ne peut être établie par la province que par une décision de son conseil.  
+La loi détermine, relativement aux impositions visées à l'alinéa précédent, les exceptions dont la nécessité est démontrée.  
+La loi peut supprimer en tout ou en partie les impositions visées à l'alinéa 1er.
+
+§4. Aucune charge, aucune imposition ne peut être établie par l'agglomération, par la fédération de communes et par la commune que par une décision de leur conseil.  
+La loi détermine, relativement aux impositions visées à l'alinéa précédent, les exceptions dont la nécessité est démontrée.
 
 
 ***Article 111***  
-Les impôts au profit de l’État sont votés annuellement.  
-Les lois qui les établissent n’ont de force que pour un an, si elles ne sont renouvelées.
+Les impôts au profit de l’État, de la communauté et de la région sont votés annuellement.  
+Les règles qui les établissent n’ont de force que pour un an si elles ne sont renouvelées.
 
 
 ***Article 112***  
@@ -753,7 +772,7 @@ Nulle exemption ou modération d’impôt ne peut être établie que par une loi
 
 
 ***Article 113***  
-Hors les cas formellement exceptés par la loi, aucune rétribution ne peut être exigée des citoyens qu’à titre d’impôt au profit de l’État, de la province, de l'agglomération, de la fédération de communes ou de la commune. Il n’est rien modifié au régime actuellement existant des polders et des wateringues, lequel reste soumis à la législation ordinaire.
+Hors les provinces, les polders et wateringues et les cas formellement exceptés par la loi, le décret et les règles visées à l'article 26bis, aucune rétribution ne peut être exigée des citoyens qu’à titre d’impôt au profit de l’État, de la communauté, de la région, de l'agglomération, de la fédération de communes ou de la commune.
 
 
 ***Article 114***  
