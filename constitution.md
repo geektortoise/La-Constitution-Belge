@@ -147,10 +147,26 @@ L’emploi des langues usitées en Belgique est facultatif ; il ne peut être r�
 Nulle autorisation préalable n’est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l’égard des ministres et des membres des gouvernements de Communauté et de Région.
 
 
+***Article 24bis***  
+Chacun a le droit de mener une vie conforme à la dignité humaine.  
+À cette fin, la loi, le décret ou la règle visée à l'article 26bis garantissent, en tenant compte des obligations correspondantes, les droits économiques, sociaux et culturels, et déterminent les conditions de leur exercice.  
+Ces droits comprennent notamment :
+1. le droit au travail et au libre choix d'une activité professionnelle dans le cadre d'une politique générale de l'emploi, visant entre autres à assurer un niveau d'emploi aussi stable et élevé que possible, le droit à des conditions de travail et à une rémunération équitables, ainsi que le droit d'information, de consultation et de négociation collective;  
+2. le droit à la sécurité sociale, à la protection de la santé et à l'aide sociale, médicale et juridique;  
+3. le droit à un logement décent;  
+4. le droit à la protection d'un environnement sain;  
+5. le droit à l'épanouissement culturel et social.
+
+
 ***Article 24ter***  
 Chacun a le droit de consulter ou de se faire remettre copie de chaque document administratif, sauf dans les cas et conditions fixés par la loi, le décret ou la règle visée à l'article 26bis.
 
 *Disposition transitoire :* La présente disposition entre en vigueur le 1er janvier 1995.
+
+
+***Article 24quater***  
+Chacun a droit au respect de sa vie privée et familiale, sauf dans les cas et conditions fixés par la loi.  
+La loi, le décret ou la règle visée à l'article 26bis garantissent la protection de ce droit.
 
 
 # Titre III. DES POUVOIRS.
