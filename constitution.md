@@ -37,7 +37,11 @@ Les limites de l’État, des provinces et des communes ne peuvent être changé
 
 ***Article 8***  
 La qualité de Belge s’acquiert, se conserve et se perd d’après les règles déterminées par la loi civile.  
-La Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l’exercice de ces droits.
+La Constitution et les autres lois relatives aux droits politiques déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l’exercice de ces droits.  
+Par dérogation à l'alinéa 2, la loi peut organiser le droit de vote des citoyens de l'Union européenne n'ayant pas la nationalité belge, conformément aux obligations internationales et supranationales de la Belgique.  
+Le droit de vote visé à l'alinéa précédent peut être étendu par la loi aux résidents en Belgique qui ne sont pas des ressortissants d un État membre de l'Union européenne, dans les conditions et selon les modalités déterminées par ladite loi.
+
+*Disposition transitoire :* La loi visée à l'alinéa 4 ne peut pas être adoptée avant le 1er janvier 2001.
 
 
 ***Article 9***  
