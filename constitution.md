@@ -771,7 +771,8 @@ de conclusion de traités.
 1. les matières culturelles;  
 2. les matières personnalisables;  
 3. l'enseignement, dans les limites fixées par l'article 127, §1er, alinéa 1er, 2°;  
-4. la coopération entre les communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1°, 2° et 3°.  
+4. la coopération entre les communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1°, 2° et 3°;  
+5. l'emploi des langues pour l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics.  
 
 La Loi arrête les matières culturelles et personnalisables visées aux 1° et 2°, ainsi que les formes de coopération visées au 4° et le mode selon lequel les traités sont conclus.
 
