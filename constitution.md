@@ -422,9 +422,31 @@ Les décrets, pris en application du §3, ont force de loi respectivement dans l
 
 
 ***Article 59ter***  
-Il y a un Conseil de la communauté culturelle allemande.  
-La loi détermine sa composition et sa compétence.
+§1er. Il y a un Conseil et un Exécutif de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.  
+Le Conseil est composé de mandataires élus.
 
+§2. Le Conseil règle par décret:
+1. les matières culturelles;  
+2. les matières personnalisables;  
+3. l'enseignement, dans les limites fixées par l'article 59bis, §2, 2°;  
+4. la coopération entre les communautés, la coopération culturelle internationale ainsi que la coopération internationale dans les matières visées au 2°.  
+
+Ces décrets ont force de loi dans la région de langue allemande.  
+La Loi arrête les matières culturelles et personnalisables visées aux 1° et 2°, ainsi que les formes de coopération visées au 4°.
+
+§3. Sur proposition de leur Exécutif respectif, le Conseil de la communauté germanophone et le Conseil régional wallon peuvent, par décrets, décider de commun accord que le Conseil et l'Exécutif de la communauté germanophone exercent, dans la région de langue allemande, en tout ou en partie, des compétences de la région wallonne.  
+Ces compétences sont exercées, suivant le cas, par voie de décrets, d'arrêtés ou de règlements.
+
+§4. Le Conseil et l'Exécutif de la Communauté germanophone exercent par voie d'arrêtés et de règlements toute autre compétence qui leur est attribuée par la loi.  
+L'article 107 est applicable à ces arrêtés et règlements.
+
+§5. Le droit d'initiative appartient à l'Exécutif et aux membres du Conseil.
+
+§6. La loi fixe le crédit global qui est mis à la disposition du Conseil qui en règle l'affectation par décret.
+
+§7. La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
+
+*Disposition transitoire :* La loi du 10 juillet 1973 relative au Conseil de la Communauté culturelle allemande reste d'application jusqu'à l'entrée en vigueur des lois visées aux §ler, alinéa 1er, §2, alinéa 3, §6 et §7.
 
 ## Chapitre II. DU ROI ET DES MINISTRES.
 
