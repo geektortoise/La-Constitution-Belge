@@ -939,4 +939,4 @@ Néanmoins, la peine ne pourra excéder celle de la réclusion, sans préjudice 
 
 
 ***Article 140***  
-Le texte de la Constitution est établi en français et en néerlandais.
+Le texte de la Constitution est établi en français, en néerlandais et en allemand.
