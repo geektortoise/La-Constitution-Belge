@@ -3,8 +3,9 @@
 
 ***Article 1***  
 La Belgique est divisée en provinces.  
-Ces provinces sont: Anvers, le Brabant, la Flandre occidentale, la Flandre orientale, le Hainaut, Liège, le Limbourg, le Luxembourg, Namur, sauf les relations du Luxembourg avec la Confédération germanique.  
-Il appartient à la loi de diviser, s’il y a lieu, le territoire en un plus grand nombre de provinces.
+Ces provinces sont: Anvers, le Brabant, la Flandre occidentale, la Flandre orientale, le Hainaut, Liège, le Limbourg, le Luxembourg, Namur.  
+Il appartient à la loi de diviser, s’il y a lieu, le territoire en un plus grand nombre de provinces.  
+Les colonies, possessions d’outre-mer ou protectorats que la Belgique peut acquérir sont régis par des lois particulières. Les troupes belges destinées à leur défense ne peuvent être recrutées que par des engagements volontaires.
 
 
 ***Article 2***  
@@ -166,7 +167,7 @@ On ne peut être à la fois membre des deux Chambres.
 
 
 ***Article 36***  
-Le membre de l’une ou de l’autre des deux Chambres, nommé par le Gouvernement à un emploi salarié qu’il accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu’en vertu d’une nouvelle élection.
+Le membre de l’une des deux Chambres, nommé par le Gouvernement à toute autre fonction salariée que celle de ministre et qui l’accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu’en vertu d’une nouvelle élection.
 
 
 ***Article 37***  
@@ -217,11 +218,20 @@ Chaque Chambre détermine, par son règlement, le mode suivant lequel elle exerc
 ### Section I. De la Chambre des représentants.
 
 ***Article 47***  
-La Chambre des représentants se compose des députés élus directement par les citoyens payant le cens déterminé par la loi électorale, lequel ne peut excéder 100 florins d’impôts directs, ni être au-dessous de 20 florins.
+Les députés à la Chambre des représentants sont élus directement dans les conditions ci-après: Un vote est attribué aux citoyens âgés de 25 ans accomplis, domiciliés depuis un an au moins dans la même commune, et qui ne se trouvent pas dans l’un des cas d’exclusion prévus par la loi. Un vote supplémentaire est attribué à raison de chacune des conditions suivantes:
+1. Être âgé de 35 ans accomplis, être marié, ou veuf ayant descendance légitime, et payer à l’État au moins 5 francs d’impôt du chef de la contribution personnelle sur les habitations ou bâtiments occupés, à moins qu’on n’en soit exempté à raison de sa profession;  
+2. Être âgé de 25 ans accomplis et être propriétaire: soit d’immeubles d’une valeur d’au moins 2.000 francs, à établir sur la base du revenu cadastral en rapport avec cette valeur;soit d’une inscription au grand-livre de la dette publique ou d’un carnet de rente belge à la Caisse d’épargne, d’au moins 100 francs de rente. Les inscriptions et carnets doivent appartenir au titulaire depuis deux ans au moins. La propriété de la femme est comptée au mari ; celle des enfants mineurs, au père.  
+
+Deux votes supplémentaires sont attribués aux citoyens âgés de 25 ans accomplis et se trouvant dans l’un des cas suivants:
+* Être porteur d’un diplôme d’enseignement supérieur ou d’un certificat homologué de fréquentation d’un cours complet d’enseignement moyen du degré supérieur, sans distinction entre les établissements publics ou privés;
+* Remplir ou avoir rempli une fonction publique, occuper ou avoir occupé une position, exercer ou avoir exercé une profession privée, qui impliquent la présomption que le titulaire possède au moins les connaissances de l’enseignement moyen du degré supérieur. La loi détermine ces fonctions, positions et professions, ainsi que, le cas échéant, le temps pendant lequel elles auront dû être occupées ou exercées.  
+
+Nul ne peut cumuler plus de trois votes.
 
 
 ***Article 48***  
-Les élections se font par telles divisions de provinces et dans tels lieux que la loi détermine.
+La constitution des collèges électoraux est, pour chaque province, réglée par la loi.  
+Le vote est obligatoire et a lieu à la commune, sauf les exceptions à déterminer par la loi.
 
 
 ***Article 49***  
@@ -244,17 +254,20 @@ Ils sont renouvelés par moitié tous les deux ans, d’après l’ordre des sé
 
 
 ***Article 52***  
-Chaque membre de la Chambre des représentants jouit d’une indemnité mensuelle de 200 florins pendant toute la durée de la session. Ceux qui habitent la ville où se tient la session ne jouissent d’aucune indemnité.
+Chaque membre de la Chambre des représentants jouit d’une indemnité annuelle de 4.000 francs.  
+Il a droit, en outre, au libre parcours sur les lignes des chemins de fer de l’État et au parcours gratuit sur les lignes des chemins de fer concédés, du lieu de sa résidence à la ville où se tient la session.
 
 
 ### Section II. Du Sénat.
 
 ***Article 53***  
-Les membres du Sénat sont élus à raison de la population de chaque province, par les citoyens qui élisent les membres de la Chambre des représentants.
+Le Sénat se compose:
+1. De membres élus, à raison de la population de chaque province, conformément à l’article 47 ; toutefois, la loi peut exiger que les électeurs soient âgés de trente ans accomplis. Les dispositions de l’article 48 sont applicables à l’élection de ces sénateurs;  
+2. De membres élus par les Conseils provinciaux, au nombre de deux par province ayant moins de 500.000 habitants, de trois par province ayant de 500.000 à 1 million d’habitants et de quatre par province ayant plus de 1 million d’habitants.
 
 
 ***Article 54***  
-Le Sénat se compose d’un nombre de membres égal à la moitié des députés de l’autre Chambre.
+Le nombre des sénateurs élus directement par le corps électoral est égal à la moitié du nombre des membres de la Chambre des représentants.
 
 
 ***Article 55***  
@@ -265,12 +278,16 @@ En cas de dissolution, le Sénat est renouvelé intégralement.
 ***Article 56***  
 Pour pouvoir être élu et rester sénateur, il faut:
 1. Être Belge de naissance ou avoir reçu la grande naturalisation;  
-2. Jouir de ses droits civils et politiques;  
+2. Jouir des droits civils et politiques;  
 3. Être domicilié en Belgique;  
 4. Être âgé au moins de quarante ans;  
-5. Payer en Belgique au moins 1.000 florins d’impositions directes, patentes comprises.  
+5. Verser au trésor de l’État au moins 1.200 francs d’impositions directes, patentes comprises. Ou être soit propriétaire, soit usufruitier d’immeubles situés en Belgique dont le revenu cadastral s’élève au moins à 12.000 francs.  
 
-Dans les provinces où la liste des citoyens payant 1.000 florins d’impôts directs n’atteint pas la proportion de 1 sur 6.000 âmes de population, elle est complétée par les plus imposés de la province jusqu’à concurrence de cette proportion de 1 sur 6.000.
+Dans les provinces où le nombre de ces éligibles n’atteint pas la proportion de 1 sur 5.000 habitants, la liste est complétée par les plus imposés de la province jusqu’à concurrence de cette proportion. Les citoyens portés sur la liste complémentaire ne sont éligibles que dans la province où ils sont domiciliés.
+
+
+***Article 56bis***  
+Les sénateurs élus par les conseils provinciaux sont dispensés de toute condition de cens ; ils ne peuvent appartenir à l’assemblée qui les élit, ni en avoir fait partie pendant l’année de l’élection ou pendant les deux années antérieures.
 
 
 ***Article 57***  
@@ -278,7 +295,7 @@ Les sénateurs ne reçoivent ni traitement ni indemnité.
 
 
 ***Article 58***  
-À l’âge de dix-huit ans, l’héritier présomptif du Roi est de droit sénateur. Il n’a voix délibérative qu’à l’âge de vingt-cinq ans.
+Les fils du Roi ou, à leur défaut, les princes belges de la branche de la famille royale appelée à régner, sont de droit sénateurs à l’âge de dix-huit ans. Ils n’ont voix délibérative qu’à l’âge de vingt-cinq ans.
 
 
 ***Article 59***  
@@ -290,11 +307,13 @@ Toute assemblée du Sénat qui serait tenue hors du temps de la session de la Ch
 ### Section I. Du Roi.
 
 ***Article 60***  
-Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, de mâle en mâle, par ordre de primogéniture, et à l’exclusion perpétuelle des femmes et de leur descendance.
+Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, de mâle en mâle, par ordre de primogéniture, et à l’exclusion perpétuelle des femmes et de leur descendance.  
+Sera déchu de ses droits à la couronne le prince qui se serait marié sans le consentement du Roi ou de ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution.  
+Toutefois, il pourra être relevé de cette déchéance par le Roi ou par ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution, et ce moyennant l’assentiment des deux Chambres.
 
 
 ***Article 61***  
-À défaut de descendance masculine de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, Il pourra nommer son successeur, avec l’assentiment des Chambres, émis de la manière prescrite par l’article suivant.  
+À défaut de descendance masculine de S.M. Léopold-Georges-Chrétien-Frédéric de Saxe-Cobourg, le Roi pourra nommer son successeur, avec l’assentiment des Chambres, émis de la manière prescrite par l’article suivant.  
 S’il n’y a pas eu de nomination faite d’après le mode ci-dessus, le trône sera vacant.
 
 
