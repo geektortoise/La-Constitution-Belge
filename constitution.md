@@ -211,7 +211,8 @@ Les arrêts et jugements sont exécutés au nom du Roi.
 Les intérêts exclusivement communaux ou provinciaux sont réglés par les conseils communaux ou provinciaux, d’après les principes établis par la Constitution.  
 La loi définit les compétences, les règles de fonctionnement et le mode d'élection des organes territoriaux intracommunaux pouvant régler des matières d'intérêt communal.  
 Ces organes territoriaux intracommunaux sont créés dans les communes de plus de 100.000 habitants à l'initiative de leur conseil communal. Leurs membres sont élus directement. En exécution d'une loi adoptée à la majorité définie à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les autres conditions et le mode suivant lesquels de tels organes territoriaux intracommunaux peuvent être créés.  
-Ce décret et la règle visée à l'article 134 ne peuvent être adoptés qu'à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Conseil concerné se trouve réunie.
+Ce décret et la règle visée à l'article 134 ne peuvent être adoptés qu'à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Conseil concerné se trouve réunie.  
+Les matières d'intérêt communal ou provincial peuvent faire l'objet d'une consultation populaire dans la commune ou la province concernée. La loi règle les modalités et l'organisation de la consultation populaire.
 
 
 ## Chapitre I. DES CHAMBRES FÉDÉRALES.
