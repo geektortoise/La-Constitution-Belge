@@ -592,10 +592,17 @@ En aucun cas, l'ordre verbal ou écrit du Roi ne peut soustraire un ministre à 
 
 
 ***Article 103***  
-La Chambre des représentants a le droit d’accuser les ministres et de les traduire devant la Cour de cassation, qui seule a le droit de les juger, chambres réunies, sauf ce qui sera statué par la loi, quant à l’exercice de l’action civile par la partie lésée et aux crimes et délits que des ministres auraient commis hors l’exercice de leurs fonctions.  
-La loi déterminera les cas de responsabilité, les peines à infliger aux ministres et le mode de procéder contre eux, soit sur l’accusation admise par la Chambre des représentants, soit sur la poursuite des parties lésées.
+Les ministres sont jugés exclusivement par la cour d'appel pour les infractions qu'ils auraient commises dans l'exercice de leurs fonctions. Il en est de même des infractions qui auraient été commises par les ministres en dehors de l'exercice de leurs fonctions et pour lesquelles ils sont jugés pendant l'exercice de leurs fonctions. Le cas échéant, les articles 59 et 120 ne sont pas applicables.  
+La loi détermine le mode de procéder contre eux, tant lors des poursuites que lors du jugement.  
+La loi désigne la cour d'appel compétente, qui siège en assemblée générale, et précise la composition de celle-ci. Les arrêts de la cour d'appel sont susceptibles d'un pourvoi devant la Cour de cassation, chambres réunies, qui ne connaît pas du fond des affaires.  
+Seul le ministère public près la cour d'appel compétente peut intenter et diriger les poursuites en matière répressive à l'encontre d'un ministre.  
+Toutes réquisitions en vue du règlement de la procédure, toute citation directe devant la cour d'appel et, sauf le cas de flagrant délit, toute arrestation nécessitent l'autorisation de la Chambre des représentants.  
+La loi détermine la procédure à suivre lorsque les articles 103 et 125 sont tous deux applicables.  
+Aucune grâce ne peut être faite à un ministre condamné conformément à l'alinéa 1er qu'à la demande de la Chambre des représentants.  
+La loi détermine dans quels cas et selon quelles règles les parties lésées peuvent intenter une action civile.
 
-*Disposition transitoire :* Jusqu'à ce qu'il y soit pourvu par la loi visée à l'alinéa 2, la Chambre des représentants aura un pouvoir discrétionnaire pour accuser un ministre, et la Cour de cassation pour le juger, dans les cas visés par les lois pénales et par application des peines qu'elles prévoient.
+*Disposition transitoire :* Le présent article n'est pas applicable aux faits qui ont fait l'objet d'actes d'information ni aux poursuites intentées avant l'entrée en vigueur de la loi portant exécution de celui-ci.  
+Dans ce cas, la règle suivante est d'application : la Chambre des représentants a le droit de mettre en accusation les ministres et de les traduire devant la Cour de cassation. Cette dernière a seule le droit de les juger, chambres réunies, dans les cas visés dans les lois pénales et par application des peines qu'elles prévoient. La loi du 17 décembre 1996 portant exécution temporaire et partielle de l'article 103 de la Constitution reste d'application en la matière.
 
 
 ***Article 104***  
