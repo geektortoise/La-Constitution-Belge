@@ -350,8 +350,7 @@ La Chambre est renouvelée tous les quatre ans.
 
 ***Article 66***  
 Chaque membre de la Chambre des représentants jouit d’une indemnité annuelle de douze mille francs.  
-Il a droit, en outre, au libre parcours sur toutes les voies de communication exploitées ou concédées par l’État.  
-La loi détermine les moyens de transport que les représentants peuvent utiliser gratuitement en dehors des voies ci-dessus prévues.  
+À l'intérieur des frontières de l'État, les membres de la Chambre des représentants ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.  
 Une indemnité annuelle à imputer sur la dotation destinée à couvrir les dépenses de la Chambre des représentants peut être attribuée au président de cette assemblée.  
 La Chambre détermine le montant des retenues qui peuvent être faites sur l’indemnité à titre de contribution aux caisses de retraite ou de pension qu’elle juge à propos d’instituer.
 
@@ -401,8 +400,7 @@ L'élection des sénateurs visés à l'article 67, §1er, 1° et 2°, coïncide 
 ***Article 71***  
 Les sénateurs ne reçoivent pas de traitement.  
 Ils ont droit, toutefois, à être indemnisés de leurs débours ; cette indemnité est fixée à quatre mille francs par an.  
-Ils ont droit, en outre, au libre parcours sur toutes les voies de communication exploitées ou concédées par 1'État.  
-La loi détermine les moyens de transport qu'ils peuvent utiliser gratuitement en dehors des voies ci-dessus prévues.
+À l'intérieur des frontières de l'État, les sénateurs ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par 1es pouvoirs publics.
 
 
 ***Article 72***  
@@ -675,6 +673,10 @@ Les membres des Conseils sont élus pour une période de cinq ans. Les Conseils 
 
 §2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Conseil de la Communauté française, du Conseil de la Région wallonne et du Conseil de la Communauté flamande, qui sont réglées par ces Conseils, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas.
 Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Conseil concerné soit présente.
+
+
+***Article 118bis***  
+À l'intérieur des frontières de l'État, les membres des Conseils des communautés et des régions, mentionnées aux articles 2 et 3, ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
 
 
 ***Article 119***  
