@@ -334,30 +334,7 @@ Pour être élu sénateur, il faut:
 
 
 ***Article 56bis***  
-Pour pouvoir être élu sénateur par application du n° 1° de l’article 53, il faut, en outre, appartenir à l’une des catégories suivantes:
-1. Les Ministres, anciens Ministres et Ministres d’État;  
-2. Les membres et anciens membres de la Chambre des représentants et du Sénat;  
-3. Les porteurs d’un diplôme de fin d’études délivré par un des établissements d’enseignement supérieur dont la loi détermine la liste;  
-4. Les anciens officiers supérieurs de l’armée et de la marine;  
-5. Les membres et anciens membres titulaires des tribunaux de commerce ayant été investis d’au moins deux mandats;  
-6. Ceux qui ont exercé, au moins pendant dix ans, les fonctions de ministre d’un des cultes dont les membres jouissent d’un traitement à charge de l’État;  
-7. Les membres titulaires et les anciens membres titulaires d’une des académies royales et les professeurs et anciens professeurs d’un des établissements d’enseignement supérieur dont la loi détermine la liste;  
-8. Les anciens gouverneurs de province ; les membres et anciens membres des députations permanentes ; les anciens commissaires d’arrondissement;  
-9. Les membres et anciens membres de conseils provinciaux ayant été investis d’au moins deux mandats;  
-10. Les bourgmestres et anciens bourgmestres, échevins et anciens échevins de communes chefs-lieux d’arrondissement et de celles ayant plus de 4.000 habitants;  
-11. Les anciens gouverneurs généraux et anciens vice-gouverneurs généraux du Congo belge, les membres et anciens membres du Conseil colonial;  
-12. Les anciens directeurs généraux, les anciens directeurs et les anciens inspecteurs généraux des divers ministères;  
-13. Les propriétaires et usufruitiers de biens immeubles situés en Belgique dont le revenu cadastral s’élève au moins à 12.000 francs ; les contribuables payant annuellement au trésor de l’État au moins 3.000 francs d’impôts directs;  
-14. Ceux qui, en qualité d’administrateur délégué, directeur ou à un titre analogue, ont été placés pendant cinq ans à la tête de la gestion journalière d’une société commerciale belge par actions, dont le capital est libéré à concurrence d’au moins un million de francs;  
-15. Les chefs d’entreprises industrielles occupant, d’une façon permanente, au moins 100 ouvriers et des entreprises agricoles comprenant au moins 50 hectares;  
-16. Ceux qui, en qualité de directeur gérant ou à un titre analogue, ont été placés, pendant trois ans, à la tête de la gestion journalière d’une société coopérative belge comptant, depuis cinq ans, au moins 500 membres;  
-17. Ceux qui, en qualité de membres effectifs, ont exercé, pendant cinq ans, les fonctions de président ou de secrétaire d’une mutualité ou d’une fédération mutualiste comptant, depuis cinq ans, au moins 1.000 membres;  
-18. Ceux qui, en qualité de membres effectifs, ont exercé, pendant cinq ans, les fonctions de président ou de secrétaire d’une association professionnelle, industrielle ou agricole comprenant, depuis cinq ans, au moins 500 membres;  
-19. Ceux qui, pendant cinq ans, ont exercé les fonctions de président d’une chambre de commerce ou d’industrie comprenant, depuis cinq ans, au moins 300 membres;  
-20. Les membres des conseils de l’industrie et du travail, des commissions provinciales d’agriculture, des conseils de prud’hommes, ayant été investis d’au moins deux mandats;  
-21. Les membres élus d’un des conseils consultatifs institués auprès des départements ministériels.
-
-*Disposition transitoire :* Le terme de cinq ans des catégories 14° 17°, 18° et 19° et celui de trois ans de la 16e catégorie sont ramenés à deux ans pour la première application de ces dispositions.
+[abrogé]
 
 
 ***Article 56ter***  
