@@ -105,6 +105,11 @@ Chacun a droit au respect de sa vie privée et familiale, sauf dans les cas et c
 La loi, le décret ou la règle visée à l'article 134 garantissent la protection de ce droit.
 
 
+***Article 22bis***  
+Chaque enfant a droit au respect de son intégrité morale, physique, psychique et sexuelle.  
+La loi, le décret ou la règle visée à l'article 134 garantissent la protection de ce droit.
+
+
 ***Article 23***  
 Chacun a le droit de mener une vie conforme à la dignité humaine.  
 À cette fin, la loi, le décret ou la règle visée à l'article 134 garantissent, en tenant compte des obligations correspondantes, les droits économiques, sociaux et culturels, et déterminent les conditions de leur exercice.  
