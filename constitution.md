@@ -909,7 +909,7 @@ Tout jugement est motivé. Il est prononcé en audience publique.
 
 
 ***Article 150***  
-Le jury est établi en toutes matières criminelles et pour délits politiques et de la presse.
+Le jury est établi en toutes matières criminelles et pour les délits politiques et de presse, à l'exception des délits de presse inspirés par le racisme ou la xénophobie.
 
 
 ***Article 151***  
