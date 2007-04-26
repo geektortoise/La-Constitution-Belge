@@ -33,6 +33,12 @@ Les subdivisions des provinces ne peuvent être établies que par la loi.
 Les limites de l’État, des provinces et des communes ne peuvent être changées ou rectifiées qu’en vertu d’une loi.
 
 
+# Titre Ibis. DES OBJECTIFS DE POLITIQUE GÉNÉRALE DE LA BELGIQUE FÉDÉRALE, DES COMMUNAUTÉS ET DES RÉGIONS
+
+***Article 7bis***  
+Dans l'exercice de leurs compétences respectives, l'État fédéral, les communautés et les régions poursuivent les objectifs d'un développement durable, dans ses dimensions sociale, économique et environnementale, en tenant compte de la solidarité entre les générations.
+
+
 # Titre II. DES BELGES ET DE LEURS DROITS.
 
 ***Article 8***  
