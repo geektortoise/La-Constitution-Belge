@@ -873,7 +873,7 @@ Le Parlement et le Gouvernement de la Communauté germanophone exercent par voie
 L'article 159 est applicable à ces arrêtés et règlements.
 
 
-## Chapitre V. DE LA COUR D'ARBITRAGE, DE LA PRÉVENTION ET DU RÈGLEMENT DE CONFLITS.
+## Chapitre V. DE LA COUR CONSTITUTIONNELLE, DE LA PRÉVENTION ET DU RÈGLEMENT DE CONFLITS.
 
 ### Section I. De la prévention des conflits de compétence.
 
@@ -881,10 +881,10 @@ L'article 159 est applicable à ces arrêtés et règlements.
 La loi organise la procédure tendant à prévenir les conflits entre la loi, le décret et les règles visées à l'article 134, ainsi qu'entre les décrets entre eux et entre les règles visées à l'article 134 entre elles.
 
 
-### Section II. De la Cour d'arbitrage.
+### Section II. De la Cour constitutionnelle.
 
 ***Article 142***  
-Il y a, pour toute la Belgique, une Cour d'arbitrage, dont la composition, la compétence et le fonctionnement sont déterminés par la loi.  
+Il y a, pour toute la Belgique, une Cour constitutionnelle, dont la composition, la compétence et le fonctionnement sont déterminés par la loi.  
 Cette Cour statue par voie d'arrêt sur :
 1. les conflits visés à l'article 141;  
 2. la violation par une loi, un décret ou une règle visée à l'article 134, des articles 10, 11 et 24;  
