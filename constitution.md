@@ -367,7 +367,9 @@ Le chiffre de la population de chaque circonscription électorale est détermin�
 Dans les trois mois de cette publication, le Roi détermine le nombre de sièges attribués à chaque circonscription électorale.  
 La nouvelle répartition est appliquée à partir des élections générales suivantes.
 
-§4. La loi détermine les circonscriptions électorales ; elle détermine également les conditions requises pour être électeur et le déroulement des opérations électorales.
+§4. La loi détermine les circonscriptions électorales ; elle détermine également les conditions requises pour être électeur et le déroulement des opérations électorales.  
+Toutefois, et aux fins de garantir les intérêts légitimes des néerlandophones et des francophones dans l'ancienne province de Brabant, des modalités spéciales sont prévues par la loi.  
+Une modification aux règles fixant ces modalités spéciales ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
 
 ***Article 64***  
@@ -1026,6 +1028,12 @@ Jusqu'à cette date, la disposition suivante reste en vigueur:
 *« Des lois particulières règlent l'organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions.».*
 
 
+***Article 157bis***  
+Les éléments essentiels de la réforme qui concernent l'emploi des langues en matière judiciaire au sein de l'arrondissement judiciaire de Bruxelles, ainsi que les aspects y afférents relatifs au parquet, au siège et au ressort, ne pourront être modifiés que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+*Disposition transitoire :* La loi fixe la date d'entrée en vigueur de cet article. Cette date correspond à la date d'entrée en vigueur de la loi du 19 juillet 2012 portant réforme de l'arrondissement judiciaire de Bruxelles.
+
+
 ***Article 158***  
 La Cour de cassation se prononce sur les conflits d’attributions, d’après le mode réglé par la loi.
 
@@ -1038,7 +1046,10 @@ Les cours et tribunaux n’appliqueront les arrêtés et règlements généraux,
 
 ***Article 160***  
 Il y a pour toute la Belgique un Conseil d'Etat, dont la composition, la compétence et le fonctionnement sont déterminés par la loi. Toutefois, la loi peut attribuer au Roi le pouvoir de régler la procédure conformément aux principes quelle fixe.  
-Le Conseil d'Etat statue par voie d'arrêt en tant que juridiction administrative et donne des avis dans les cas déterminés par la loi.
+Le Conseil d'Etat statue par voie d'arrêt en tant que juridiction administrative et donne des avis dans les cas déterminés par la loi.  
+Une modification des règles sur l'assemblée générale de la section du contentieux administratif du Conseil d'Etat qui entrent en vigueur le même jour que cet alinéa, ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+*Disposition transitoire :* Cet article entre en vigueur le 14 octobre 2012.
 
 
 ***Article 161***  
@@ -1112,6 +1123,11 @@ Le Roi dénonce ces traités si les Gouvernements de communauté et de région c
 
 ***Article 168***  
 Dès l'ouverture des négociations en vue de toute révision des traités instituant les Communautés européennes et des traités et actes qui les ont modifiés ou complétés, les Chambres en sont informées. Elles ont connaissance du projet de traité avant sa signature.
+
+
+***Article 168bis***  
+Pour les élections du Parlement européen, la loi prévoit des modalités spéciales aux fins de garantir les intérêts légitimes des néerlandophones et des francophones dans l'ancienne province de Brabant.  
+Une modification aux règles fixant ces modalités spéciales ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
 
 ***Article 169***  
