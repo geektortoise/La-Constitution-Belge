@@ -20,8 +20,7 @@ Les limites des quatre régions linguistiques ne peuvent être changées ou rect
 
 
 ***Article 5***  
-La Région wallonne comprend les provinces suivantes : le Brabant wallon, le Hainaut, Liège, le Luxembourg et Namur. La Région flamande comprend les provinces suivantes : Anvers, le Brabant flamand, la Flandre occidentale, la Flandre orientale et le Limbourg.
-Il appartient à la loi de diviser ; s'il y a lieu, le territoire en un plus grand nombre de provinces.  
+La Région wallonne comprend les provinces suivantes : le Brabant wallon, le Hainaut, Liège, le Luxembourg et Namur. La Région flamande comprend les provinces suivantes : Anvers, le Brabant flamand, la Flandre occidentale, la Flandre orientale et le Limbourg.  
 Une loi peut soustraire certains territoires dont elle fixe les limites, à la division en provinces, les faire relever directement du pouvoir exécutif fédéral et les soumettre à un statut propre. Cette loi doit être adoptée à la majorité prévue à l’article 4, dernier alinéa.
 
 
@@ -67,8 +66,8 @@ La jouissance des droits et libertés reconnus aux Belges doit être assurée sa
 ***Article 11bis***  
 La loi, le décret ou la règle visée à l'article 134 garantissent aux femmes et aux hommes l'égal exercice de leurs droits et libertés, et favorisent notamment leur égal accès aux mandats électifs et publics.  
 Le Conseil des ministres et les Gouvernements de communauté et de région comptent des personnes de sexe différent.  
-La loi, le décret ou la règle visée à l'article 134 organisent la présence de personnes de sexe différent au sein des députations permanentes des conseils provinciaux, des collèges des bourgmestre et échevins, des conseils de l'aide sociale, des bureaux permanents des centres publics d'aide sociale et dans les exécutifs de tout autre organe territorial interprovincial, intercommunal ou intracommunal.  
-L'alinéa qui précède ne s'applique pas lorsque la loi, le décret ou la règle visée à l'article 134 organisent l'élection directe des députés permanents des conseils provinciaux, des échevins, des membres du conseil de l'aide sociale, des membres du bureau permanent des centres publics d'aide sociale ou des membres des exécutifs de tout autre organe territorial interprovincial, intercommunal ou intracommunal.
+La loi, le décret ou la règle visée à l'article 134 organisent la présence de personnes de sexe différent au sein des députations permanentes des conseils provinciaux, des collèges des bourgmestre et échevins, des conseils de l'aide sociale, des bureaux permanents des centres publics d'aide sociale et dans les exécutifs de tout autre organe territorial interprovincial, supracommunal, intercommunal ou intracommunal.  
+L'alinéa qui précède ne s'applique pas lorsque la loi, le décret ou la règle visée à l'article 134 organisent l'élection directe des députés permanents des conseils provinciaux, des échevins, des membres du conseil de l'aide sociale, des membres du bureau permanent des centres publics d'aide sociale ou des membres des exécutifs de tout autre organe territorial interprovincial, supracommunal, intercommunal ou intracommunal.
 
 
 ***Article 12***  
@@ -139,7 +138,8 @@ Ces droits comprennent notamment :
 2. le droit à la sécurité sociale, à la protection de la santé et à l'aide sociale, médicale et juridique;  
 3. le droit à un logement décent;  
 4. le droit à la protection d'un environnement sain;  
-5. le droit à l'épanouissement culturel et social.
+5. le droit à l'épanouissement culturel et social;  
+6. le droit aux prestations familiales.
 
 
 ***Article 24***  
@@ -228,17 +228,28 @@ Chaque communauté a les attributions qui lui sont reconnues par la Constitution
 La loi attribue aux organes régionaux quelle crée et qui sont composés de mandataires élus, la compétence de régler les matières quelle détermine, à l'exception de celles visées aux articles 30 et 127 à 129, dans le ressort et selon le mode quelle établit. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
 
+***Article 39bis***  
+À l'exclusion des matières relatives aux finances ou au budget ou des matières qui sont réglées à une majorité des deux tiers des suffrages exprimés, les matières exclusivement attribuées aux organes régionaux peuvent faire l'objet d'une consultation populaire dans la région concernée.  
+La règle visée à l'article 134 règle les modalités et l'organisation de la consultation populaire et est adoptée à la majorité des deux tiers des suffrages exprimés, à la condition que la majorité des membres du Parlement concerné se trouve réunie. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, prévoit des conditions de majorité supplémentaires en ce qui concerne le Parlement de la Région de Bruxelles-Capitale.
+
+
+***Article 39ter***  
+La loi, le décret ou la règle visée à l'article 134 qui règle les élections de la Chambre des représentants ou d'un Parlement de communauté ou de région, et qui est promulgué moins d'un an avant la date prévue de la fin de la législature, entre en vigueur au plus tôt un an après sa promulgation.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des premières élections pour le Parlement européen suivant la publication du présent article au Moniteur belge.
+
+
 ***Article 40***  
 Le pouvoir judiciaire est exercé par les cours et tribunaux.  
 Les arrêts et jugements sont exécutés au nom du Roi.
 
 
 ***Article 41***  
-Les intérêts exclusivement communaux ou provinciaux sont réglés par les conseils communaux ou provinciaux, d’après les principes établis par la Constitution.  
-La règle visée à l'article 134 définit les compétences, les règles de fonctionnement et le mode d'élection des organes territoriaux intracommunaux pouvant régler des matières d'intérêt communal.  
+Les intérêts exclusivement communaux ou provinciaux sont réglés par les conseils communaux ou provinciaux, d’après les principes établis par la Constitution. Toutefois, en exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, la règle visée à l'article 134 peut supprimer les institutions provinciales. Dans ce cas, la règle visée à l'article 134 peut les remplacer par des collectivités supracommunales dont les conseils règlent les intérêts exclusivement supracommunaux d'après les principes établis par la Constitution. La règle visée à l'article 134 doit être adoptée à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Parlement concerné se trouve réunie.  
+La règle visé à l’article 134 définit les compétences, les règles de fonctionnement et le mode d’élection des organes territoriaux intracommunaux pouvant régler des matières d’intérêt communal.  
 Ces organes territoriaux intracommunaux sont créés dans les communes de plus de 100.000 habitants à l'initiative de leur conseil communal. Leurs membres sont élus directement. En exécution d'une loi adoptée à la majorité définie à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les autres conditions et le mode suivant lesquels de tels organes territoriaux intracommunaux peuvent être créés.  
 Ce décret et la règle visée à l'article 134 ne peuvent être adoptés qu'à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Parlement concerné se trouve réunie.  
-Les matières d'intérêt communal ou provincial peuvent faire l'objet d'une consultation populaire dans la commune ou la province concernée. La règle visée à l'article 134 règle les modalités et l'organisation de la consultation populaire.
+Les matières d'intérêt communal, supracommunal ou provincial peuvent faire l'objet d'une consultation populaire dans la commune, la collectivité supracommunale ou la province concernée. La règle visée à l'article 134 règle les modalités et l'organisation de la consultation populaire.
 
 
 ## Chapitre I. DES CHAMBRES FÉDÉRALES.
@@ -248,16 +259,24 @@ Les membres des deux Chambres représentent la Nation, et non uniquement ceux qu
 
 
 ***Article 43***  
-§1er. Pour les cas déterminés dans la Constitution, les membres élus de chaque Chambre sont répartis en un groupe linguistique français et un groupe linguistique néerlandais, de la manière fixée par la loi.
+§1er. Pour les cas déterminés dans la Constitution, les membres élus de la Chambre des représentants sont répartis en un groupe linguistique français et un groupe linguistique néerlandais, de la manière fixée par la loi.
 
-§2. Les sénateurs visés à l'article 67, §1er, 2°, 4° et 7°, forment le groupe linguistique français du Sénat. Les sénateurs visés à l'article 67, §1er, 1°, 3° et 6°, forment le groupe linguistique néerlandais du Sénat.
+§2. Pour les cas déterminés dans la Constitution, les sénateurs, à l'exception du sénateur désigné par le Parlement de la Communauté germanophone, sont répartis en un groupe linguistique français et un groupe linguistique néerlandais.  
+Les sénateurs visés à l'article 67, §1er, 2° à 4° et 7°, forment le groupe linguistique français du Sénat. Les sénateurs visés à l'article 67, §1er, 1° et 6°, forment le groupe linguistique néerlandais du Sénat.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014.  
+Jusqu’à ce jour, les dispositions suivantes sont d'application :  
+*« §1er. Pour les cas déterminés dans la Constitution, les membres élus de chaque Chambre sont répartis en un groupe linguistique français et un groupe linguistique néerlandais, de la manière fixée par la loi.  
+§2. Les sénateurs visés à l'article 67, §1er, 2°, 4° et 7°, forment le groupe linguistique français du Sénat. Les sénateurs visés à l'article 67, §1er, 1°, 3° et 6°, forment le groupe linguistique néerlandais du Sénat. »*
 
 
 ***Article 44***  
 Les Chambres se réunissent de plein droit, chaque année, le deuxième mardi d'octobre, à moins qu’elles n’aient été réunies antérieurement par le Roi.  
-Les Chambres doivent rester réunies chaque année au moins quarante jours.  
+Les Chambres doivent rester réunies chaque année au moins quarante jours. Le Sénat est un organe non permanent.  
 Le Roi prononce la clôture de la session.  
 Le Roi a le droit de convoquer extraordinairement les Chambres.
+
+*Disposition transitoire :* La deuxième phrase de l'alinéa 2 entre en vigueur le jour des élections en vue du renouvellement integral des Parlements de communauté et de région en 2014.
 
 
 ***Article 45***  
@@ -270,9 +289,16 @@ Le Roi n'a le droit de dissoudre la Chambre des représentants que si celle-ci, 
 2. soit adopte une motion de méfiance à l'égard du Gouvernement fédéral et ne propose pas simultanément au Roi la nomination d'un successeur au Premier Ministre.
 
 Les motions de confiance et de méfiance ne peuvent être votées qu'après un délai de quarante-huit heures suivant le dépôt de la motion.  
-En outre, le Roi peut, en cas de démission du Gouvernement fédéral, dissoudre la Chambre des représentants après avoir reçu son assentiment exprimé à la majorité absolue de ses membres.
-La dissolution de la Chambre des représentants entraîne la dissolution du Sénat.  
-L'acte de dissolution contient convocation des électeurs dans les quarante jours et des Chambres dans les deux mois.
+En outre, le Roi peut, en cas de démission du Gouvernement fédéral, dissoudre la Chambre des représentants après avoir reçu son assentiment exprimé à la majorité absolue de ses membres.  
+L'acte de dissolution contient la convocation des électeurs dans les quarante jours et de la Chambre des représentants dans les deux mois.  
+En cas de dissolution des deux Chambres, conformément à l'article 195, les Chambres sont convoquées dans les trois mois.  
+En cas de dissolution anticipée, la nouvelle législature fédéraie ne pourra courir au-delà du jour des premières élections pour le Parlement européen suivant cette dissolution.
+
+*Disposition transitoire :* Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, détermine, après les élections pour le Parlement européen de 2014, la date d'entrée en vigueur de l'alinéa 6. Cette date correspond à la date d'entrée en vigueur de l'article 65, alinéa 3, et de l'article 118, §2, alinéa 4.  
+Les alinéas 4 et 5 entrent en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à cette date, les dispositions suivantes sont d'application en lieu et place des alinéas 4 et 5 :  
+*« La dissolution de la Chambre des représentants entraîne la dissolution du Sénat.  
+L'acte de dissolution contient la convocation des électeurs dans les quarante jours et la convocation des Chambres dans les deux mois.  
+La dissolution de la Chambre des représentants qui conduirait aux élections législatives fédérales qui auraient lieu le même jour que les élections pour les Parlements de communauté et de région en 2014, entraîne la dissolution du Sénat. Les électeurs pour la Chambre des représentants sont convoqués dans les quarante jours. Les Chambres sont convoquées dans les trois mois. »*
 
 
 ***Article 47***  
@@ -318,12 +344,19 @@ Les votes sont émis par assis et levé ou par appel nominal ; sur l’ensemble 
 
 
 ***Article 56***  
-Chaque Chambre a le droit d’enquête.
+La Chambre des représentants a le droit d'enquête.  
+Le Sénat peut, à la demande de quinze de ses membres, de la Chambre des représentants, d'un Parlement de communauté ou de région ou du Roi, décider à la majorité absolue des suffrages exprimés, avec au moins un tiers des suffrages exprimés dans chaque groupe linguistique, qu'une question, ayant également des conséquences pour les compétences des communautés ou des régions, fasse l'objet d'un rapport d'information. Le rapport est approuvé à la majorité absolue des suffrages exprimés, avec au moins un tiers des suffrages exprimés dans chaque groupe linguistique.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, la disposition suivante est d'application :  
+*« Chaque Chambre a le droit d'enquête. »*
 
 
 ***Article 57***  
 Il est interdit de présenter en personne des pétitions aux Chambres.  
-Chaque Chambre a le droit de renvoyer aux ministres les pétitions qui lui sont adressées. Les ministres sont tenus de donner des explications sur leur contenu, chaque fois que la Chambre l’exige.
+La Chambre des représentants a le droit de renvoyer aux ministres les pétitions qui lui sont adressées. Les ministres sont tenus de donner des explications sur leur contenu, chaque fois que la Chambre l’exige.
+
+*Disposition transitoire :* L'alinéa 2 entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, la disposition suivante est d application en lieu et place de l'alinéa 2 :  
+*« Chaque Chambre a le droit de renvoyer aux ministres les pétitions qui lui sont adressées. Les ministres sont tenus de donner des explications sur leur contenu, chaque fois que la Chambre l'exige. »*
 
 
 ***Article 58***  
@@ -376,15 +409,21 @@ Une modification aux règles fixant ces modalités spéciales ne peut être appo
 Pour être éligible, il faut:
 1. Être Belge;  
 2. Jouir des droits civils et politiques;  
-3. Être âgé de vingt et un ans accomplis;  
+3. Être âgé de dix-huit ans accomplis;  
 4. Être domicilié en Belgique.
 
 Aucune autre condition d’éligibilité ne peut être requise.
 
+*Disposition transitoire :* L'alinéa 1er, 3°, entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, il faut, sans préjudice de l'article 64, alinéa 1er, 1°, 2°, et 4°, être âgé de vingt et un ans accomplis.
+
 
 ***Article 65***  
-Les membres de la Chambre des représentants sont élus pour quatre ans.  
-La Chambre est renouvelée tous les quatre ans.
+Les membres de la Chambre des représentants sont élus pour cinq ans.  
+La Chambre est renouvelée intégralement tous les cinq ans.  
+Les élections pour la Chambre ont lieu le même jour que les élections pour le Parlement européen.
+
+*Disposition transitoire :* Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, détermine, après les élections pour le Parlement européen de 2014, la date d'entrée en vigueur de l'alinéa 3. Cette date correspond à la date d'entrée en vigueur de l'article 46, alinéa 6, et de l'article 118, §2, alinéa 4.  
+En tout état de cause, des élections législatives fédérales se tiendront le même jour que les premières élections pour le Parlement européen suivant la publication de la présente révision au Moniteur belge.
 
 
 ***Article 66***  
@@ -397,55 +436,97 @@ La Chambre détermine le montant des retenues qui peuvent être faites sur l’i
 ### Section II. Du Sénat.
 
 ***Article 67***  
-§1er. Sans préjudice de l'article 72, le Sénat se compose de septante et un sénateurs, dont :
-1. vingt-cinq sénateurs élus conformément à l'article 61, par le collège électoral néerlandais;
-2. quinze sénateurs élus conformément à l'article 61, par le collège électoral français;
-3. dix sénateurs désignés par le Parlement de la Communauté flamande, dénommé Parlement flamand, en son sein;
-4. dix sénateurs désignés par le Parlement de la Communauté française en son sein;
+§1er. Le Sénat est composé de soixante sénateurs, dont :
+1. vingt-neuf sénateurs désignés par le Parlement flamand en son sein ou au sein du groupe linguistique néerlandais du Parlement de la Région de Bruxelles-Capitale;
+2. dix sénateurs désignés par le Parlement de la Communauté française en son sein;
+3. huit sénateurs désignés par le Parlement de la Région wallonne en son sein;
+4. deux sénateurs désignés par le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale en son sein;
 5. un sénateur désigné par le Parlement de la Communauté germanophone en son sein;
-6. six sénateurs désignés par les sénateurs visés aux 1° et 3°;
-7. quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.  
+6. six sénateurs désignés par les sénateurs visés au 1°;
+7. quatre sénateurs désignés par les sénateurs visés aux 2° à 4°.
 
-Lors du renouvellement intégral de leur Parlement qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3° à 5°, qui ne siègent plus dans leur Parlement, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Parlement.
+§2. Au moins un des sénateurs visés au §1er, 1° est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.  
+Trois des sénateurs visés au §1er, 2°, sont membres du groupe linguistique français du Parlement de la Région de Bruxelles-Capitale. Par dérogation au §1er, 2°, un de ces trois sénateurs ne doit pas être membre du Parlement de la Communauté française.
 
+§3. Le Sénat ne compte pas plus de deux tiers de sénateurs du même genre.
+
+§4. Lorsqu'une liste visée à l'article 68, §2, n'est pas représentée par des sénateurs visés respectivement au §1er, 1°, ou au §1er, 2°, 3° ou 4°, la désignation des sénateurs visés au §1er, 6°, ou au § 1er, 7°, peut se faire par les députés élus sur la liste susmentionnée.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« §1er. Sans préjudice de l'article 72, le Sénat se compose de septante et un sénateurs, dont :  
+1° vingt-cinq sénateurs élus conformément à l'article 61, par le collège électoral néerlandais;  
+2° quinze sénateurs élus conformément à l'article 61, par le collège électoral français;  
+3° dix sénateurs désignés par le Parlement de la Communauté flamande, dénommé Parlement flamand, en son sein;  
+4° dix sénateurs désignés par le Parlement de la Communauté française en son sein;  
+5° un sénateur désigné par le Parlement de la Communauté germanophone en son sein;  
+6° six sénateurs désignés par les sénateurs visés aux 1° et 3°;  
+7° quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.  
+Lors du renouvellement intégral de leur Parlement qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3° à 5°, qui ne siègent plus dans leur Parlement, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Parlement.  
 §2. Au moins un des sénateurs visés au §1er, 1°, 3° et 6°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.  
-Au moins six des sénateurs visés au §1er, 2° 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au §1er, 2° ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au §1er, 4° doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale.
+Au moins six des sénateurs visés au §1er, 2°, 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au §1er, 2°, ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au § 1er, 4°, doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. »*
 
 
 ***Article 68***  
-§1er. Le nombre total des sénateurs visés à l’article 67, §1er, 1°, 2°, 3°, 4°, 6° et 7°, est réparti au sein de chaque groupe linguistique en fonction du chiffre électoral des listes obtenu à l’élection des sénateurs visés à l’article 67, §1er, 1° et 2°, suivant le système de la représentation proportionnelle que la loi détermine.  
-Pour la désignation des sénateurs visés à l'article 67, §1er, 3° et 4°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, §1er, 1° et 2°, est élu et pour autant qu'un nombre suffisant de membres élus sur ces listes siège, selon le cas, au sein du Parlement de la Communauté flamande ou du Parlement de la Communauté française.  
-Pour la désignation des sénateurs visés à l’article 67, § 1er, 6° et 7°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l’article 67, § 1er, 1° et 2°, est élu.
+§1er. Les sièges du Sénat visés à l'article 67, §1er, 1°, sont répartis entre les listes en fonction de l'addition des chiffres électoraux des listes, obtenus dans les différentes circonscriptions électorales aux élections pour le Parlement flamand selon les modalités prévues par la loi et ce, suivant le système de la représentation proportionnelle que la loi détermine.  
+Les listes, dont les chiffres électoraux sont additionnés en vertu de l'alinéa 1er, ne peuvent participer à la répartition des sièges du Sénat visés à l'article 67, §1er, 1°, que si elles ont obtenu au moins un siège au Parlement flamand.  
+Les sièges du Sénat visés à l'article 67, §1er, 2° à 4°, sont répartis entre les listes en fonction de l'addition des chiffres électoraux des listes, obtenus dans les différentes circonscriptions électorales aux élections pour le Parlement de la Région wallonne et des chiffres électoraux des listes pour le groupe linguistique français, obtenus aux élections pour le Parlement de la Région de Bruxelles-Capitale, selon les modalités prévues par la loi et ce, suivant le système de la représentation proportionnelle que la loi détermine.  
+Les listes, dont les chiffres électoraux sont additionnés en vertu de l'alinéa 3, ne peuvent participer à la répartition des sièges du Sénat visés à l'article 67, §1er, 2° à 4°, que si elles ont obtenu au moins un siège respectivement au Parlement de la Communauté française, au Parlement wallon et au groupe linguistique français du Parlement de la Région de Bruxelles-Capitale.  
+La loi règle la désignation des sénateurs visés à l'article 67, §1er, 1 ° à 4 °, à l'exception des modalités désignées par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, qui sont réglées par décret par les Parlements de communauté, chacun en ce qui le concerne. Ce décret doit être adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.  
+Le sénateur visé à l’article 67, § 1er, 5°, est désigné par le Parlement de la Communauté germanophone à la majorité absolue des suffrages exprimés.
 
-§2. Pour l'élection des sénateurs visés à l’article 67, §1er, 1° et 2°, le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions que la loi détermine.
+§2. Les sièges du Sénat visés à l'article 67, §1er, 6° et 7°, sont répartis entre les listes en fonction de l'addition des chiffres électoraux des listes, obtenus aux élections pour la Chambre des représentants, selon les modalités prévues par la loi, suivant le système de la représentation proportionnelle que la loi détermine. Ce système est celui utilisé à l'article 63, §2. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, détermine les circonscriptions territoriales dont les voix sont prises en compte pour la répartition des sièges des sénateurs visés à l'article 67, §1er, 6° et 7°, du groupe linguistique néerlandais, respectivement du groupe linguistique français du Sénat.  
+Une liste ne peut être prise en considération que pour la répartition des sièges d'un seul groupe linguistique.  
+La loi règle la désignation des sénateurs visés à l'article 67, §1er, 6° et 7°.
 
-§3. Pour l'élection des sénateurs visés à l’article 67, §1er, 1° et 2°, la loi détermine les circonscriptions électorales et la composition des collèges électoraux ; elle détermine en outre les conditions auxquelles il faut satisfaire pour pouvoir être électeur, de même que le déroulement des opérations électorales.  
-La loi règle la désignation des sénateurs visés à l’article 67, § 1er, 3° à 5°, à l’exception des modalités désignées par une loi adoptée à la majorité prévue à l’article 4, dernier alinéa, qui sont réglées par décret par les Parlements de communauté, chacun en ce qui le concerne. Ce décret doit être adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.  
-Le sénateur visé à l’article 67, § 1er, 5°, est désigné par le Parlement de la Communauté germanophone à la majorité absolue des suffrages exprimés.  
-La loi règle la désignation des sénateurs visés à l’article 67, § 1er, 6° et 7°.
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014, à l'exception du paragraphe 2, alinéa 1er, dernière phrase. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« §1er. Le nombre total des sénateurs visés à l'article 67, §1er, 1°, 2°, 3°, 4°, 6° et 7°, est réparti au sein de chaque groupe linguistique en fonction du chiffre électoral des listes obtenu à l'élection des sénateurs visés à l'article 67 §1er, 1° et 2°, suivant le système de la représentation proportionnelle que la loi détermine.  
+Pour la désignation des sénateurs visés à l'article 67 § 1er, 3° et 4°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, §1er, 1° et 2°, est élu et pour autant qu'un nombre suffisant de membres élus sur ces listes siège, selon le cas, au sein du Parlement de la Communauté flamande ou du Parlement de la Communauté française.  
+Pour la désignation des sénateurs visés à l'article 67 §1er, 6° et 7°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, §1er, 1° et 2°, est élu.  
+§2. Pour l'élection des sénateurs visés à l'article 67, §1er, 1° et 2°, le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions que la loi détermine.  
+§3. Pour l'élection des sénateurs visés à l'article 67, § 1er, 1° et 2°, la loi détermine les circonscriptions électorales et la composition des collèges électoraux ; elle détermine en outre les conditions auxquelles il faut satisfaire pour pouvoir être électeur, de même que le déroulement des opérations électorales.  
+La loi règle la désignation des sénateurs visés à l'article 67, §1er, 3° à 5°, à l'exception des modalités désignées par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, qui sont réglées par décret par les Parlements de communauté, chacun en ce qui le concerne.
+Ce décret doit être adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.  
+Le sénateur visé à l'article 67, §1er, 5°, est désigné par le Parlement de la Communauté germanophone à la majorité absolue des suffrages exprimés.  
+La loi règle la désignation des sénateurs visés à l'article 67, § 1er, 6° et 7°. »*
 
 
 ***Article 69***  
-Pour être élu ou désigné sénateur, il faut:
+Pour être désigné sénateur, il faut:
 1. Être Belge;  
 2. Jouir des droits civils et politiques;  
-4. Être âgé de vingt et un ans accomplis;  
+4. Être âgé de dix-huit ans accomplis;  
 4. Être domicilié en Belgique.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu à ce jour, les dispositions suivantes sont d'application :  
+*« Pour être élu ou désigné sénateur, il faut :  
+1° être Belge;  
+2° jouir des droits civils et politiques;  
+3° être âgé de vingt-et-un ans accomplis;  
+4° être domicilié en Belgique. »*
 
 
 ***Article 70***  
-Les sénateurs visés à l'article 67, §1er, 1°, 2°, sont élus pour quatre ans. Les sénateurs visés à l'article 67, §1er, 6° et 7°, sont désignés pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.  
-L'élection des sénateurs visés à l'article 67, §1er, 1° et 2°, coïncide avec les élections pour la Chambre des représentants.
+Le mandat des sénateurs visés à l'article 67, §1er, 1° à 5°, débute le jour de leur prestation de serment au Sénat et prend fin, après le renouvellement intégral du Parlement qui les a désignés, le jour de l'ouverture de la première session de celui-ci.  
+Le mandat des sénateurs visés à l'article 67, §1er, 6° et 7°, débute le jour de leur prestation de serment au Sénat et prend fin le jour de l'ouverture de la première session de la Chambre des représentants qui suit son renouvellement intégral.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu à cette date, les dispositions suivantes sont d'application :  
+*« Les sénateurs visés à l'article 67, §1er, 1° et 2°, sont élus pour quatre ans. Les sénateurs visés à l'article 67, §1er, 6° et 7°, sont désignés pour quatre ans.  
+En tout cas, le Sénat sera intégralement renouvelé lors des élections pour les Parlements de communauté et de région en 2014. »*
 
 
 ***Article 71***  
 Les sénateurs ne reçoivent pas de traitement.  
-Ils ont droit, toutefois, à être indemnisés de leurs débours ; cette indemnité est fixée à quatre mille francs par an.  
+Ils ont droit, toutefois, à être indemnisés de leurs débours.  
+L'indemnité des sénateurs visés à l'article 67, §1er, 1° à 4°, est déterminée par le Parlement de communauté ou de région qui les désigne. L'indemnité est à charge de ce Parlement.  
+L'indemnité du sénateur visé à l'article 67, §1er, 5°, correspond à l'indemnité des sénateurs visés à l'article 67, §1er, 3°, et est à charge du Parlement de la Communauté germanophone.  
+L'indemnité des sénateurs visés à l'article 67, §1er, 6° et 7°, est à charge de la dotation du Sénat.  
 À l'intérieur des frontières de l'État, les sénateurs ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par 1es pouvoirs publics.
+
+*Disposition transitoire :* L'insertion des alinéas 3 à 5 du présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les sénateurs ont droit à une indemnité de quatre mille francs par an.
 
 
 ***Article 72***  
-Les enfants du Roi ou, à leur défaut, les descendants belges de la branche de la famille royale appelée à régner, sont de droit sénateurs à l’âge de dix-huit ans. Ils n’ont voix délibérative qu’à l’âge de vingt et un ans. Ils ne sont pas pris en compte pour la détermination du quorum des présences.
+[abrogé]
 
 
 ***Article 73***  
@@ -455,77 +536,106 @@ Toute assemblée du Sénat qui serait tenue hors du temps de la session de la Ch
 ## Chapitre II. DU POUVOIR LÉGISLATIF FÉDÉRAL.
 
 ***Article 74***  
-Par dérogation à l'article 36, le pouvoir législatif fédéral s'exerce collectivement par le Roi et la Chambre des représentants pour :
-1. l'octroi des naturalisations;  
-2. les lois relatives à la responsabilité civile et pénale des ministres du Roi;  
-3. les budgets et les comptes de l'État, sans préjudice de l'article 174, alinéa 1er, deuxième phrase;  
-4. la fixation du contingent de l'armée.
+Par dérogation à l'article 36, le pouvoir législatif fédéral s'exerce collectivement par le Roi et la Chambre des représentants pour les matières autres que celles visées aux articles 77 et 78.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« Par dérogalion à l'article 36, le pouvoir législatif fédéral s'exerce collectivement par le Roi et la Chambre des représentants pour :  
+1° l'octroi des naturalisations;  
+2° les lois relatives à la responsabilité civile et pénale des ministres du Roi;  
+3° les budgets et les comptes de l'État, sans préjudice de l'article 174, alinéa 1er, deuxième phrase;  
+4° la fixation du contingent de l'armée. »*
 
 
 ***Article 75***  
-Le droit d'initiative appartient à chacune des branches du pouvoir législatif fédéral.  
-Sauf pour les matières visées à l'article 77, §1er, les projets de loi soumis aux Chambres à l'initiative du Roi, sont déposés à la Chambre des représentants et transmis ensuite au Sénat.  
-Les projets de loi portant assentiment aux traités soumis aux Chambres à l'initiative du Roi, sont déposés au Sénat et transmis ensuite à la Chambre des représentants.
+Le droit d'initiative appartient à chacune des branches du pouvoir législatif fédéral. Le droit d'initiative du Sénat est cependant limité aux matières visées à l'article 77.  
+Pour les matières visées à l'article 78, les projets de loi soumis aux Chambres à l'initiative du Roi, sont déposés à la Chambre des représentants et transmis ensuite au Sénat.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« Le droit d'initiative appartient à chacune des branches du pouvoir législatif fédéral.  
+Sauf pour les matières visées à l'article 77, les projets de loi soumis aux Chambres à l'initiative du Roi, sont déposés à la Chambre des représentants et transmis ensuite au Sénat.  
+Les projets de loi portant assentiment aux traités soumis aux Chambres à l'initiative du Roi, sont déposés au Sénat et transmis ensuite à la Chambre des représentants. »*
 
 
 ***Article 76***  
 Un projet de loi ne peut être adopté par une Chambre qu’après avoir été voté article par article.  
-Les Chambres ont le droit d’amender et de diviser les articles et amendements proposés.
+Les Chambres ont le droit d’amender et de diviser les articles et amendements proposés.  
+Le règlement de la Chambre des représentants prévoit une procédure de seconde lecture.
+
+*Disposition transitoire :* L'alinéa 3 entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014.
 
 
 ***Article 77***  
 La Chambre des représentants et le Sénat sont compétents sur un pied d'égalité pour :
-1. la déclaration de révision de la Constitution et la révision de la Constitution;  
+1. la déclaration de révision de la Constitution ainsi que la révision et la coordination de la Constitution;  
 2. les matières qui doivent être réglées par les deux Chambres législatives en vertu de la Constitution;  
-3. les lois visées aux articles 5, 39, 43, 50, 68, 71, 77, 82, 115, 117, 118, 121, 123, 127 à 131, 135 à 137, 140 à 143, 145, 146, 163, 165, 166, 167, §1er, alinéa 3, §4 et §5, 169, 170, §2, alinéa 2, §3, alinéas 2 et 3, §4, alinéa 2, et 175 à 177, ainsi que les lois prises en exécution des lois et articles susvisés;  
-4. les lois à adopter à la majorité visée à l'article 4, dernier alinéa, ainsi que les lois prises en exécution de celles-ci;  
-5. les lois visées à l'article 34;  
-6. les lois portant assentiment aux traités;  
-7. les lois adoptées conformément à l'article 169 afin de garantir le respect des obligations internationales ou supranationales;  
-8. les lois relatives au Conseil d Etat;  
-9. l'organisation des cours et tribunaux;  
-10. les lois portant approbation d'accords de coopération conclus entre l'État, les Communautés et les Régions.  
+3. les lois à adopter à la majorité prévue à l'article 4, dernier alinéa ;  
+4. les lois concernant les institutions de la Communauté germanophone et son financement;  
+5. les lois concernant le financement des partis politiques et le contrôle des dépenses électorales;  
+6. les lois concernant l'organisation du Sénat et le statut de sénateur.  
 
-Une loi adoptée à la majorité visée à l'article 4, dernier alinéa, peut désigner d'autres lois pour lesquelles la Chambre des représentants et le Sénat sont compétents sur un pied d'égalité.
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, peut désigner d'autres matières pour lesquelles la Chambre des représentants et le Sénat sont compétents sur un pied d'égalité.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu à ce jour, les dispositions suivantes sont d'application :  
+*« La Chambre des représentants et le Sénat sont compétents sur un pied d'égalité pour :  
+1° la déclaration de révision de la Constitution et la révision de la Constitution;  
+2° les matières qui doivent être réglées par les deux Chambres législatives en vertu de la Constitution;  
+3° les lois visées aux articles 5, 39, 43, 50, 68, 71, 77, 82, 115, 117, 118, 121, 123, 127 à 131, 135 à 137 ; 140 à 143, 145, 146, 163, 165, 166, 167, §1er, alinéa 3, §4 et §5, 169, 170, §2, alinéa 2, §3, alinéas 2 et 3, §4, alinéa 2, et 175 à 177, ainsi que les lois prises en exécution des lois et articles susvisés;  
+4° les lois à adopter à la majorité prévue à l'article 4, dernier alinéa, ainsi que les lois prises en exécution de celles-ci;  
+5° les lois visées à l'article 34;  
+6° les lois portant assentiment aux traités;  
+7° les lois adoptées conformément à l'article 169 afin de garantir le respect des obligations internationales ou supranationales;  
+8° les lois relatives au Conseil d'Etat;  
+9° l'organisation des cours et tribunaux;  
+10° les lois portant approbation d'accords de coopération conclus entre l'État, les communautés et les régions. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, peut désigner d'autres lois pour lesquelles la Chambre des représentants et le Sénat sont compétents sur un pied d'égalité. »*
 
 
 ***Article 78***  
-Dans les matières autres que celles visées aux articles 74 et 77, le projet de loi adopté par la Chambre des représentants est transmis au Sénat.
+§1er. Sous réserve de l'article 77, le projet de loi adopté par la Chambre des représentants est transmis au Sénat dans les matières suivantes :
+1. les lois prises en exécution des lois à adopter à la majorité prévue à l'article 4, dernier alinéa;  
+2. les lois visées aux articles 5, 39, 115, 117, 118, 121, 123, 127 à 129, 131, 135 à 137, 141 à 143, 163, 165, 166, 167, §1er, alinéa 3, 169, 170, §2, alinéa 2, §3, alinéas 2 et 3, et §4, alinéa 2, 175 et 177, ainsi que les lois prises en exécution des lois et articles susvisés, à l'exception de la législation organisant le vote automatisé;  
+3. les lois adoptées conformément à l'article 169 afin de garantir le respect des obligations internationales ou supranationales;  
+4. les lois relatives au Conseil d'État et aux juridictions administratives fédérales.  
 
-À la demande de quinze de ses membres au moins, le Sénat examine le projet de loi. Cette demande est formulée dans les quinze jours de la réception du projet.  
-Le Sénat peut, dans un délai ne pouvant dépasser les soixante jours :
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, peut désigner d'autres matières que le Sénat peut examiner conformément à la procédure visée au présent article.
+
+§2. À la demande de la majorité de ses membres avec au moins un tiers des membres de chaque groupe linguistique, le Sénat examine le projet de loi. Cette demande est formulée dans les quinze jours de la réception du projet de loi.  
+Le Sénat peut, dans un délai ne pouvant dépasser les trente jours :
 * décider qu'il n'y a pas lieu d'amender le projet de loi;
-* adopter le projet après l'avoir amendé.  
+* adopter le projet de loi après l'avoir amendé.  
+
 Si le Sénat n'a pas statué dans le délai imparti ou s'il a fait connaître à la Chambre des représentants sa décision de ne pas amender le projet de loi, celui-ci est transmis au Roi par la Chambre des représentants.  
-Si le projet a été amendé, le Sénat le transmet à la Chambre des représentants, qui se prononce définitivement, soit en adoptant, soit en rejetant en tout ou en partie les amendements adoptés par le Sénat.
+Si le projet a été amendé, le Sénat le transmet à la Chambre des représentants, qui se prononce définitivement, soit en adoptant, soit en amendant le projet de loi.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« Dans les matières autres que celles visées aux articles 74 et 77, le projet de loi adopté par la Chambre des représentants est transmis au Sénat.  
+À la demande de quinze de ses membres au moins, le Sénat examine le projet de loi. Cette demande est formulée dans les quinze jours de la réception du projet. Le Sénat peut, dans un délai ne pouvant dépasser les soixante jours :  
+\- décider qu'il n'y a pas lieu d'amender le projet de loi;  
+\- adopter le projet après l'avoir amendé.  
+Si le Sénat n'a pas statué dans le délai imparti ou s'il a fait connaître à la Chambre des représentants sa décision de ne pas amender le projet de loi, celui-ci est transmis au Roi par la Chambre des représentants.  
+Si le projet a été amendé, le Sénat le transmet à la Chambre des représentants, qui se prononce définitivement, soit en adoptant, soit en rejetant en tout ou en partie les amendements adoptés par le Sénat. »*
 
 
 ***Article 79***  
-Si, à l'occasion de l'examen visé à l'article 78, dernier alinéa, la Chambre des représentants adopte un nouvel amendement, le projet de loi est renvoyé au Sénat qui se prononce sur le projet amendé. Le Sénat peut, dans un délai ne pouvant dépasser les quinze jours :
-* décider de se rallier au projet amendé par la Chambre des représentants;  
-* adopter le projet après l'avoir à nouveau amendé.  
-Si le Sénat n'a pas statué dans le délai imparti ou a fait connaître à la Chambre des représentants sa décision de se rallier au projet voté par la Chambre, celle-ci le transmet au Roi.  
-Si le projet a été à nouveau amendé, le Sénat le transmet à la Chambre des représentants qui se prononce définitivement, soit en adoptant, soit en amendant le projet de loi.
+[abrogé]
 
 
 ***Article 80***  
-Si, lors du dépôt d'un projet de loi visé à l'article 78, le Gouvernement fédéral demande l'urgence, la commission parlementaire de concertation visée à l'article 82 détermine les délais dans lesquels le Sénat aura à se prononcer.  
-À défaut d'accord au sein de la commission, le délai d'évocation du Sénat est ramené à sept jours et le délai d'examen visé à l'article 78, alinéa 3, à trente jours.
+[abrogé]
 
 
 ***Article 81***  
-Si le Sénat, en vertu de son droit d'initiative, adopte une proposition de loi dans les matières visées à l'article 78, le projet de loi est transmis à la Chambre des représentants.  
-Dans un délai ne pouvant dépasser les soixante jours, la Chambre se prononce définitivement, soit en rejetant, soit en adoptant le projet de loi.  
-Si la Chambre amende le projet de loi, celui-ci est renvoyé au Sénat qui délibère selon les règles prévues à l'article 79.  
-En cas d'application de l'article 79, alinéa 3, la Chambre statue définitivement dans les quinze jours.  
-À défaut pour la Chambre de décider dans les délais prescrits aux alinéas 2 et 4, la commission parlementaire de concertation visée à l'article 82 se réunit dans les quinze jours et fixe le délai dans lequel la Chambre aura à se prononcer.  
-En cas de désaccord au sein de la commission, la Chambre doit se prononcer dans les soixante jours.
+[abrogé]
 
 
 ***Article 82***  
-Une commission parlementaire de concertation composée paritairement de membres de la Chambre des représentants et du Sénat règle les conflits de compétence survenant entre les deux Chambres et peut, d'un commun accord, allonger à tout moment les délais d'examen prévus aux articles 78 et 81.  
+Une commission parlementaire de concertation composée paritairement de membres de la Chambre des représentants et du Sénat règle les conflits de compétence survenant entre les deux Chambres et peut, d'un commun accord, allonger à tout moment le délai d'examen prévu à l'article 78.  
 À défaut de majorité dans les deux composantes de la commission, celle-ci statue à la majorité des deux tiers de ses membres.  
-Une loi détermine la composition et le fonctionnement de la commission ainsi que le mode de calcul des délais énoncés dans les articles 78 à 81.
+Une loi détermine la composition et le fonctionnement de la commission ainsi que le mode de calcul des délais énoncés dans l'article 78.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« Une commission parlementaire de concertation composée paritairement de membres de la Chambre des représentants et du Sénat règle les conflits de compétence survenant entre les deux Chambres et peut, d un commun accord, allonger à tout moment les délais d'examen prévus aux articles 78 à 81.  
+À défaut de majorité dans les deux composantes de la commission, celle-ci statue à la majorité des deux tiers de ses membres.  
+Une loi détermine la composition et le fonctionnement de la commission ainsi que le mode de calcul des délais énoncés dans les articles 78 à 81. »*
 
 
 ***Article 83***  
@@ -614,7 +724,10 @@ Le Premier Ministre éventuellement excepté, le Conseil des Ministres compte au
 
 ***Article 100***  
 Les ministres ont leur entrée dans chacune des Chambres et doivent être entendus quand ils le demandent.  
-La Chambre des représentants peut requérir la présence des ministres. Le Sénat peut requérir leur présence pour la discussion d'un projet ou d'une proposition de loi visés à l'article 77 ou d'un projet de loi visé à l'article 78 ou pour l'exercice de son droit d'enquête visé à l'article 56. Pour les autres matières, il peut demander leur présence.
+La Chambre des représentants peut requérir la présence des ministres. Le Sénat peut requérir leur présence dans le cadre des matières visées aux articles 77 ou 78. Pour les autres matières, il peut demander leur présence.
+
+*Disposition transitoire :* La deuxième phrase de l'alinéa 2 entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, sans préjudice de l'alinéa 1er et de la première et la dernière phrase de l'alinéa 2, la disposition suivante est d'application :  
+*« Le Sénat peut requérir leur présence pour la discussion d'un projet ou d'une proposition de loi visés à l'article 77 ou d'un projet de loi visé à l'article 78 ou pour l'exercice de son droit d'enquête visé à l'article 56. »*
 
 
 ***Article 101***  
@@ -713,14 +826,20 @@ Sauf en cas d'application de l'article 137, chaque Parlement de région est comp
 
 ***Article 117***  
 Les membres des Parlements de communauté et de région sont élus pour une période de cinq ans. Les Parlements de communauté et de région sont intégralement renouvelés tous les cinq ans.  
-À moins qu'une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, n'en dispose autrement, les élections pour les Parlements de communauté et de région ont lieu le même jour et coïncident avec les élections pour le Parlement européen.
+Les élections pour les Parlements de communauté et de région ont lieu le même jour et coïncident avec les élections pour le Parlement européen.  
+En exécution d'une loi visée à l'article 118, §2, alinéa 4, un décret ou une règle visée à l'article 134, adopté conformément à l'article 118, §2, alinéa 4 peut déroger aux alinéas 1er et 2.
 
 
 ***Article 118***  
 §1er. La loi règle les élections visées à l'article 116, §2, ainsi que la composition et le fonctionnement des Parlements de communauté et de région. Sauf pour ce qui concerne le Parlement de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
-§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Parlement de la Communauté française, du Parlement de la Région wallonne et du Parlement de la Communauté flamande, qui sont réglées par ces Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas.
-Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
+§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Parlement de la Région de Bruxelles-Capitale, du Parlement de la Communauté française, du Parlement de la Région wallonne et du Parlement de la Communauté flamande, qui sont réglées par ces Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas.
+Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.  
+La loi visée à l'alinéa 1er prévoit des conditions de majorité supplémentaires en ce qui concerne le Parlement de la Région de Bruxelles-Capitale.  
+Une loi désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Parlement de la Communauté germanophone qui sont réglées par ce Parlement par décret. Ce décret est adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement soit présente.  
+La loi visée à l'alinéa 1er ou à l'alinéa 3, selon le cas, peut confier aux Parlements de communauté et de région la compétence de régler la durée de leur législature ainsi que la date de l'élection de leur Parlement, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés aux majorités prévues aux alinéas 1er à 3.
+
+*Disposition transitoire :* Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, détermine, après les élections pour le Parlement européen de 2014, la date d'entrée en vigueur du paragraphe 2, alinéa 4. Cette date correspond à la date d'entrée en vigueur de l'article 46, alinéa 6, et de l'article 65, alinéa 3.
 
 
 ***Article 118bis***  
@@ -728,7 +847,10 @@ Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité
 
 
 ***Article 119***  
-Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, §1er, 1°, 2°, 6° et 7°.
+Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, §1er, 6° et 7°.
+
+*Disposition transitoire :* Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :  
+*« Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, §1er, 1°, 2°, 6° et 7° »*
 
 
 ***Article 120***  
@@ -751,7 +873,9 @@ Les membres de chaque Gouvernement de communauté ou de région sont élus par l
 ***Article 123***  
 §1er. La loi règle la composition et le fonctionnement des Gouvernements de communauté et de région. Sauf pour ce qui concerne le Gouvernement de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
 
-§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les matières relatives à la composition et au fonctionnement du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne et du Gouvernement de la Communauté flamande, qui sont réglées par leurs Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
+§2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les matières relatives à la composition et au fonctionnement du gouvernement de la Région de Bruxelles-Capitale, du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne et du Gouvernement de la Communauté flamande, qui sont réglées par leurs Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.  
+La loi visée à l'alinéa 1er prévoit des conditions de majorité supplémentaires en ce qui concerne le Parlement de la Région de Bruxelles-Capitale.  
+Une loi désigne les matières relatives à la composition et au fonctionnement du gouvernement de la Communauté germanophone qui sont réglées par son Parlement par décret. Ce décret est adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement soit présente.
 
 
 ***Article 124***  
@@ -853,6 +977,11 @@ Elles peuvent conférer à ces organes le pouvoir de prendre des décrets ayant 
 Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les autorités qui, pour la région bilingue de Bruxelles-Capitale, exercent les compétences non dévolues aux communautés dans les matières visées à l'article 128, §1er.
 
 
+***Article 135bis***  
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, peut attribuer, pour la région bilingue de Bruxelles-Capitale, à la Région de Bruxelles-Capitale, des
+compétences non dévolues aux communautés dans les matières visées à l'article 127 §1er, alinéa 1er, 1°, et, pour ce qui concerne ces matières, le 3°.
+
+
 ***Article 136***  
 Il y a des groupes linguistiques au Parlement de la Région de Bruxelles-Capitale, et des Collèges, compétents pour les matières communautaires ; leur composition, fonctionnement, compétences et, sans préjudice de l'article 175, leur financement, sont réglés par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.  
 Les Collèges forment ensemble le Collège réuni, qui fait fonction d'organe de concertation et de coordination entre les deux communautés.
@@ -896,7 +1025,9 @@ Cette Cour statue par voie d'arrêt sur :
 3. la violation par une loi, un décret ou une règle visée à l'article 134, des articles de la Constitution que la loi détermine.  
 
 La Cour peut être saisie par toute autorité que la loi désigne, par toute personne justifiant d'un intérêt ou, à titre préjudiciel, par toute juridiction.  
-Les lois visées à l'alinéa premier, à l'alinéa 2, 3° et à l'alinéa 3, sont adoptées à la majorité prévue à l'article 4, dernier alinéa.
+La Cour statue par voie de décision sur chaque consultation populaire visée à l'article 39bis, préalablement à son organisation, dans les conditions et selon les modalités fixées par la loi.  
+La loi peut, dans les cas et selon les conditions et les modalités qu'elle détermine, attribuer à la Cour la compétence de statuer, par voie d'arrêt, sur les recours formés contre les décisions des assemblées législatives ou de leurs organes, en matière de contrôle des dépenses électorales engagées pour les élections pour la Chambre des représentants.  
+Les lois visées à l'alinéa 1er, à l'alinéa 2, 3° et aux alinéas 3 à 5, sont adoptées à la majorité prévue à l'article 4, dernier alinéa.
 
 
 ### Section III. De la prévention et du règlement des conflits d'intérêts.
@@ -908,13 +1039,16 @@ Les lois visées à l'alinéa premier, à l'alinéa 2, 3° et à l'alinéa 3, so
 
 §3. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, organise la procédure tendant à prévenir et à régler les conflits d'intérêts entre le Gouvernement fédéral, les Gouvernements de communauté et de région et le Collège réuni de la Commission communautaire commune.
 
+§4. Les procédures visées aux §§2 et 3 ne sont pas applicables aux lois, arrêtés, règlements, actes et décisions de l'État fédéral relatifs à la base imposable, aux tarifs d'imposition, aux exonérations ou à tout autre élément intervenant dans le calcul de l'impôt des personnes physiques.
+
 *Disposition transitoire :* Pour ce qui concerne la prévention et le règlement des conflits d'intérêts, la loi ordinaire du 9 août 1980 de réformes institutionnelles reste d'application ; elle ne peut toutefois être abrogée, complétée, modifiée ou remplacée que par les lois visées aux §§2 et 3.
 
 
 ## Chapitre VI. DU POUVOIR JUDICIAIRE.
 
 ***Article 144***  
-Les contestations qui ont pour objet des droits civils sont exclusivement du ressort des tribunaux.
+Les contestations qui ont pour objet des droits civils sont exclusivement du ressort des tribunaux.  
+Toutefois, la loi peut, selon les modalités qu'elle détermine, habiliter le Conseil d'Etat ou les juridictions administratives fédérales à statuer sur les effets civils de leurs décisions.
 
 
 ***Article 145***  
@@ -944,7 +1078,9 @@ Le jury est établi en toutes matières criminelles et pour les délits politiqu
 
 
 ***Article 151***  
-§1er. Les juges sont indépendants dans l'exercice de leurs compétences juridictionnelles. Le ministère public est indépendant dans l'exercice des recherches et poursuites individuelles, sans préjudice du droit du ministre compétent d'ordonner des poursuites et d'arrêter des directives contraignantes de politique criminelle, y compris en matière de politique de recherche et de poursuite.
+§1er. Les juges sont indépendants dans l'exercice de leurs compétences juridictionnelles. Le ministère public est indépendant dans l'exercice des recherches et poursuites individuelles, sans préjudice du droit du ministre compétent d'ordonner des poursuites et d'arrêter des directives contraignantes de politique criminelle, y compris en matière de politique de recherche et de poursuite.  
+Par la voie du ministre visé à l'alinéa 1er, les gouvernements de communauté et de région disposent, en outre, chacun en ce qui le concerne du droit d'ordonner des poursuites dans les matières qui relèvent de leurs compétences. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, fixe les modalités d'exercice de ce droit.  
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, prévoit la participation des communautés et des régions, dans les matières qui relèvent de leurs compétences, à l'élaboration des directives visées à l'alinéa 1er et à la planification de la politique de sécurité, ainsi que la participation, pour ce qui concerne ces mêmes matières, de leurs représentants aux réunions du Collège des procureurs généraux.
 
 §2. Il y a pour toute la Belgique un Conseil supérieur de la Justice. Dans l'exercice de ses compétences, le Conseil supérieur de la Justice respecte l'indépendance visée au §1er.  
 Le Conseil supérieur de la Justice se compose d'un collège francophone et d'un collège néerlandophone. Chaque collège comprend un nombre égal de membres et est composé paritairement, d'une part, de juges et d'officiers du ministère public élus directement par leurs pairs dans les conditions et selon le mode déterminés par la loi, et d'autre part, d'autres membres nommés par le Sénat à la majorité des deux tiers des suffrages exprimés, dans les conditions fixées par la loi.  
@@ -1068,8 +1204,8 @@ La loi consacre l’application des principes suivants:
 5. la publicité des budgets et des comptes;  
 6. l’intervention de l'autorité de tutelle ou du pouvoir législatif fédéral, pour empêcher que la loi ne soit violée ou l’intérêt général blessé.  
 
-En exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Parlements de communauté ou de région.  
-En exécution d'une loi adoptée à la majorité déterminée à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les conditions et le mode suivant lesquels plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun.
+Les collectivités supracommunales sont réglées par la règle visée à l'article 134. Cette règle consacre l'application des principes visés à l'alinéa 2. La règle visée à l'article 134 peut fixer d'autres principes qu'elle considère comme essentiels, en recourant ou non à la majorité des deux tiers des suffrages émis à la condition que la majorité des membres du Parlement concerné se trouve réunie. Les articles 159 et 190 s'appliquent aux arrêtés et règlements des collectivités supracommunales.  
+En exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les conditions et le mode suivant lesquels plusieurs provinces, plusieurs collectivités supracommunales ou plusieurs communes peuvent s'entendre ou s'associer. Toutefois, il ne peut être permis à plusieurs conseils provinciaux, à plusieurs conseils de collectivités supracommunales ou à plusieurs conseils communaux de délibérer en commun.
 
 
 ***Article 163***  
@@ -1111,7 +1247,7 @@ Les limites des agglomérations et des fédérations de communes ne peuvent êtr
 Le Roi commande les forces armées, et constate l'état de guerre ainsi que la fin des hostilités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'État le permettent, en y joignant les communications convenables.  
 Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu qu'en vertu d'une loi.
 
-§2. Le Roi conclut les traités, à l'exception de ceux qui portent sur les matières visées au §3. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment des Chambres.
+§2. Le Roi conclut les traités, à l'exception de ceux qui portent sur les matières visées au §3. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment de la Chambre des représentants.
 
 §3. Les Gouvernements de communauté et de région visés à l'article 121 concluent, chacun pour ce qui le concerne, les traités portant sur les matières qui relèvent de la compétence de leur Parlement. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment du Parlement.
 
@@ -1119,6 +1255,8 @@ Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu 
 
 §5. Le Roi peut dénoncer les traités conclus avant le 18 mai 1993 et portant sur les matières visées au §3, d'un commun accord avec les Gouvernements de communauté et de région concernés.  
 Le Roi dénonce ces traités si les Gouvernements de communauté et de région concernés l'y invitent. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, règle la procédure en cas de désaccord entre les Gouvernements de communauté et de région concernés.
+
+*Disposition transitoire :* La deuxième phrase du §2 entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les traités visés au §2 n'ont d'effet qu'après avoir reçu l'assentiment des deux Chambres.
 
 
 ***Article 168***  
@@ -1142,7 +1280,7 @@ Afin de garantir le respect des obligations internationales ou supranationales, 
 §2. Aucun impôt au profit de la communauté ou de la région ne peut être établi que par un décret ou une règle visée à l'article 134.  
 La loi détermine, relativement aux impositions visées à l'alinéa 1er, les exceptions dont la nécessité est démontrée.
 
-§3. Aucune charge, aucune imposition ne peut être établie par la province que par une décision de son conseil.  
+§3. Aucune charge, aucune imposition ne peut être établie par la province ou la collectivité supracommunale que par une décision de son conseil.  
 La loi détermine, relativement aux impositions visées à l'alinéa 1er, les exceptions dont la nécessité est démontrée.  
 La loi peut supprimer en tout ou en partie les impositions visées à l'alinéa 1er.
 
@@ -1195,7 +1333,9 @@ Aucune pension, aucune gratification à la charge du trésor public, ne peut êt
 ***Article 180***  
 Les membres de la Cour des comptes sont nommés par la Chambre des représentants et pour le terme fixé par la loi.  
 Cette Cour est chargée de l’examen et de la liquidation des comptes de l’administration générale et de tous les comptables envers le trésor public. Elle veille à ce qu’aucun article des dépenses du budget ne soit dépassé et qu’aucun transfert n’ait lieu. La Cour exerce également un contrôle général sur les opérations relatives à l'établissement et au recouvrement des droits acquis par l'Etat, y compris les recettes fiscales. Elle arrête les comptes des différentes administrations de l’État et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l’État est soumis à la Chambre des représentants avec les observations de la Cour des comptes.  
-Cette Cour est organisée par la loi.
+Cette Cour est organisée par la loi.  
+La loi peut confier à la Cour des Comptes le contrôle des budgets et de la comptabilité des communautés et des régions, ainsi que des organismes d'intérêt public qui en dépendent. Elle peut également permettre que le décret ou la règle visée à l'article 134 règlent ce contrôle. Sauf pour ce qui concerne la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.  
+Des missions supplémentaires peuvent être confiées à la Cour par la loi, le décret ou la règle visée à l'article 134. Sur avis conforme de la Cour, le décret ou la règle visée à l'article 134 détermine la rémunération de la Cour pour l'exercice de ces missions. Aucune rémunération n'est due pour une mission qui est exercée par la Cour pour une communauté ou une région avant la date d'entrée en vigueur du présent alinéa.
 
 
 ***Article 181***  
