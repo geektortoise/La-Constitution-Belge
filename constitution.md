@@ -73,7 +73,7 @@ L'alinéa qui précède ne s'applique pas lorsque la loi, le décret ou la règl
 ***Article 12***  
 La liberté individuelle est garantie.  
 Nul ne peut être poursuivi que dans les cas prévus par la loi et dans la forme qu’elle prescrit.  
-Hors le cas de flagrant délit, nul ne peut être arrêté qu’en vertu de l’ordonnance motivée du juge, qui doit être signifiée au moment de l’arrestation, ou au plus tard dans les vingt-quatre heures.
+Hors le cas de flagrant délit, nul ne peut être arrêté qu’en vertu d'une ordonnance motivée du juge qui doit être signifiée au plus tard dans les quarante-huit heures de la privation de liberté et ne peut emporter qu'une mise en détention préventive.
 
 
 ***Article 13***  
