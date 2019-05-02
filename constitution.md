@@ -1070,7 +1070,7 @@ En matière de délits politiques et de presse, le huis-clos ne peut être prono
 
 
 ***Article 149***  
-Tout jugement est motivé. Il est prononcé en audience publique.
+Tout jugement est motivé. Il est rendu public selon les modalités fixées par la loi. En matière pénale, son dispositif est prononcé en audience publique.
 
 
 ***Article 150***  
