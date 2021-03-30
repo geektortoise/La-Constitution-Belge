@@ -130,6 +130,11 @@ Dans toute décision qui le concerne, l'intérêt de l'enfant est pris en consid
 La loi, le décret ou la règle visée à l'article 134 garantissent ces droits de l'enfant.
 
 
+***Article 22ter***  
+Chaque personne en situation de handicap a le droit à une pleine inclusion dans la société, y compris le droit à des aménagements raisonnables.  
+La loi, le décret ou la règle visée à l'article 134 garantissent la protection de ce droit.
+
+
 ***Article 23***  
 Chacun a le droit de mener une vie conforme à la dignité humaine.  
 À cette fin, la loi, le décret ou la règle visée à l'article 134 garantissent, en tenant compte des obligations correspondantes, les droits économiques, sociaux et culturels, et déterminent les conditions de leur exercice.  
