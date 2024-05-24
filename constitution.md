@@ -35,7 +35,8 @@ Les limites de l’État, des provinces et des communes ne peuvent être changé
 # Titre Ibis. DES OBJECTIFS DE POLITIQUE GÉNÉRALE DE LA BELGIQUE FÉDÉRALE, DES COMMUNAUTÉS ET DES RÉGIONS
 
 ***Article 7bis***  
-Dans l'exercice de leurs compétences respectives, l'État fédéral, les communautés et les régions poursuivent les objectifs d'un développement durable, dans ses dimensions sociale, économique et environnementale, en tenant compte de la solidarité entre les générations.
+Dans l'exercice de leurs compétences respectives, l'État fédéral, les communautés et les régions poursuivent les objectifs d'un développement durable, dans ses dimensions sociale, économique et environnementale, en tenant compte de la solidarité entre les générations.  
+Dans l'exercice de leurs compétences respectives, l'Etat fédéral, les communautés et les régions veillent à la protection et au bien-être des animaux en tant qu'êtres sensibles.
 
 
 # Titre II. DES BELGES ET DE LEURS DROITS.
