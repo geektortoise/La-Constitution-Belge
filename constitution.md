@@ -1119,7 +1119,7 @@ Dans le cas de désignation à la fonction de premier président de la Cour de c
 Le président et les présidents de section de la Cour de cassation, les présidents de chambre des cours et les vice-présidents des tribunaux sont désignés à ces fonctions par les cours et tribunaux en leur sein, dans les conditions et selon le mode déterminés par la loi.  
 Sans préjudice des dispositions de l'article 152, la loi détermine la durée des désignations à ces fonctions.
 
-§6. Selon le mode déterminé par la loi, les juges, les titulaires des fonctions visées au §5, alinéa 4, et les officiers du ministère public sont soumis à une évaluation.
+§6. Selon le mode déterminé par la loi, les juges, les titulaires des fonctions visées au paragraphe 5 et les officiers du ministère public sont soumis à une évaluation.
 
 *Disposition transitoire :* Les dispositions des §§3 à 6 entrent en vigueur après l'installation du Conseil supérieur de la Justice, visée au §2.  
 À cette date, le premier président, le président et les présidents de section de la Cour de cassation, les premiers présidents et les présidents de chambre des cours et les présidents et vice-présidents des tribunaux sont réputés être désignés à ces fonctions pour la durée et dans les conditions déterminées par la loi et être nommés en même temps respectivement à la Cour de cassation, à la cour d'appel ou à la cour du travail et au tribunal correspondant.  
